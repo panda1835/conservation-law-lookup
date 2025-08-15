@@ -1,0 +1,4621 @@
+[
+    {
+        "scientific_name": {
+            "value": "Taiwania cryptomerioides",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bách đài loan",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cunninghamia konishii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sa mộc dầu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Glyptostrobus pensilis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Thông nước",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Xanthocyparis vietnamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bách vàng việt",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cupressus tonkinensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng đàn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Keteleeria davidiana",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Du sam đá vôi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Taxus wallichiana",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Thông đỏ nam",
+            "note": "Thông đỏ lá dài, Thanh tùng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Abies delavayi subsp. fansipanensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vân sam phan si păng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Shorea falcata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Chai lá cong",
+            "note": "Sao lá cong"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Hopea pierrei",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Kiền kiền phú quốc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Hopea cordata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sao hình tim",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Hopea reticulata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sao mạng cà ná",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Berberidaceae",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Họ Hoàng liên gai",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Berberis sargentiana",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên gai lá dài",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Berberis kawakamii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên gai lá mốc",
+            "note": "Hoàng liên gai, Hoàng liên ba gai, Tiểu nghiệt bá"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Berberis julianae",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên gai lá nhỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Coptis quinquesecta",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên chân gà",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Coptis chinensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên bắc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panax bipinnatifidus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sâm vũ diệp",
+            "note": "Vũ diệp tam thất"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panax stipuleanatus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tam thất hoang",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panax vietnamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sâm ngọc linh tự nhiên",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum callosum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài chai",
+            "note": "Lan vân hài"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum malipoense",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài xanh",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum tranlienianum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài chân tím",
+            "note": "Lan hài trần liên"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum emersonii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài trân châu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum hangianum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài hằng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum delenatii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài đỏ",
+            "note": "Lan hài hồng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum gratrixianum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài tam đảo",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Paphiopedilum helenae",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Lan hài thăng heng",
+            "note": "Lan hài hêlen"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Galeopterus variegatus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Chồn bay",
+            "note": "Cầy bay"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nycticebus bengalensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cu li lớn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nycticebus pygmaeus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cu li nhỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus germaini",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc bạc đông dương",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus margarita",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc bạc trường sơn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus poliocephalus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc cát bà",
+            "note": "Voọc đen đầu vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus hatinhensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc đen hà tĩnh",
+            "note": "Voọc gáy trắng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus francoisi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc đen má trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus delacouri",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc mông trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pygathrix nigripes",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc chà vá chân đen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pygathrix nemaeus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc chà vá chân đỏ",
+            "note": "Voọc chà vá chân nâu"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pygathrix cinerea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc chà vá chân xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus hatinhensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc đen hà tĩnh",
+            "note": "Voọc gáy trắng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus francoisi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc đen má trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus delacouri",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc mông trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rhinopithecus avunculus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc mũi hếch",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus crepusculus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus gabriellae",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen má hung",
+            "note": "Vượn đen má vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus leucogenys",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen má trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus nasutus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen tuyền đông bắc",
+            "note": "Vượn cao vít"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus concolor",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen tuyền tây bắc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus annamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn má vàng trung bộ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus siki",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn siki",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuon alpinus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sói đỏ",
+            "note": "Chó sói lửa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Helarctos malayanus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gấu chó",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ursus thibetanus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gấu ngựa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lutra sumatrana",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá lông mũi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lutrogale perspicillata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá lông mượt",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lutra lutra",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá thường",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Aonyx cinereus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá vuốt bé",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Viverra megaspila",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cầy giông đốm lớn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Chrotogale owstoni",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cầy vằn bắc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Prionodon pardicolor",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cầy gấm",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Arctictis binturong",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cầy mực",
+            "note": "Cầy đen"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Neofelis nebulosa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Báo gấm",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panthera pardus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Báo hoa mai",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Catopuma temminckii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Báo lửa",
+            "note": "Beo lửa, Beo vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panthera tigris",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hổ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Prionailurus viverrinus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mèo cá",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pardofelis marmorata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mèo gấm",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Elephas maximus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rhinoceros sondaicus annamiticus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tê giác một sừng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Axis porcinus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hươu vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Moschus berezovskii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hươu xạ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Muntiacus vuquangensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mang lớn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Muntiacus trươngsonensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mang trường sơn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rucervus eldii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Nai cà tong",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bos javanicus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò rừng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bos gaurus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò tót",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bos sauveli",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pseudoryx nghetinhensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sao la",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Capricornis milneedwardsii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sơn dương",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Manis javanica",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tê tê java",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Manis pentadactyla",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tê tê vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nesolagus timminsi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Thỏ vằn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sousa chinensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cá heo trắng trung hoa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Dugong dugon",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò biển",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pelecanus philippensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bồ nông chân xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Anhinga melanogaster",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cổ rắn",
+            "note": "Điêng điểng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Egretta eulophotes",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cò trắng trung quốc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Gorsachius magnificus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vạc hoa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Platalea minor",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cò mỏ thìa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pseudibis davisoni",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Quắm cánh xanh",
+            "note": "Cò quắm cánh xanh"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pseudibis gigantea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Quắm lớn",
+            "note": "Cò quắm lớn"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Leptoptilos javanicus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Già đẫy nhỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ciconia episcopus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hạc cổ trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Asarcornis scutulata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Ngan cánh trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pavo muticus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Công",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Arborophila davidi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà so cổ hung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lophura edwardsi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà lôi lam mào trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Tragopan temminckii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà lôi tía",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Polyplectron germaini",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà tiền mặt đỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Polyplectron bicalcaratum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà tiền mặt vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rheinardia ocellata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Trĩ sao",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Grus antigone",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sếu đầu đỏ",
+            "note": "Sếu cổ trụi"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Houbaropsis bengalensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Ô tác",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Calidris pygmaea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rẽ mỏ thìa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Tringa guttifer",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Choắt mỏ vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Anorrhinus austeni",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Niệc nâu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Aceros nipalensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Niệc cổ hung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rhyticeros undulatus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Niệc mỏ vằn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Buceros bicornis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hồng hoàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trochalopteron ngoclinhense",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Khướu ngọc linh",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ophiophagus hannah",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rắn hổ chúa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cnemaspis psychedelica",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tắc kè đuôi vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Shinisaurus crocodilurus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Thằn lằn cá sấu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Caretta caretta",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa biển đầu to",
+            "note": "Quản đông"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Chelonia mydas",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vích",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Eretmochelys imbricata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Đồi mồi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lepidochelys olivacea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Đồi mồi dứa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Dermochelys coriacea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa da",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Platysternon megacephalum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa đầu to",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuora cyclornata",
+            "note": "Cuora trifasciata"
+        },
+        "common_name": {
+            "value": "Rùa hộp ba vạch",
+            "note": "Rùa vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuora galbinifrons",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa hộp trán vàng miền bắc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuora bourreti",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa hộp trán vàng miền trung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuora pidurata.",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa hộp trán vàng miền nam",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Mauremys annamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa trung bộ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rafetus swinhoei",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giải sin-hoe",
+            "note": "Giải thượng hải"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pelochelys cantorii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giải khổng lồ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Chiêm đá Quảng Ninh",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Dự nghểu Hòa Bình",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Lúa Chăm biển",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Hom mùa Hải Phòng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Tẻ tép",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Cút",
+            "note": "Chiêm cút"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Chiêm cườm",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Nếp hạt mây",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Chiêm bầu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Zea mays",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Tẻ trắng hà chua cay",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Colocasia esculenta",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Mắc phứa hom",
+            "note": "Khoai môn ruột vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Arachis hypogaea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Lạc trắng Vân Kiều",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Glycine max",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Đậu tương hạt đen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Vigna umbellata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Đậu nho nhe đen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Dimocarpus longan",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gióng Nhãn hạt trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn ỉ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn ba xuyên",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn hung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn mường lay",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Numida meleagris",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống gà sao vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cairina moschata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống ngan sen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "",
+                    "en": ""
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    }
+]

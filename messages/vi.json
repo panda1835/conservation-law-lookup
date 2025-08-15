@@ -1,0 +1,82 @@
+{
+  "header": {
+    "title": "Nền tảng Tra cứu Tình trạng Pháp lý Động vật Hoang dã Việt Nam",
+    "subtitle": "So sánh tình trạng bảo vệ pháp lý qua nhiều văn bản luật bảo tồn của Việt Nam"
+  },
+  "controls": {
+    "searchAndFilter": "Tìm kiếm & Bộ lọc",
+    "searchDescription": "Chọn văn bản pháp luật để so sánh và tìm kiếm loài cụ thể",
+    "legalDocuments": "Văn bản Pháp luật",
+    "searchSpecies": "Tìm kiếm Loài",
+    "searchPlaceholder": "Tìm theo tên khoa học, tên thường, lớp, bộ, hoặc họ...",
+    "taxonomicDetails": "Chi tiết Phân loại",
+    "show": "Hiển thị",
+    "kingdom": "Giới",
+    "phylum": "Ngành",
+    "class": "Lớp",
+    "order": "Bộ",
+    "family": "Họ"
+  },
+  "results": {
+    "showing": "Hiển thị",
+    "species": "loài",
+    "matching": "phù hợp với",
+    "from": "từ",
+    "selectedDocuments": "văn bản pháp luật được chọn"
+  },
+  "table": {
+    "title": "Bảng So sánh Tình trạng Pháp lý của Loài",
+    "description": "Dữ liệu từ {count} văn bản pháp luật được chọn",
+    "image": "Hình ảnh",
+    "scientificName": "Tên Khoa học",
+    "commonName": "Tên Thường",
+    "kingdomLatin": "Giới (Latin)",
+    "kingdomVietnamese": "Giới (Tiếng Việt)",
+    "phylumLatin": "Ngành (Latin)",
+    "phylumVietnamese": "Ngành (Tiếng Việt)",
+    "classLatin": "Lớp (Latin)",
+    "classVietnamese": "Lớp (Tiếng Việt)",
+    "orderLatin": "Bộ (Latin)",
+    "orderVietnamese": "Bộ (Tiếng Việt)",
+    "familyLatin": "Họ (Latin)",
+    "familyVietnamese": "Họ (Tiếng Việt)",
+    "status": "Tình trạng",
+    "multipleDocuments": "Có trong nhiều văn bản",
+    "multipleDocumentsTooltip": "Loài này có mặt trong nhiều văn bản pháp luật"
+  },
+  "legend": {
+    "title": "Chú thích",
+    "protectionLevels": "Mức độ Bảo vệ:",
+    "protectionIA": "Cấm khai thác, sử dụng vì mục đích thương mại",
+    "protectionIIA": "Hạn chế khai thác, sử dụng vì mục đích thương mại",
+    "protectionIIB": "Hạn chế khai thác, sử dụng vì mục đích thương mại (mức độ thấp hơn)",
+    "protectionX": "Có trong danh sách bảo vệ",
+    "classIcons": "Biểu tượng Lớp:",
+    "mammals": "Lớp Thú",
+    "birds": "Lớp Chim",
+    "reptiles": "Lớp Bò sát",
+    "fish": "Lớp Cá",
+    "plants": "Thực vật",
+    "other": "Khác",
+    "specialSymbols": "Ký hiệu Đặc biệt:",
+    "sharedSpecies": "Loài có mặt trong nhiều văn bản pháp luật",
+    "noRegulation": "Không có quy định trong văn bản này"
+  },
+  "empty": {
+    "selectDocument": "Vui lòng chọn ít nhất một văn bản pháp luật để xem dữ liệu loài."
+  },
+  "legalDocuments": {
+    "title": "Các Văn bản Pháp luật Tham khảo",
+    "description": "Danh sách các văn bản pháp luật được sử dụng trong nền tảng này",
+    "note": "⚠️ Lưu ý: Nền tảng này chỉ mang tính chất tham khảo. Vui lòng tham khảo văn bản pháp luật chính thức để có thông tin chính xác.",
+    "openOfficialDocument": "Mở văn bản chính thức"
+  },
+  "lawCategories": {
+    "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+    "Loài thực vật rừng, động vật rừng nguy cấp, quý, hiếm": "Loài thực vật rừng, động vật rừng nguy cấp, quý, hiếm",
+    "Danh mục I": "Danh mục I",
+    "Danh mục II": "Danh mục II",
+    "Phụ lục I": "Phụ lục I",
+    "Phụ lục II": "Phụ lục II"
+  }
+}

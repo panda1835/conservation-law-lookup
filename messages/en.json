@@ -1,0 +1,82 @@
+{
+  "header": {
+    "title": "Vietnamese Wildlife Legal Status Reference Platform",
+    "subtitle": "Compare legal protection status across multiple Vietnamese conservation laws"
+  },
+  "controls": {
+    "searchAndFilter": "Search & Filter",
+    "searchDescription": "Select legal documents to compare and search for specific species",
+    "legalDocuments": "Legal Documents",
+    "searchSpecies": "Search Species",
+    "searchPlaceholder": "Search by scientific name, common name, class, order, or family...",
+    "taxonomicDetails": "Taxonomic Details",
+    "show": "Show",
+    "kingdom": "Kingdom",
+    "phylum": "Phylum",
+    "class": "Class",
+    "order": "Order",
+    "family": "Family"
+  },
+  "results": {
+    "showing": "Showing",
+    "species": "species",
+    "matching": "matching",
+    "from": "from",
+    "selectedDocuments": "selected legal documents"
+  },
+  "table": {
+    "title": "Species Legal Status Comparison Table",
+    "description": "Data from {count} selected legal documents",
+    "image": "Photo",
+    "scientificName": "Scientific Name",
+    "commonName": "Common Name",
+    "kingdomLatin": "Kingdom (Latin)",
+    "kingdomVietnamese": "Kingdom (Vietnamese)",
+    "phylumLatin": "Phylum (Latin)",
+    "phylumVietnamese": "Phylum (Vietnamese)",
+    "classLatin": "Class (Latin)",
+    "classVietnamese": "Class (Vietnamese)",
+    "orderLatin": "Order (Latin)",
+    "orderVietnamese": "Order (Vietnamese)",
+    "familyLatin": "Family (Latin)",
+    "familyVietnamese": "Family (Vietnamese)",
+    "status": "Status",
+    "multipleDocuments": "In multiple documents",
+    "multipleDocumentsTooltip": "This species appears in multiple legal documents"
+  },
+  "legend": {
+    "title": "Legend",
+    "protectionLevels": "Protection Levels:",
+    "protectionIA": "Prohibited from commercial exploitation",
+    "protectionIIA": "Restricted commercial exploitation",
+    "protectionIIB": "Restricted commercial exploitation (lower level)",
+    "protectionX": "Listed for protection",
+    "classIcons": "Class Icons:",
+    "mammals": "Mammals",
+    "birds": "Birds",
+    "reptiles": "Reptiles",
+    "fish": "Fish",
+    "plants": "Plants",
+    "other": "Other",
+    "specialSymbols": "Special Symbols:",
+    "sharedSpecies": "Species present in multiple legal documents",
+    "noRegulation": "No regulation in this document"
+  },
+  "empty": {
+    "selectDocument": "Please select at least one legal document to view species data."
+  },
+  "legalDocuments": {
+    "title": "Reference Legal Documents",
+    "description": "List of legal documents used in this platform",
+    "note": "⚠️ Note: This platform is for reference purposes only. Please consult official legal documents for authoritative information.",
+    "openOfficialDocument": "Open official document"
+  },
+  "lawCategories": {
+    "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ": "Endangered, precious, and rare species prioritized for protection",
+    "Loài thực vật rừng, động vật rừng nguy cấp, quý, hiếm": "Endangered, precious, and rare forest plants and animals",
+    "Danh mục I": "Category I",
+    "Danh mục II": "Category II",
+    "Phụ lục I": "Appendix I",
+    "Phụ lục II": "Appendix II"
+  }
+}

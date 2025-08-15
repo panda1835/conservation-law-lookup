@@ -1,8 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nền tảng Tra cứu Tình trạng Pháp lý Động vật Hoang dã Việt Nam
 
-## Getting Started
+Nền tảng web toàn diện để so sánh tình trạng bảo vệ pháp lý của các loài động vật hoang dã qua nhiều văn bản luật và quy định bảo tồn của Việt Nam.
 
-First, run the development server:
+## 🌟 Tính năng
+
+- **So sánh nhiều văn bản**: So sánh tình trạng loài qua các văn bản pháp luật chính của Việt Nam
+- **Tìm kiếm nâng cao**: Tìm kiếm theo tên khoa học, tên thường, hoặc phân loại học
+- **Hỗ trợ song ngữ**: Có sẵn bằng tiếng Việt và tiếng Anh
+- **Thiết kế responsive**: Hoạt động mượt mà trên máy tính để bàn và thiết bị di động
+
+## 🚀 Bắt đầu
+
+### Yêu cầu
+
+- Node.js 18+
+- npm hoặc yarn
+
+### Cài đặt
+
+1. Sao chép repository:
+
+```bash
+git clone <repository-url>
+cd <repo-folder>
+```
+
+2. Cài đặt dependencies:
+
+```bash
+npm install
+```
+
+3. Chạy development server:
+
+```bash
+npm run dev
+# hoặc
+yarn dev
+```
+
+4. Mở [http://localhost:3000](http://localhost:3000) trong trình duyệt để xem kết quả.
+
+## 🛠 Công nghệ Sử dụng
+
+- **Framework**: Next.js 15 với App Router
+- **Styling**: Tailwind CSS
+- **UI Components**: shadcn/ui
+- **Language**: TypeScript
+- **Internationalization**: next-intl
+
+---
+
+# Vietnamese Wildlife Legal Status Reference Platform
+
+A comprehensive web platform for comparing the legal protection status of wildlife species across multiple Vietnamese conservation laws and regulations.
+
+## 🌟 Features
+
+- **Multi-Document Comparison**: Compare species status across 5 major Vietnamese legal documents
+- **Advanced Search**: Search by scientific name, common name, or taxonomic classifications
+- **Bilingual Support**: Available in Vietnamese and English
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+cd <repo-folder>
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
 
 ```bash
 npm run dev
@@ -14,23 +96,18 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Building for Production
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+## 🛠️ Technology Stack
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: shadcn/ui
