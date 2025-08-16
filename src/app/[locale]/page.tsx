@@ -88,7 +88,7 @@ const DocumentSelector = ({
             htmlFor={doc.id}
             className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
           >
-            {doc.name[locale as "vi" | "en"]} ({doc.data.length}{" "}
+            {doc.name[locale as "vi" | "en"].split(":")[0]} ({doc.data.length}{" "}
             {t("results.species")})
           </Label>
         </div>

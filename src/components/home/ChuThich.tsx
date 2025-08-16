@@ -30,7 +30,15 @@ export default function ChuThich() {
             >
               <div className="flex items-center justify-between mb-2">
                 <h4 className="font-semibold text-sm">
-                  {doc.shortName[locale]}
+                  <a
+                    href={doc.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className=" hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-200 hover:underline"
+                    title={t("legalDocuments.openOfficialDocument")}
+                  >
+                    {doc.shortName[locale]}
+                  </a>
                 </h4>
                 <a
                   href={doc.url}

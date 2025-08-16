@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Tra cứu pháp luật bảo vệ động vật hoang dã",
   description:
-    "Tra cứu và so sánh các loài trong các văn bản pháp luật về bảo vệ động vật hoang dã tại Việt Nam.",
+    "Tra cứu mức độ bảo vệ của các loài trong các văn bản pháp luật tại Việt Nam.",
 };
 
 export default async function LocaleLayout({

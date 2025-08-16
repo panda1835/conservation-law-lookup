@@ -14,7 +14,7 @@ export const Header = () => {
           <h1 className="text-3xl font-bold tracking-tight">
             {t("header.title")}
           </h1>
-          <p className="text-xl text-muted-foreground">
+          <p className="text-xl text-muted-foreground mt-4">
             {t("header.subtitle")}
           </p>
         </div>
