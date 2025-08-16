@@ -2698,6 +2698,37 @@
     },
     {
         "scientific_name": {
+            "value": "Pelecanus philippensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bồ nông chân xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỎ NÔNG",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Nhóm",
+                    "en": "Group"
+                },
+                "value": "IB",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
             "value": "Platalea minor",
             "note": ""
         },
@@ -2711,8 +2742,8 @@
         "phylum_vi": "NGÀNH MỘC LAN",
         "class_latin": "AVES",
         "class_vi": "LỚP CHIM",
-        "order_latin": "Pelecanus philippensis",
-        "order_vi": "Bồ nông chân xám",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỎ NÔNG",
         "family_latin": "",
         "family_vi": "",
         "note": "",
@@ -2742,8 +2773,8 @@
         "phylum_vi": "NGÀNH MỘC LAN",
         "class_latin": "AVES",
         "class_vi": "LỚP CHIM",
-        "order_latin": "Pelecanus philippensis",
-        "order_vi": "Bồ nông chân xám",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỎ NÔNG",
         "family_latin": "",
         "family_vi": "",
         "note": "",
@@ -2773,8 +2804,8 @@
         "phylum_vi": "NGÀNH MỘC LAN",
         "class_latin": "AVES",
         "class_vi": "LỚP CHIM",
-        "order_latin": "Pelecanus philippensis",
-        "order_vi": "Bồ nông chân xám",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỎ NÔNG",
         "family_latin": "",
         "family_vi": "",
         "note": "",
@@ -2804,8 +2835,8 @@
         "phylum_vi": "NGÀNH MỘC LAN",
         "class_latin": "AVES",
         "class_vi": "LỚP CHIM",
-        "order_latin": "Pelecanus philippensis",
-        "order_vi": "Bồ nông chân xám",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỎ NÔNG",
         "family_latin": "",
         "family_vi": "",
         "note": "",
@@ -4620,7 +4651,7 @@
     },
     {
         "scientific_name": {
-            "value": "Panax vietnamensis var.\r\nLangbianensis",
+            "value": "Panax vietnamensis var.\nLangbianensis",
             "note": ""
         },
         "common_name": {

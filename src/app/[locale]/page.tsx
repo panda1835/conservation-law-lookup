@@ -364,7 +364,9 @@ export default function Home() {
     return combinedData.filter(
       (species) =>
         species.scientific_name.value.toLowerCase().includes(searchLower) ||
+        species.scientific_name.note.toLowerCase().includes(searchLower) ||
         species.common_name.value.toLowerCase().includes(searchLower) ||
+        species.common_name.note.toLowerCase().includes(searchLower) ||
         species.class_vi.toLowerCase().includes(searchLower) ||
         species.order_vi.toLowerCase().includes(searchLower) ||
         species.family_vi.toLowerCase().includes(searchLower)
@@ -422,7 +424,7 @@ export default function Home() {
             <Card>
               <CardHeader>
                 <CardTitle>{t("table.title")}</CardTitle>
-                <CardDescription>
+                <CardDescription className="mt-2">
                   <p className="text">
                     {t("results.showing")}{" "}
                     <span className="font-bold">{filteredData.length}</span>{" "}

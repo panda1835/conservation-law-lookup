@@ -126,7 +126,7 @@ export function SpeciesImageThumbnail({
           </div>
 
           <div className="rounded-lg absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6">
-            <h3 className="text-white font-semibold text-lg mb-2">
+            <h3 className="text-white font-semibold text-lg italic mb-2">
               {speciesName}
             </h3>
             {currentImage.attribute && (

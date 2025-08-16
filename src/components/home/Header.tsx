@@ -6,7 +6,7 @@ export const Header = () => {
 
   return (
     <div className="">
-      <div className="ml-4 flex justify-end">
+      <div className="ml-4 flex justify-end mb-4">
         <LanguageSwitcher currentLocale={locale} />
       </div>
       <div className="flex justify-center items-center mb-6 w-full">
