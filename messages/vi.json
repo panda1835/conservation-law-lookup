@@ -42,7 +42,9 @@
     "familyVietnamese": "Họ (Tiếng Việt)",
     "status": "Tình trạng",
     "multipleDocuments": "Có trong nhiều văn bản",
-    "multipleDocumentsTooltip": "Loài này có mặt trong nhiều văn bản pháp luật"
+    "multipleDocumentsTooltip": "Loài này có mặt trong nhiều văn bản pháp luật",
+    "exportCSV": "Xuất CSV",
+    "exportSuccess": "Dữ liệu đã được xuất thành công!"
   },
   "legend": {
     "title": "Chú thích",

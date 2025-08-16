@@ -21,11 +21,13 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Header } from "@/components/home/Header";
 import { Footer } from "@/components/home/Footer";
 import { SpeciesImageThumbnail } from "@/components/home/SpeciesImageThumbnail";
 import ChuThich from "@/components/home/ChuThich";
+import { Download } from "lucide-react";
 import imagesData from "@/lib/images.json";
 import {
   LEGAL_DOCUMENTS,
@@ -381,6 +383,144 @@ export default function Home() {
     }
   };
 
+  // CSV Export function
+  const exportToCSV = () => {
+    if (filteredData.length === 0) return;
+
+    // Create CSV headers
+    const headers = [t("table.scientificName"), t("table.commonName")];
+
+    // Add taxonomic headers if enabled
+    if (showTaxonomicDetails.kingdom) {
+      headers.push(t("table.kingdomLatin"), t("table.kingdomVietnamese"));
+    }
+    if (showTaxonomicDetails.phylum) {
+      headers.push(t("table.phylumLatin"), t("table.phylumVietnamese"));
+    }
+    if (showTaxonomicDetails.class) {
+      headers.push(t("table.classLatin"), t("table.classVietnamese"));
+    }
+    if (showTaxonomicDetails.order) {
+      headers.push(t("table.orderLatin"), t("table.orderVietnamese"));
+    }
+    if (showTaxonomicDetails.family) {
+      headers.push(t("table.familyLatin"), t("table.familyVietnamese"));
+    }
+
+    // Add legal document headers
+    selectedDocuments.forEach((docId) => {
+      const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
+      if (doc) {
+        const categories = documentLawCategories[docId] || [];
+        if (categories.length === 0) {
+          headers.push(doc.shortName[locale as "vi" | "en"]);
+        } else {
+          categories.forEach((category) => {
+            headers.push(
+              `"${doc.shortName[locale as "vi" | "en"]} - ${category}"`
+            );
+          });
+        }
+      }
+    });
+
+    // Create CSV rows
+    const csvRows = [headers.join(",")];
+
+    filteredData.forEach((species) => {
+      const row = [
+        `"${species.scientific_name.value}${
+          species.scientific_name.note
+            ? ` (${species.scientific_name.note})`
+            : ""
+        }"`,
+        `"${species.common_name.value}${
+          species.common_name.note ? ` (${species.common_name.note})` : ""
+        }"`,
+      ];
+
+      // Add taxonomic data
+      if (showTaxonomicDetails.kingdom) {
+        row.push(
+          `"${species.kingdom_latin || ""}"`,
+          `"${species.kingdom_vi || ""}"`
+        );
+      }
+      if (showTaxonomicDetails.phylum) {
+        row.push(
+          `"${species.phylum_latin || ""}"`,
+          `"${species.phylum_vi || ""}"`
+        );
+      }
+      if (showTaxonomicDetails.class) {
+        row.push(`"${species.class_latin}"`, `"${species.class_vi}"`);
+      }
+      if (showTaxonomicDetails.order) {
+        row.push(`"${species.order_latin}"`, `"${species.order_vi}"`);
+      }
+      if (showTaxonomicDetails.family) {
+        row.push(`"${species.family_latin}"`, `"${species.family_vi}"`);
+      }
+
+      // Add legal status data
+      selectedDocuments.forEach((docId) => {
+        const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
+        if (doc) {
+          const categories = documentLawCategories[docId] || [];
+          const shouldShowData =
+            species.isSharedSpecies || species.documentId === docId;
+
+          if (categories.length === 0) {
+            let status = "";
+            let note = "";
+            if (shouldShowData && species.laws.length > 0) {
+              status = species.laws[0]?.value || "";
+              note = species.laws[0]?.note || "";
+            }
+            row.push(`"${status}${note ? ` (${note})` : ""}"`);
+          } else {
+            categories.forEach((category) => {
+              let status = "";
+              let note = "";
+              if (shouldShowData) {
+                const relevantLaw = species.laws.find((law) => {
+                  const lawName =
+                    typeof law.name === "string"
+                      ? law.name
+                      : law.name[locale as "vi" | "en"];
+                  return lawName === category;
+                });
+                status = relevantLaw?.value || "";
+                note = relevantLaw?.note || "";
+              }
+              row.push(`"${status}${note ? ` (${note})` : ""}"`);
+            });
+          }
+        }
+      });
+
+      csvRows.push(row.join(","));
+    });
+
+    // Create and download CSV file
+    const csvContent = csvRows.join("\n");
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const link = document.createElement("a");
+
+    if (link.download !== undefined) {
+      const url = URL.createObjectURL(blob);
+      link.setAttribute("href", url);
+      link.setAttribute(
+        "download",
+        `species-legal-status-${new Date().toISOString().split("T")[0]}.csv`
+      );
+      link.style.visibility = "hidden";
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  };
+
   return (
     <div className="min-h-screen flex flex-col">
       <main className="flex-1">
@@ -423,21 +563,36 @@ export default function Home() {
           {selectedDocuments.length > 0 && (
             <Card>
               <CardHeader>
-                <CardTitle>{t("table.title")}</CardTitle>
-                <CardDescription className="mt-2">
-                  <p className="text">
-                    {t("results.showing")}{" "}
-                    <span className="font-bold">{filteredData.length}</span>{" "}
-                    {t("results.species")}
-                    {searchTerm && (
-                      <span>
-                        {" "}
-                        {t("results.matching")} &ldquo;
-                        <span className="italic">{searchTerm}</span>&rdquo;
-                      </span>
-                    )}
-                  </p>
-                </CardDescription>
+                <div className="flex justify-between items-start">
+                  <div className="flex-1">
+                    <CardTitle>{t("table.title")}</CardTitle>
+                    <CardDescription className="mt-2">
+                      <p className="text">
+                        {t("results.showing")}{" "}
+                        <span className="font-bold">{filteredData.length}</span>{" "}
+                        {t("results.species")}
+                        {searchTerm && (
+                          <span>
+                            {" "}
+                            {t("results.matching")} &ldquo;
+                            <span className="italic">{searchTerm}</span>&rdquo;
+                          </span>
+                        )}
+                      </p>
+                    </CardDescription>
+                  </div>
+                  <Button
+                    onClick={exportToCSV}
+                    disabled={filteredData.length === 0}
+                    className="ml-4 shrink-0 hidden md:block w-fit"
+                    variant="default"
+                  >
+                    <div className="flex items-center">
+                      <Download className="w-4 h-4 mr-3" />
+                      {t("table.exportCSV")}
+                    </div>
+                  </Button>
+                </div>
               </CardHeader>
               <CardContent>
                 <div className="w-full overflow-x-auto overflow-y-auto max-h-[600px] border rounded-md">
