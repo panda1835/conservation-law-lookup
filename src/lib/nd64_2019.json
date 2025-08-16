@@ -373,37 +373,6 @@
     },
     {
         "scientific_name": {
-            "value": "Berberidaceae",
-            "note": ""
-        },
-        "common_name": {
-            "value": "Họ Hoàng liên gai",
-            "note": ""
-        },
-        "kingdom_latin": "",
-        "kingdom_vi": "",
-        "phylum_latin": "",
-        "phylum_vi": "",
-        "class_latin": "DICOTYLEDON",
-        "class_vi": "LỚP HAI LÁ MẦM",
-        "order_latin": "",
-        "order_vi": "",
-        "family_latin": "Dipterocarpaceae",
-        "family_vi": "Họ Dầu",
-        "note": "",
-        "laws": [
-            {
-                "name": {
-                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-                    "en": "Endangered, precious, rare species prioritized for protection"
-                },
-                "value": "X",
-                "note": ""
-            }
-        ]
-    },
-    {
-        "scientific_name": {
             "value": "Berberis sargentiana",
             "note": ""
         },
@@ -419,8 +388,8 @@
         "class_vi": "LỚP HAI LÁ MẦM",
         "order_latin": "",
         "order_vi": "",
-        "family_latin": "Dipterocarpaceae",
-        "family_vi": "Họ Dầu",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
         "note": "",
         "laws": [
             {
@@ -450,8 +419,8 @@
         "class_vi": "LỚP HAI LÁ MẦM",
         "order_latin": "",
         "order_vi": "",
-        "family_latin": "Dipterocarpaceae",
-        "family_vi": "Họ Dầu",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
         "note": "",
         "laws": [
             {
@@ -481,8 +450,8 @@
         "class_vi": "LỚP HAI LÁ MẦM",
         "order_latin": "",
         "order_vi": "",
-        "family_latin": "Dipterocarpaceae",
-        "family_vi": "Họ Dầu",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
         "note": "",
         "laws": [
             {
