@@ -71,7 +71,7 @@
   "legalDocuments": {
     "title": "Reference Legal Documents",
     "description": "List of legal documents used in this platform",
-    "note": "⚠️ Note: This platform is for reference purposes only. Please consult official legal documents for authoritative information.",
+    "note": "⚠️ Note: Information on this site is for reference purposes only. Please consult official legal documents for authoritative information.",
     "openOfficialDocument": "Open official document"
   },
   "lawCategories": {

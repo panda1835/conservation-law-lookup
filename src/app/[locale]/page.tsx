@@ -31,6 +31,7 @@ export default function Home() {
   const { filteredData, documentLawCategories } = useSpeciesData({
     selectedDocuments,
     searchTerm,
+    locale,
   });
 
   // Use custom hook for CSV export

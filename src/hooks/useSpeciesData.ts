@@ -12,11 +12,13 @@ import type { ExtendedSpecies } from "@/types/species";
 interface UseSpeciesDataProps {
   selectedDocuments: string[];
   searchTerm: string;
+  locale: string;
 }
 
 export const useSpeciesData = ({
   selectedDocuments,
   searchTerm,
+  locale,
 }: UseSpeciesDataProps) => {
   // Create combined data from all selected documents with proper merging
   const combinedData = useMemo(() => {
@@ -175,7 +177,9 @@ export const useSpeciesData = ({
         doc.data.forEach((species) => {
           species.laws.forEach((law) => {
             const lawName =
-              typeof law.name === "string" ? law.name : law.name.vi;
+              typeof law.name === "string"
+                ? law.name
+                : law.name[locale as "vi" | "en"];
             categories.add(lawName);
           });
         });
@@ -183,7 +187,7 @@ export const useSpeciesData = ({
       }
     });
     return docCategories;
-  }, [selectedDocuments]);
+  }, [selectedDocuments, locale]);
 
   // Filter data based on search term
   const filteredData = useMemo(() => {

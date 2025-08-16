@@ -71,7 +71,7 @@
   "legalDocuments": {
     "title": "Các Văn bản Pháp luật Tham khảo",
     "description": "Danh sách các văn bản pháp luật được sử dụng trong nền tảng này",
-    "note": "⚠️ Lưu ý: Nền tảng này chỉ mang tính chất tham khảo. Vui lòng tham khảo văn bản pháp luật chính thức để có thông tin chính xác.",
+    "note": "⚠️ Lưu ý: Thông tin trên trang này chỉ mang tính chất tham khảo. Vui lòng tham khảo văn bản pháp luật chính thức để có thông tin chính xác.",
     "openOfficialDocument": "Mở văn bản chính thức"
   },
   "lawCategories": {
