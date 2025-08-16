@@ -34,7 +34,7 @@ export default function ChuThich() {
                     href={doc.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className=" hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-200 hover:underline"
+                    className="text-blue-600  hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-200 hover:underline"
                     title={t("legalDocuments.openOfficialDocument")}
                   >
                     {doc.shortName[locale]}

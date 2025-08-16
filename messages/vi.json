@@ -44,7 +44,8 @@
     "multipleDocuments": "Có trong nhiều văn bản",
     "multipleDocumentsTooltip": "Loài này có mặt trong nhiều văn bản pháp luật",
     "exportCSV": "Xuất CSV",
-    "exportSuccess": "Dữ liệu đã được xuất thành công!"
+    "exportSuccess": "Dữ liệu đã được xuất thành công!",
+    "exportFileName": "danh-sach-loai"
   },
   "legend": {
     "title": "Chú thích",

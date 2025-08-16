@@ -44,7 +44,8 @@
     "multipleDocuments": "In multiple documents",
     "multipleDocumentsTooltip": "This species appears in multiple legal documents",
     "exportCSV": "Export to CSV",
-    "exportSuccess": "Data exported successfully!"
+    "exportSuccess": "Data exported successfully!",
+    "exportFileName": "species-legal-status"
   },
   "legend": {
     "title": "Legend",
