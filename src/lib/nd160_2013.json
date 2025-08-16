@@ -1,3753 +1,3753 @@
 [
-  {
-    "scientific_name": {
-      "value": "Taiwania cryptomerioides",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bách đài loan",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Cupressaceae",
-    "family_vi": "Họ Hoàng đàn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cunninghamia konishii",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sa mộc dầu",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Cupressaceae",
-    "family_vi": "Họ Hoàng đàn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Glyptostrobus pensilis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Thông nước",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Cupressaceae",
-    "family_vi": "Họ Hoàng đàn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Xanthocyparis vietnamensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bách vàng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Cupressaceae",
-    "family_vi": "Họ Hoàng đàn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cupressus tonkinensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hoàng đàn",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Cupressaceae",
-    "family_vi": "Họ Hoàng đàn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Keteleeria davidiana",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Du sam đá vôi",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Pinaceae",
-    "family_vi": "Họ Thông",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Abies delavayi fansipanensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vân sam phan si păng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "PINOPHYTA",
-    "phylum_vi": "NGÀNH THÔNG",
-    "class_latin": "PINOPSIDA",
-    "class_vi": "LỚP THÔNG",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Pinaceae",
-    "family_vi": "Họ Thông",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Shorea falcata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Chai lá cong",
-      "note": "Sao lá cong"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Dipterocarpaceae",
-    "family_vi": "Họ Dầu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Hopea pierrei",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Kiền kiền phú quốc",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Dipterocarpaceae",
-    "family_vi": "Họ Dầu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Hopea cordata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sao hình tim",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Dipterocarpaceae",
-    "family_vi": "Họ Dầu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Hopea reticulata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sao mạng cà ná",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Dipterocarpaceae",
-    "family_vi": "Họ Dầu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Berberis spp.",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hoàng liên gai",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Berberidaceae",
-    "family_vi": "Họ Hoàng liên gai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Ranunculaceae",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Họ Mao lương",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Berberidaceae",
-    "family_vi": "Họ Hoàng liên gai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Coptis quinquesecta",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hoàng liên chân gà",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Berberidaceae",
-    "family_vi": "Họ Hoàng liên gai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Coptis chinensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hoàng liên trung quốc",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Berberidaceae",
-    "family_vi": "Họ Hoàng liên gai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Panax bipinnatifidus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sâm vũ diệp",
-      "note": "Vũ diệp tam thất"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Araliaceae",
-    "family_vi": "Họ Ngũ gia bì",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Panax stipuleanatus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Tam thất hoang",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Araliaceae",
-    "family_vi": "Họ Ngũ gia bì",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Panax vietnamensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sâm ngọc linh",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "MAGNOLIOPHYTA",
-    "phylum_vi": "NGÀNH MỘC LAN",
-    "class_latin": "MAGNOLIOPSIDA",
-    "class_vi": "LỚP MỘC LAN",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "Araliaceae",
-    "family_vi": "Họ Ngũ gia bì",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cynocephalus variegatus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Chồn bay",
-      "note": "Cầy bay"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "DERMOPTERA",
-    "order_vi": "BỘ CÁNH DA",
-    "family_latin": "Cynocephalidae",
-    "family_vi": "Họ Chồn dơi",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nycticebus bengalensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cu li lớn",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Loricedea",
-    "family_vi": "Họ Cu li",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nycticebus pygmaeus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cu li nhỏ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Loricedea",
-    "family_vi": "Họ Cu li",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Trachypithecus villosus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc bạc đông dương",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Trachypithecus poliocephalus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc cát bà",
-      "note": "Voọc đen đầu vàng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pygathrix nigripes",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc chà vá chân đen",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pygathrix nemaeus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc chà vá chân đỏ",
-      "note": "Voọc chà vá chân nâu"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pygathrix cinerea",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc chà vá chân xám",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Trachypithecus hatinhensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc đen hà tĩnh",
-      "note": "Voọc gáy trắng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Trachypithecus francoisi",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc đen má trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Trachypithecus delacouri",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc mông trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Rhinopithecus avunculus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc mũi hếch",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Trachypithecus (phayrei) barbei",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voọc xám",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Cercopithecidae",
-    "family_vi": "Họ Khỉ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nomascus gabriellae",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vượn đen má hung",
-      "note": "Vượn đen má vàng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Hylobatidae",
-    "family_vi": "Họ Vượn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nomascus leucogenys",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vượn đen má trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Hylobatidae",
-    "family_vi": "Họ Vượn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nomascus nasutus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vượn đen tuyền đông bắc",
-      "note": "Vượn cao vít"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Hylobatidae",
-    "family_vi": "Họ Vượn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nomascus concolor",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vượn đen tuyền tây bắc",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PRIMATES",
-    "order_vi": "BỘ LINH TRƯỞNG",
-    "family_latin": "Hylobatidae",
-    "family_vi": "Họ Vượn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cuon alpinus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sói đỏ",
-      "note": "Chó sói lửa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Canidae",
-    "family_vi": "Họ Chó",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Helarctos malayanus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gấu chó",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Ursidae",
-    "family_vi": "Họ Gấu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Ursus thibetanus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gấu ngựa",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Ursidae",
-    "family_vi": "Họ Gấu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Lutra sumatrana",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rái cá lông mũi",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Mustelidae",
-    "family_vi": "Họ Chồn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Lutrogale perspicillata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rái cá lông mượt",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Mustelidae",
-    "family_vi": "Họ Chồn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Lutra lutra",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rái cá thường",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Mustelidae",
-    "family_vi": "Họ Chồn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Aonyx cinerea",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rái cá vuốt bé",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Mustelidae",
-    "family_vi": "Họ Chồn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Arctictis binturong",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cầy mực",
-      "note": "Cầy đen"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Viverridae",
-    "family_vi": "Họ Cầy",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Neofelis nebulosa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Báo gấm",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Felidae",
-    "family_vi": "Họ Mèo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Panthera pardus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Báo hoa mai",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Felidae",
-    "family_vi": "Họ Mèo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Catopuma temminckii",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Báo lửa",
-      "note": "Beo lửa, Beo vàng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Felidae",
-    "family_vi": "Họ Mèo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Panthera tigris",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hổ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Felidae",
-    "family_vi": "Họ Mèo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Prionailurus viverrinus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Mèo cá",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Felidae",
-    "family_vi": "Họ Mèo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pardofelis marmorata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Mèo gấm",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CARNIVORA",
-    "order_vi": "BỘ THÚ ĂN THỊT",
-    "family_latin": "Felidae",
-    "family_vi": "Họ Mèo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Elephas maximus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Voi",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PROBOSCIDEA",
-    "order_vi": "BỘ CÓ VÒI",
-    "family_latin": "Elephantidae",
-    "family_vi": "Họ Voi",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Rhinoceros sondaicus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Tê giác một sừng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PERISSODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN LẺ",
-    "family_latin": "Rhinocerotidae",
-    "family_vi": "Họ Tê giác",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Axis porcinus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hươu vàng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Cervidae",
-    "family_vi": "Họ Hươu nai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Moschus berezovskii",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hươu xạ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Cervidae",
-    "family_vi": "Họ Hươu nai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Muntiacus vuquangensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Mang lớn",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Cervidae",
-    "family_vi": "Họ Hươu nai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Muntiacus truongsonensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Mang trường sơn",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Cervidae",
-    "family_vi": "Họ Hươu nai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Rucervus eldii",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Nai cà tong",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Cervidae",
-    "family_vi": "Họ Hươu nai",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Bos javanicus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bò rừng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Bovidae",
-    "family_vi": "Họ Trâu bò",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Bos gaurus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bò tót",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Bovidae",
-    "family_vi": "Họ Trâu bò",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Bos sauveli",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bò xám",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Bovidae",
-    "family_vi": "Họ Trâu bò",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pseudoryx nghetinhensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sao la",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Bovidae",
-    "family_vi": "Họ Trâu bò",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Naemorhedus sumatraensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sơn dương",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Bovidae",
-    "family_vi": "Họ Trâu bò",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Bubalus arnee",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Trâu rừng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "ARTIODACTYLA",
-    "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
-    "family_latin": "Bovidae",
-    "family_vi": "Họ Trâu bò",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Manis javanica",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Tê tê java",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PHOLIDOTA",
-    "order_vi": "BỘ TÊ TÊ",
-    "family_latin": "Manidae",
-    "family_vi": "Họ Tê tê",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Manis pentadactyla",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Tê tê vàng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "PHOLIDOTA",
-    "order_vi": "BỘ TÊ TÊ",
-    "family_latin": "Manidae",
-    "family_vi": "Họ Tê tê",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Nesolagus timminsi",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Thỏ vằn",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "LAGOMORPHA",
-    "order_vi": "BỘ THỎ",
-    "family_latin": "Leporidae",
-    "family_vi": "Họ Thỏ rừng",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Sousa chinensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cá heo trắng trung hoa",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "CETACEA",
-    "order_vi": "BỘ CÁ VOI",
-    "family_latin": "Delphinidae",
-    "family_vi": "Họ Cá heo",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Dugong dugon",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bò biển",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "MAMMALIA",
-    "class_vi": "LỚP THÚ",
-    "order_latin": "SIRENIA",
-    "order_vi": "BỘ HẢI NGƯU",
-    "family_latin": "Dugongidae",
-    "family_vi": "Họ Cá cúi",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pelecanus philippensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Bồ nông chân xám",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "PELECANIFORMES",
-    "order_vi": "BỘ BỒ NÔNG",
-    "family_latin": "Pelecanidae",
-    "family_vi": "Họ Bồ nông",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Anhinga melanogaster",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cổ rắn",
-      "note": "Điêng điểng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "PELECANIFORMES",
-    "order_vi": "BỘ BỒ NÔNG",
-    "family_latin": "Anhingidae",
-    "family_vi": "Họ Cổ rắn",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Egretta eulophotes",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cò trắng trung quốc",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Ardeidae",
-    "family_vi": "Họ Diệc",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Gorsachius magnificus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vạc hoa",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Ardeidae",
-    "family_vi": "Họ Diệc",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Leptoptilos javanicus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Già đẫy nhỏ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Ciconiidae",
-    "family_vi": "Họ Hạc",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Ciconia episcopus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hạc cổ trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Ciconiidae",
-    "family_vi": "Họ Hạc",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Platalea minor",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Cò mỏ thìa",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Threskiornithidae",
-    "family_vi": "Họ Cò quắm",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pseudibis davisoni",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Quắm cánh xanh",
-      "note": "Cò quắm cánh xanh"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Threskiornithidae",
-    "family_vi": "Họ Cò quắm",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pseudibis gigantea",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Quắm lớn",
-      "note": "Cò quắm lớn"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CICONIIFORMES",
-    "order_vi": "BỘ HẠC",
-    "family_latin": "Threskiornithidae",
-    "family_vi": "Họ Cò quắm",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cairina scutulata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Ngan cánh trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "ANSERIFORMES",
-    "order_vi": "BỘ NGỖNG",
-    "family_latin": "Anatidae",
-    "family_vi": "Họ Vịt",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Arborophila davidi",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gà so cổ hung",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GALLIFORMES",
-    "order_vi": "BỘ GÀ",
-    "family_latin": "Phasianidae",
-    "family_vi": "Họ Trĩ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Lophura edwardsi",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gà lôi lam mào trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GALLIFORMES",
-    "order_vi": "BỘ GÀ",
-    "family_latin": "Phasianidae",
-    "family_vi": "Họ Trĩ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Tragopan temminckii",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gà lôi tía",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GALLIFORMES",
-    "order_vi": "BỘ GÀ",
-    "family_latin": "Phasianidae",
-    "family_vi": "Họ Trĩ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Polyplectron germaini",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gà tiền mặt đỏ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GALLIFORMES",
-    "order_vi": "BỘ GÀ",
-    "family_latin": "Phasianidae",
-    "family_vi": "Họ Trĩ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Polyplectron bicalcaratum",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Gà tiền mặt vàng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GALLIFORMES",
-    "order_vi": "BỘ GÀ",
-    "family_latin": "Phasianidae",
-    "family_vi": "Họ Trĩ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Grus antigone",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Sếu đầu đỏ",
-      "note": "Sếu cổ trụi"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GRUIFORMES",
-    "order_vi": "BỘ SẾU",
-    "family_latin": "Gruidae",
-    "family_vi": "Họ Sếu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Houbaropsis bengalensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Ô tác",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "GRUIFORMES",
-    "order_vi": "BỘ SẾU",
-    "family_latin": "Otidae",
-    "family_vi": "Họ Ô tác",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Anorrhinus tickelli",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Niệc nâu",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CORACIIFORMES",
-    "order_vi": "BỘ SẢ",
-    "family_latin": "Bucerotidae",
-    "family_vi": "Họ Hồng hoàng",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Aceros nipalensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Niệc cổ hung",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CORACIIFORMES",
-    "order_vi": "BỘ SẢ",
-    "family_latin": "Bucerotidae",
-    "family_vi": "Họ Hồng hoàng",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Aceros undulatus",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Niệc mỏ vằn",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CORACIIFORMES",
-    "order_vi": "BỘ SẢ",
-    "family_latin": "Bucerotidae",
-    "family_vi": "Họ Hồng hoàng",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Buceros bocornis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Hồng hoàng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "CORACIIFORMES",
-    "order_vi": "BỘ SẢ",
-    "family_latin": "Bucerotidae",
-    "family_vi": "Họ Hồng hoàng",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Garrulax ngoclinhensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Khướu ngọc linh",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "AVES",
-    "class_vi": "LỚP CHIM",
-    "order_latin": "PASSERIFORMES",
-    "order_vi": "BỘ SẺ",
-    "family_latin": "Timaliidae",
-    "family_vi": "Họ Khướu",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Ophiophagus hannah",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rắn hổ chúa",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "SQUAMATA",
-    "order_vi": "BỘ CÓ VẢY",
-    "family_latin": "Elapidae",
-    "family_vi": "Họ Rắn hổ",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Dermochelys coriacea",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rùa da",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Dermochelyidae",
-    "family_vi": "Họ Rùa da",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Eretmochelys imbricata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Đồi mồi",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Cheloniidae",
-    "family_vi": "Họ Vích",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Lepidochelys olivacea",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Đồi mồi dứa",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Cheloniidae",
-    "family_vi": "Họ Vích",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Caretta caretta",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rùa biển đầu to",
-      "note": "Quản đồng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Cheloniidae",
-    "family_vi": "Họ Vích",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Chelonia mydas",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Vích",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Cheloniidae",
-    "family_vi": "Họ Vích",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cuora trifasciata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rùa hộp ba vạch",
-      "note": "Rùa vàng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Emydidae",
-    "family_vi": "Họ Rùa đầm",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cuora galbinifrons",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rùa hộp trán vàng miền bắc",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Emydidae",
-    "family_vi": "Họ Rùa đầm",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Mauremys annamensis",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Rùa trung bộ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Emydidae",
-    "family_vi": "Họ Rùa đầm",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Rafetus swinhoei",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giải sin-hoe",
-      "note": "Giải thượng hải"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Trionychidae",
-    "family_vi": "Họ Ba ba",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Pelochelys cantorii",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giải khổng lồ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "REPTILIA",
-    "class_vi": "LỚP BÒ SÁT",
-    "order_latin": "TESTUDINES",
-    "order_vi": "BỘ RÙA BIỂN",
-    "family_latin": "Trionychidae",
-    "family_vi": "Họ Ba ba",
-    "note": "",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Chiêm đá Quảng Ninh",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Dự nghểu Hòa Bình",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Lúa Chăm biển",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Hom mùa Hải Phòng",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Tẻ tép",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Cút",
-      "note": "Loài lúa, chiêm cút"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Chiêm cườm",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Nếp hạt mây",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Oryza sativa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Chiêm bầu",
-      "note": "Loài lúa"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Zea mays",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Tẻ trắng hà chua cay",
-      "note": "Loài ngô"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Colocasia esculenta",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Mắc phứa hom",
-      "note": "Khoai môn ruột vàng"
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Arachis hypogaea",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Lạc trắng Vân Kiều",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Glycine max",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Đậu tương hạt đen",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Vigna umbellata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Đậu nho nhe đen",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Dimocarpus longan",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống Nhãn hạt trắng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống cây trồng",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Sus scrofa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống lợn ỉ",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống vật nuôi",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Sus scrofa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống lợn ba xuyên",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống vật nuôi",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Sus scrofa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống lợn hung",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống vật nuôi",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Sus scrofa",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống lợn mường lay",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống vật nuôi",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Numida meleagris",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống gà sao vàng",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống vật nuôi",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  },
-  {
-    "scientific_name": {
-      "value": "Cairina moschata",
-      "note": ""
-    },
-    "common_name": {
-      "value": "Giống ngan sen",
-      "note": ""
-    },
-    "kingdom_latin": "",
-    "kingdom_vi": "",
-    "phylum_latin": "",
-    "phylum_vi": "",
-    "class_latin": "",
-    "class_vi": "",
-    "order_latin": "",
-    "order_vi": "",
-    "family_latin": "",
-    "family_vi": "",
-    "note": "Giống vật nuôi",
-    "laws": [
-      {
-        "name": {
-          "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
-          "en": "Endangered, precious, rare species prioritized for protection"
-        },
-        "value": "X",
-        "note": ""
-      }
-    ]
-  }
+    {
+        "scientific_name": {
+            "value": "Taiwania cryptomerioides",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bách đài loan",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Cupressaceae",
+        "family_vi": "Họ Hoàng đàn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cunninghamia konishii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sa mộc dầu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Cupressaceae",
+        "family_vi": "Họ Hoàng đàn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Glyptostrobus pensilis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Thông nước",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Cupressaceae",
+        "family_vi": "Họ Hoàng đàn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Xanthocyparis vietnamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bách vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Cupressaceae",
+        "family_vi": "Họ Hoàng đàn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cupressus tonkinensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng đàn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Cupressaceae",
+        "family_vi": "Họ Hoàng đàn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Keteleeria davidiana",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Du sam đá vôi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Pinaceae",
+        "family_vi": "Họ Thông",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Abies delavayi fansipanensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vân sam phan si păng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "PINOPHYTA",
+        "phylum_vi": "NGÀNH THÔNG",
+        "class_latin": "PINOPSIDA",
+        "class_vi": "LỚP THÔNG",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Pinaceae",
+        "family_vi": "Họ Thông",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Shorea falcata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Chai lá cong",
+            "note": "Sao lá cong"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Dipterocarpaceae",
+        "family_vi": "Họ Dầu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Hopea pierrei",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Kiền kiền phú quốc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Dipterocarpaceae",
+        "family_vi": "Họ Dầu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Hopea cordata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sao hình tim",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Dipterocarpaceae",
+        "family_vi": "Họ Dầu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Hopea reticulata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sao mạng cà ná",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Dipterocarpaceae",
+        "family_vi": "Họ Dầu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Berberis spp.",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên gai",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ranunculaceae",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Họ Mao lương",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Coptis quinquesecta",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên chân gà",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Coptis chinensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hoàng liên trung quốc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Berberidaceae",
+        "family_vi": "Họ Hoàng liên gai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panax bipinnatifidus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sâm vũ diệp",
+            "note": "Vũ diệp tam thất"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Araliaceae",
+        "family_vi": "Họ Ngũ gia bì",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panax stipuleanatus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tam thất hoang",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Araliaceae",
+        "family_vi": "Họ Ngũ gia bì",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panax vietnamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sâm ngọc linh",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "MAGNOLIOPHYTA",
+        "phylum_vi": "NGÀNH MỘC LAN",
+        "class_latin": "MAGNOLIOPSIDA",
+        "class_vi": "LỚP MỘC LAN",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "Araliaceae",
+        "family_vi": "Họ Ngũ gia bì",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cynocephalus variegatus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Chồn bay",
+            "note": "Cầy bay"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "DERMOPTERA",
+        "order_vi": "BỘ CÁNH DA",
+        "family_latin": "Cynocephalidae",
+        "family_vi": "Họ Chồn dơi",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nycticebus bengalensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cu li lớn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Loricedea",
+        "family_vi": "Họ Cu li",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nycticebus pygmaeus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cu li nhỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Loricedea",
+        "family_vi": "Họ Cu li",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus villosus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc bạc đông dương",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus poliocephalus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc cát bà",
+            "note": "Voọc đen đầu vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pygathrix nigripes",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc chà vá chân đen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pygathrix nemaeus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc chà vá chân đỏ",
+            "note": "Voọc chà vá chân nâu"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pygathrix cinerea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc chà vá chân xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus hatinhensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc đen hà tĩnh",
+            "note": "Voọc gáy trắng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus francoisi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc đen má trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus delacouri",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc mông trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rhinopithecus avunculus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc mũi hếch",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Trachypithecus (phayrei) barbei",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voọc xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Cercopithecidae",
+        "family_vi": "Họ Khỉ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus gabriellae",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen má hung",
+            "note": "Vượn đen má vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Hylobatidae",
+        "family_vi": "Họ Vượn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus leucogenys",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen má trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Hylobatidae",
+        "family_vi": "Họ Vượn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus nasutus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen tuyền đông bắc",
+            "note": "Vượn cao vít"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Hylobatidae",
+        "family_vi": "Họ Vượn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nomascus concolor",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vượn đen tuyền tây bắc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PRIMATES",
+        "order_vi": "BỘ LINH TRƯỞNG",
+        "family_latin": "Hylobatidae",
+        "family_vi": "Họ Vượn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuon alpinus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sói đỏ",
+            "note": "Chó sói lửa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Canidae",
+        "family_vi": "Họ Chó",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Helarctos malayanus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gấu chó",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Ursidae",
+        "family_vi": "Họ Gấu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ursus thibetanus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gấu ngựa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Ursidae",
+        "family_vi": "Họ Gấu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lutra sumatrana",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá lông mũi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Mustelidae",
+        "family_vi": "Họ Chồn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lutrogale perspicillata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá lông mượt",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Mustelidae",
+        "family_vi": "Họ Chồn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lutra lutra",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá thường",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Mustelidae",
+        "family_vi": "Họ Chồn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Aonyx cinerea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rái cá vuốt bé",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Mustelidae",
+        "family_vi": "Họ Chồn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Arctictis binturong",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cầy mực",
+            "note": "Cầy đen"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Viverridae",
+        "family_vi": "Họ Cầy",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Neofelis nebulosa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Báo gấm",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Felidae",
+        "family_vi": "Họ Mèo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panthera pardus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Báo hoa mai",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Felidae",
+        "family_vi": "Họ Mèo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Catopuma temminckii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Báo lửa",
+            "note": "Beo lửa, Beo vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Felidae",
+        "family_vi": "Họ Mèo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Panthera tigris",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hổ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Felidae",
+        "family_vi": "Họ Mèo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Prionailurus viverrinus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mèo cá",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Felidae",
+        "family_vi": "Họ Mèo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pardofelis marmorata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mèo gấm",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CARNIVORA",
+        "order_vi": "BỘ THÚ ĂN THỊT",
+        "family_latin": "Felidae",
+        "family_vi": "Họ Mèo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Elephas maximus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Voi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PROBOSCIDEA",
+        "order_vi": "BỘ CÓ VÒI",
+        "family_latin": "Elephantidae",
+        "family_vi": "Họ Voi",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rhinoceros sondaicus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tê giác một sừng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PERISSODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN LẺ",
+        "family_latin": "Rhinocerotidae",
+        "family_vi": "Họ Tê giác",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Axis porcinus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hươu vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Cervidae",
+        "family_vi": "Họ Hươu nai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Moschus berezovskii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hươu xạ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Cervidae",
+        "family_vi": "Họ Hươu nai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Muntiacus vuquangensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mang lớn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Cervidae",
+        "family_vi": "Họ Hươu nai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Muntiacus truongsonensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Mang trường sơn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Cervidae",
+        "family_vi": "Họ Hươu nai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rucervus eldii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Nai cà tong",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Cervidae",
+        "family_vi": "Họ Hươu nai",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bos javanicus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò rừng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Bovidae",
+        "family_vi": "Họ Trâu bò",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bos gaurus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò tót",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Bovidae",
+        "family_vi": "Họ Trâu bò",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bos sauveli",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Bovidae",
+        "family_vi": "Họ Trâu bò",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pseudoryx nghetinhensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sao la",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Bovidae",
+        "family_vi": "Họ Trâu bò",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Naemorhedus sumatraensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sơn dương",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Bovidae",
+        "family_vi": "Họ Trâu bò",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Bubalus arnee",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Trâu rừng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "ARTIODACTYLA",
+        "order_vi": "BỘ MÓNG GUỐC NGÓN CHẴN",
+        "family_latin": "Bovidae",
+        "family_vi": "Họ Trâu bò",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Manis javanica",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tê tê java",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PHOLIDOTA",
+        "order_vi": "BỘ TÊ TÊ",
+        "family_latin": "Manidae",
+        "family_vi": "Họ Tê tê",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Manis pentadactyla",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Tê tê vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "PHOLIDOTA",
+        "order_vi": "BỘ TÊ TÊ",
+        "family_latin": "Manidae",
+        "family_vi": "Họ Tê tê",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Nesolagus timminsi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Thỏ vằn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "LAGOMORPHA",
+        "order_vi": "BỘ THỎ",
+        "family_latin": "Leporidae",
+        "family_vi": "Họ Thỏ rừng",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sousa chinensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cá heo trắng trung hoa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "CETACEA",
+        "order_vi": "BỘ CÁ VOI",
+        "family_latin": "Delphinidae",
+        "family_vi": "Họ Cá heo",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Dugong dugon",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bò biển",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "MAMMALIA",
+        "class_vi": "LỚP THÚ",
+        "order_latin": "SIRENIA",
+        "order_vi": "BỘ HẢI NGƯU",
+        "family_latin": "Dugongidae",
+        "family_vi": "Họ Cá cúi",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pelecanus philippensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Bồ nông chân xám",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỒ NÔNG",
+        "family_latin": "Pelecanidae",
+        "family_vi": "Họ Bồ nông",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Anhinga melanogaster",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cổ rắn",
+            "note": "Điêng điểng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "PELECANIFORMES",
+        "order_vi": "BỘ BỒ NÔNG",
+        "family_latin": "Anhingidae",
+        "family_vi": "Họ Cổ rắn",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Egretta eulophotes",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cò trắng trung quốc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Ardeidae",
+        "family_vi": "Họ Diệc",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Gorsachius magnificus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vạc hoa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Ardeidae",
+        "family_vi": "Họ Diệc",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Leptoptilos javanicus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Già đẫy nhỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Ciconiidae",
+        "family_vi": "Họ Hạc",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ciconia episcopus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hạc cổ trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Ciconiidae",
+        "family_vi": "Họ Hạc",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Platalea minor",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Cò mỏ thìa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Threskiornithidae",
+        "family_vi": "Họ Cò quắm",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pseudibis davisoni",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Quắm cánh xanh",
+            "note": "Cò quắm cánh xanh"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Threskiornithidae",
+        "family_vi": "Họ Cò quắm",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pseudibis gigantea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Quắm lớn",
+            "note": "Cò quắm lớn"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CICONIIFORMES",
+        "order_vi": "BỘ HẠC",
+        "family_latin": "Threskiornithidae",
+        "family_vi": "Họ Cò quắm",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cairina scutulata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Ngan cánh trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "ANSERIFORMES",
+        "order_vi": "BỘ NGỖNG",
+        "family_latin": "Anatidae",
+        "family_vi": "Họ Vịt",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Arborophila davidi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà so cổ hung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GALLIFORMES",
+        "order_vi": "BỘ GÀ",
+        "family_latin": "Phasianidae",
+        "family_vi": "Họ Trĩ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lophura edwardsi",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà lôi lam mào trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GALLIFORMES",
+        "order_vi": "BỘ GÀ",
+        "family_latin": "Phasianidae",
+        "family_vi": "Họ Trĩ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Tragopan temminckii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà lôi tía",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GALLIFORMES",
+        "order_vi": "BỘ GÀ",
+        "family_latin": "Phasianidae",
+        "family_vi": "Họ Trĩ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Polyplectron germaini",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà tiền mặt đỏ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GALLIFORMES",
+        "order_vi": "BỘ GÀ",
+        "family_latin": "Phasianidae",
+        "family_vi": "Họ Trĩ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Polyplectron bicalcaratum",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Gà tiền mặt vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GALLIFORMES",
+        "order_vi": "BỘ GÀ",
+        "family_latin": "Phasianidae",
+        "family_vi": "Họ Trĩ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Grus antigone",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Sếu đầu đỏ",
+            "note": "Sếu cổ trụi"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GRUIFORMES",
+        "order_vi": "BỘ SẾU",
+        "family_latin": "Gruidae",
+        "family_vi": "Họ Sếu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Houbaropsis bengalensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Ô tác",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "GRUIFORMES",
+        "order_vi": "BỘ SẾU",
+        "family_latin": "Otidae",
+        "family_vi": "Họ Ô tác",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Anorrhinus tickelli",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Niệc nâu",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CORACIIFORMES",
+        "order_vi": "BỘ SẢ",
+        "family_latin": "Bucerotidae",
+        "family_vi": "Họ Hồng hoàng",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Aceros nipalensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Niệc cổ hung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CORACIIFORMES",
+        "order_vi": "BỘ SẢ",
+        "family_latin": "Bucerotidae",
+        "family_vi": "Họ Hồng hoàng",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Aceros undulatus",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Niệc mỏ vằn",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CORACIIFORMES",
+        "order_vi": "BỘ SẢ",
+        "family_latin": "Bucerotidae",
+        "family_vi": "Họ Hồng hoàng",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Buceros bocornis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Hồng hoàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "CORACIIFORMES",
+        "order_vi": "BỘ SẢ",
+        "family_latin": "Bucerotidae",
+        "family_vi": "Họ Hồng hoàng",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Garrulax ngoclinhensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Khướu ngọc linh",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "AVES",
+        "class_vi": "LỚP CHIM",
+        "order_latin": "PASSERIFORMES",
+        "order_vi": "BỘ SẺ",
+        "family_latin": "Timaliidae",
+        "family_vi": "Họ Khướu",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Ophiophagus hannah",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rắn hổ chúa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "SQUAMATA",
+        "order_vi": "BỘ CÓ VẢY",
+        "family_latin": "Elapidae",
+        "family_vi": "Họ Rắn hổ",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Dermochelys coriacea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa da",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Dermochelyidae",
+        "family_vi": "Họ Rùa da",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Eretmochelys imbricata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Đồi mồi",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Cheloniidae",
+        "family_vi": "Họ Vích",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Lepidochelys olivacea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Đồi mồi dứa",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Cheloniidae",
+        "family_vi": "Họ Vích",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Caretta caretta",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa biển đầu to",
+            "note": "Quản đồng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Cheloniidae",
+        "family_vi": "Họ Vích",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Chelonia mydas",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Vích",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Cheloniidae",
+        "family_vi": "Họ Vích",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuora trifasciata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa hộp ba vạch",
+            "note": "Rùa vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Emydidae",
+        "family_vi": "Họ Rùa đầm",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cuora galbinifrons",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa hộp trán vàng miền bắc",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Emydidae",
+        "family_vi": "Họ Rùa đầm",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Mauremys annamensis",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Rùa trung bộ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Emydidae",
+        "family_vi": "Họ Rùa đầm",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Rafetus swinhoei",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giải sin-hoe",
+            "note": "Giải thượng hải"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Trionychidae",
+        "family_vi": "Họ Ba ba",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Pelochelys cantorii",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giải khổng lồ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "REPTILIA",
+        "class_vi": "LỚP BÒ SÁT",
+        "order_latin": "TESTUDINES",
+        "order_vi": "BỘ RÙA BIỂN",
+        "family_latin": "Trionychidae",
+        "family_vi": "Họ Ba ba",
+        "note": "",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Chiêm đá Quảng Ninh",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Dự nghểu Hòa Bình",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Lúa Chăm biển",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Hom mùa Hải Phòng",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Tẻ tép",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Cút",
+            "note": "Loài lúa, chiêm cút"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Chiêm cườm",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Nếp hạt mây",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Oryza sativa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Chiêm bầu",
+            "note": "Loài lúa"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Zea mays",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Tẻ trắng hà chua cay",
+            "note": "Loài ngô"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Colocasia esculenta",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Mắc phứa hom",
+            "note": "Khoai môn ruột vàng"
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Arachis hypogaea",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Lạc trắng Vân Kiều",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Glycine max",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Đậu tương hạt đen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Vigna umbellata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Đậu nho nhe đen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Dimocarpus longan",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống Nhãn hạt trắng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống cây trồng",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn ỉ",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn ba xuyên",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn hung",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Sus scrofa",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống lợn mường lay",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Numida meleagris",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống gà sao vàng",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "scientific_name": {
+            "value": "Cairina moschata",
+            "note": ""
+        },
+        "common_name": {
+            "value": "Giống ngan sen",
+            "note": ""
+        },
+        "kingdom_latin": "",
+        "kingdom_vi": "",
+        "phylum_latin": "",
+        "phylum_vi": "",
+        "class_latin": "",
+        "class_vi": "",
+        "order_latin": "",
+        "order_vi": "",
+        "family_latin": "",
+        "family_vi": "",
+        "note": "Giống vật nuôi",
+        "laws": [
+            {
+                "name": {
+                    "vi": "Loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
+                    "en": "Endangered, precious, rare species prioritized for protection"
+                },
+                "value": "X",
+                "note": ""
+            }
+        ]
+    }
 ]

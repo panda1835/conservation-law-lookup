@@ -661,7 +661,7 @@ export default function Home() {
                                   {species.common_name.value}
                                 </div>
                                 {species.common_name.note && (
-                                  <div className="text-blue-400 text-wrap mt-1">
+                                  <div className="text-blue-400 text-xs text-wrap mt-1">
                                     {species.common_name.note}
                                   </div>
                                 )}
@@ -788,7 +788,7 @@ export default function Home() {
                                         >
                                           {status}
                                         </Badge>
-                                        <div className="text-blue-400">
+                                        <div className="text-blue-400 text-xs">
                                           {note}
                                         </div>
                                       </div>
@@ -832,7 +832,7 @@ export default function Home() {
                                         >
                                           {status}
                                         </Badge>
-                                        <div className="text-blue-400 mt-2 text-wrap">
+                                        <div className="text-blue-400 mt-2 text-xs text-wrap">
                                           {note}
                                         </div>
                                       </div>
