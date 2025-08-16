@@ -311,84 +311,23 @@ export default function Home() {
           isSharedSpecies: true,
         });
       } else {
-        // For non-shared species, show only one representative (merge duplicates within same document)
-        if (
-          speciesGroup.allVariants.length > 1 &&
-          speciesGroup.documentIds.size === 1
-        ) {
-          // Multiple entries for same species in same document - merge them
-          const mergedSpecies: Species = {
-            scientific_name: {
-              value: scientificName,
-              note: "",
-            },
-            common_name: {
-              value: getLongestValue(
-                speciesGroup.allVariants.map((s) => s.common_name.value)
-              ),
-              note: "",
-            },
-            kingdom_latin: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.kingdom_latin)
-            ),
-            kingdom_vi: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.kingdom_vi)
-            ),
-            phylum_latin: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.phylum_latin)
-            ),
-            phylum_vi: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.phylum_vi)
-            ),
-            class_latin: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.class_latin)
-            ),
-            class_vi: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.class_vi)
-            ),
-            order_latin: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.order_latin)
-            ),
-            order_vi: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.order_vi)
-            ),
-            family_latin: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.family_latin)
-            ),
-            family_vi: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.family_vi)
-            ),
-            laws: speciesGroup.allLaws,
-            note: getLongestValue(
-              speciesGroup.allVariants.map((s) => s.note || "")
-            ),
-          };
+        // For non-shared species, show each individual entry (do not merge duplicates within same document)
+        speciesGroup.allVariants.forEach((species) => {
+          const docId =
+            selectedDocuments.find((id) => {
+              const doc = LEGAL_DOCUMENTS.find((d) => d.id === id);
+              return doc?.data.some((s) => s === species);
+            }) || selectedDocuments[0];
+
+          const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
 
           result.push({
-            ...mergedSpecies,
-            documentId: Array.from(speciesGroup.documentIds)[0],
-            documentName: Array.from(speciesGroup.documentNames)[0],
+            ...species,
+            documentId: docId,
+            documentName: doc?.shortName.vi || "",
             isSharedSpecies: false,
           });
-        } else {
-          // Single entry or multiple entries from different documents (but not considered shared due to selection)
-          speciesGroup.allVariants.forEach((species) => {
-            const docId =
-              selectedDocuments.find((id) => {
-                const doc = LEGAL_DOCUMENTS.find((d) => d.id === id);
-                return doc?.data.some((s) => s === species);
-              }) || selectedDocuments[0];
-
-            const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
-
-            result.push({
-              ...species,
-              documentId: docId,
-              documentName: doc?.shortName.vi || "",
-              isSharedSpecies: false,
-            });
-          });
-        }
+        });
       }
     });
 
