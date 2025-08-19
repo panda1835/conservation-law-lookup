@@ -68,8 +68,9 @@ export const useSpeciesData = ({
   const combinedData = useMemo(() => {
     if (selectedDocuments.length === 0) return [];
 
-    // Create a map keyed by scientific name only for merging
-    // Species with the same scientific name will be merged, using data from the most recent document
+    // Create a map for merging species
+    // Most species are keyed by scientific name only, but domestic species with varieties
+    // (Oryza sativa, Colocasia esculenta, Sus scrofa) are keyed by scientific name + common name
     const speciesMap = new Map<
       string,
       {
@@ -85,9 +86,18 @@ export const useSpeciesData = ({
       const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
       if (doc) {
         doc.data.forEach((species) => {
-          // Use only scientific name as the key for merging
-          // This ensures species with same scientific name but different common names get merged
-          const key = species.scientific_name.value;
+          // Special handling for domestic species with varieties/breeds
+          const domesticSpecies = [
+            "Oryza sativa",
+            "Colocasia esculenta",
+            "Sus scrofa",
+          ];
+
+          // Use scientific name + common name as key for domestic species to keep varieties separate
+          // Use only scientific name for all other species to merge them
+          const key = domesticSpecies.includes(species.scientific_name.value)
+            ? `${species.scientific_name.value}|||${species.common_name.value}`
+            : species.scientific_name.value;
 
           if (speciesMap.has(key)) {
             // Merge with existing species (same scientific name AND common name)
@@ -125,8 +135,9 @@ export const useSpeciesData = ({
     // Convert to array and create individual rows
     const result: ExtendedSpecies[] = [];
 
-    speciesMap.forEach((speciesGroup, scientificName) => {
-      // The key is already the scientific name
+    speciesMap.forEach((speciesGroup, key) => {
+      // Extract scientific name from the key (handle both formats)
+      const scientificName = key.includes("|||") ? key.split("|||")[0] : key;
 
       // A species is shared only if it appears in multiple documents AND we have multiple documents selected
       const isSharedSpecies =
@@ -230,6 +241,7 @@ export const useSpeciesData = ({
         species.scientific_name.note.toLowerCase().includes(searchLower) ||
         species.common_name.value.toLowerCase().includes(searchLower) ||
         species.common_name.note.toLowerCase().includes(searchLower) ||
+        species.note?.toLowerCase().includes(searchLower) ||
         species.class_vi.toLowerCase().includes(searchLower) ||
         species.order_vi.toLowerCase().includes(searchLower) ||
         species.family_vi.toLowerCase().includes(searchLower)
