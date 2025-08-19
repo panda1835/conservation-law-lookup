@@ -5426,8 +5426,8 @@
     },
     {
         "scientific_name": {
-            "value": "Podophyllum tonkinense",
-            "note": ""
+            "value": "Podophyllum difforme",
+            "note": "Trước đây là Podophyllum tonkinense"
         },
         "common_name": {
             "value": "Bát giác liên",
@@ -7596,8 +7596,8 @@
     },
     {
         "scientific_name": {
-            "value": "Python reticulatus",
-            "note": "Malayopython reticulatus"
+            "value": "Malayopython reticulatus",
+            "note": "Python reticulatus"
         },
         "common_name": {
             "value": "Trăn gấm",
