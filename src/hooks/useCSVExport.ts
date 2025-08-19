@@ -107,8 +107,11 @@ export const useCSVExport = ({
           const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
           if (doc) {
             const categories = documentLawCategories[docId] || [];
-            const shouldShowData =
-              species.isSharedSpecies || species.documentId === docId;
+            // Fix Issue 2: Only show data if the species actually exists in this document
+            // For shared species, check if this specific document contains the species
+            const shouldShowData = species.isSharedSpecies
+              ? species.documentIds?.has(docId) ?? false
+              : species.documentId === docId;
 
             if (categories.length === 0) {
               let status = "";

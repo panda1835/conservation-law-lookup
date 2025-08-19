@@ -33,4 +33,6 @@ export interface ExtendedSpecies {
   documentId: string;
   documentName: string;
   isSharedSpecies: boolean;
+  // Optional property to track which documents actually contain this species variant
+  documentIds?: Set<string>;
 }
