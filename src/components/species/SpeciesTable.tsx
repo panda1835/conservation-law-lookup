@@ -81,7 +81,7 @@ export const SpeciesTable = ({
               </p>
             </CardDescription>
           </div>
-          <Button
+          {/* <Button
             onClick={onExportCSV}
             disabled={filteredData.length === 0}
             className="ml-4 shrink-0 hidden md:block w-fit"
@@ -91,7 +91,7 @@ export const SpeciesTable = ({
               <Download className="w-4 h-4 mr-3" />
               {t("table.exportCSV")}
             </div>
-          </Button>
+          </Button> */}
         </div>
       </CardHeader>
       <CardContent>
@@ -296,6 +296,11 @@ export const SpeciesTable = ({
                           {species.scientific_name.note && (
                             <div className="text-blue-400 text-xs mt-1 text-wrap">
                               {species.scientific_name.note}
+                            </div>
+                          )}
+                          {species.note && (
+                            <div className="text-blue-400 text-xs mt-1 text-wrap">
+                              {species.note}
                             </div>
                           )}
                         </div>

@@ -28,7 +28,11 @@ export const useCSVExport = ({
       if (filteredData.length === 0) return;
 
       // Create CSV headers
-      const headers = [t("table.scientificName"), t("table.commonName")];
+      const headers = [
+        t("table.scientificName"),
+        t("table.commonName"),
+        t("table.note"),
+      ];
 
       // Add taxonomic headers if enabled
       if (showTaxonomicDetails.kingdom) {
@@ -77,6 +81,7 @@ export const useCSVExport = ({
           `"${species.common_name.value}${
             species.common_name.note ? ` (${species.common_name.note})` : ""
           }"`,
+          `"${species.note || ""}"`,
         ];
 
         // Add taxonomic data

@@ -43,6 +43,7 @@
     "status": "Tình trạng",
     "multipleDocuments": "Có trong nhiều văn bản",
     "multipleDocumentsTooltip": "Loài này có mặt trong nhiều văn bản pháp luật",
+    "note": "Ghi chú",
     "exportCSV": "Xuất CSV",
     "exportSuccess": "Dữ liệu đã được xuất thành công!",
     "exportFileName": "danh-sach-loai"

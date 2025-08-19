@@ -43,6 +43,7 @@
     "status": "Status",
     "multipleDocuments": "In multiple documents",
     "multipleDocumentsTooltip": "This species appears in multiple legal documents",
+    "note": "Note",
     "exportCSV": "Export to CSV",
     "exportSuccess": "Data exported successfully!",
     "exportFileName": "species-legal-status"
