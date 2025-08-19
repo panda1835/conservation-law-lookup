@@ -2653,8 +2653,8 @@
     },
     {
         "scientific_name": {
-            "value": "Heliopais personata",
-            "note": ""
+            "value": "Heliopais personatus",
+            "note": "Heliopais personata"
         },
         "common_name": {
             "value": "Chân bơi",
@@ -3706,7 +3706,7 @@
     },
     {
         "scientific_name": {
-            "value": "Laniellus langbianus",
+            "value": "Laniellus langbianis",
             "note": ""
         },
         "common_name": {
@@ -4759,8 +4759,8 @@
     },
     {
         "scientific_name": {
-            "value": "Aonyx cinerea",
-            "note": ""
+            "value": "Aonyx cinereus",
+            "note": "Aonyx cinerea"
         },
         "common_name": {
             "value": "Rái cá vuốt bé",
@@ -4958,8 +4958,8 @@
             "note": ""
         },
         "common_name": {
-            "value": "Cầy vằn",
-            "note": ""
+            "value": "Cầy vằn bắc",
+            "note": "Cầy vằn"
         },
         "kingdom_latin": "",
         "kingdom_vi": "",
@@ -8035,7 +8035,7 @@
     },
     {
         "scientific_name": {
-            "value": "Diospyros sailetii",
+            "value": "Diospyros salletii",
             "note": ""
         },
         "common_name": {
@@ -9713,7 +9713,7 @@
     {
         "scientific_name": {
             "value": "Ptyas mucosa",
-            "note": ""
+            "note": "Ptyas mucosus"
         },
         "common_name": {
             "value": "Rắn ráo trâu",

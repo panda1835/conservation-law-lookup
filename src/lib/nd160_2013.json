@@ -1272,8 +1272,8 @@
     },
     {
         "scientific_name": {
-            "value": "Aonyx cinerea",
-            "note": ""
+            "value": "Aonyx cinereus",
+            "note": "Aonyx cinerea"
         },
         "common_name": {
             "value": "Rái cá vuốt bé",
@@ -2698,7 +2698,7 @@
     },
     {
         "scientific_name": {
-            "value": "Buceros bocornis",
+            "value": "Buceros bicornis",
             "note": ""
         },
         "common_name": {
