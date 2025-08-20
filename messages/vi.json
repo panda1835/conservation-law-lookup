@@ -1,7 +1,8 @@
 {
   "header": {
     "title": "Nền tảng Tra cứu Tình trạng Pháp lý Động vật Hoang dã Việt Nam",
-    "subtitle": "So sánh mức độ bảo vệ của các loài qua nhiều văn bản pháp luật của Việt Nam"
+    "subtitle": "So sánh mức độ bảo vệ của các loài qua nhiều văn bản pháp luật của Việt Nam",
+    "contributeImages": "Đóng góp ảnh"
   },
   "controls": {
     "searchAndFilter": "Tìm kiếm & Bộ lọc",

@@ -1,7 +1,8 @@
 {
   "header": {
     "title": "Vietnamese Wildlife Legal Status Reference Platform",
-    "subtitle": "Compare the protection levels of species across various legal documents in Vietnam"
+    "subtitle": "Compare the protection levels of species across various legal documents in Vietnam",
+    "contributeImages": "Contribute Images"
   },
   "controls": {
     "searchAndFilter": "Search & Filter",

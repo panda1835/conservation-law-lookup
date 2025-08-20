@@ -7,7 +7,17 @@ export const Header = () => {
   return (
     <div className="">
       <div className="ml-4 flex justify-end mb-4">
-        <LanguageSwitcher currentLocale={locale} />
+        <div className="flex items-center gap-4 text-sm ">
+          <a
+            href={`https://forms.gle/cUMpRzggPJvDqoSi9`}
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {t("header.contributeImages")}
+          </a>
+          <LanguageSwitcher currentLocale={locale} />
+        </div>
       </div>
       <div className="flex justify-center items-center mb-6 w-full">
         <div className="text-center">
