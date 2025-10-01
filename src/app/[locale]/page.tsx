@@ -15,6 +15,7 @@ export default function Home() {
   const t = useTranslations();
   const locale = useLocale();
   const [selectedDocuments, setSelectedDocuments] = useState<string[]>([
+    "vnredlist",
     "tt27",
   ]);
   const [searchTerm, setSearchTerm] = useState("");
@@ -84,7 +85,7 @@ export default function Home() {
           />
 
           {/* Legal Documents Reference */}
-          <ChuThich />
+          <ChuThich selectedDocuments={selectedDocuments} />
         </div>
       </main>
 

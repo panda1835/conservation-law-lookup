@@ -83,5 +83,22 @@
     "Danh mục II": "Danh mục II",
     "Phụ lục I": "Phụ lục I",
     "Phụ lục II": "Phụ lục II"
+  },
+  "iucnCategories": {
+    "EX": "Tuyệt chủng",
+    "EW": "Tuyệt chủng trong tự nhiên",
+    "CR": "Cực kỳ nguy cấp",
+    "EN": "Nguy cấp",
+    "VU": "Sắp nguy cấp",
+    "NT": "Gần bị đe dọa",
+    "LC": "Ít quan tâm",
+    "DD": "Thiếu dữ liệu",
+    "NE": "Chưa được đánh giá",
+    "NA": "Không áp dụng",
+    "LR/nt": "Ít rủi ro/gần bị đe dọa"
+  },
+  "iucnLegend": {
+    "title": "Các hạng mục Danh sách Đỏ IUCN",
+    "description": "Các hạng mục của Danh sách Đỏ IUCN thể hiện mức độ nguy cơ tuyệt chủng của các loài trên toàn cầu."
   }
 }

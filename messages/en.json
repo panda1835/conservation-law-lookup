@@ -83,5 +83,22 @@
     "Danh mục II": "Category II",
     "Phụ lục I": "Appendix I",
     "Phụ lục II": "Appendix II"
+  },
+  "iucnCategories": {
+    "EX": "Extinct",
+    "EW": "Extinct in the Wild",
+    "CR": "Critically Endangered",
+    "EN": "Endangered",
+    "VU": "Vulnerable",
+    "NT": "Near Threatened",
+    "LC": "Least Concern",
+    "DD": "Data Deficient",
+    "NE": "Not Evaluated",
+    "NA": "Not Applicable",
+    "LR/nt": "Lower Risk/near threatened"
+  },
+  "iucnLegend": {
+    "title": "IUCN Red List Categories",
+    "description": "The IUCN Red List categories represent the extinction risk level of species globally."
   }
 }

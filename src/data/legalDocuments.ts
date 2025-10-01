@@ -4,6 +4,8 @@ import nd64Data from "@/lib/nd64_2019.json";
 import nd84Data from "@/lib/nd84_2021.json";
 import nd160Data from "@/lib/nd160_2013.json";
 import tt27Data from "@/lib/tt27_2025.json";
+import iucnData from "@/lib/iucn_status.json";
+import vnredlistData from "@/lib/vnredlist_status.json";
 
 // Define types based on new structure
 export interface LawEntry {
@@ -138,6 +140,40 @@ export const LEGAL_DOCUMENTS: LegalDocument[] = [
     },
     data: tt27Data as Species[],
     url: "https://chinhphu.vn/?pageid=27160&docid=214371&classid=1&orggroupid=4",
+    description: {
+      vi: "",
+      en: "",
+    },
+  },
+  {
+    id: "iucn",
+    name: {
+      vi: "Danh sách đỏ IUCN: là hệ thống phân loại toàn diện nhất thế giới về tình trạng bảo tồn của các loài sinh vật của Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN).",
+      en: "The IUCN Red List of Threatened Species: is the world's most comprehensive inventory of the global conservation status of biological species.",
+    },
+    shortName: {
+      vi: "IUCN",
+      en: "IUCN",
+    },
+    data: iucnData as Species[],
+    url: "https://www.iucnredlist.org/",
+    description: {
+      vi: "",
+      en: "",
+    },
+  },
+  {
+    id: "vnredlist",
+    name: {
+      vi: "Danh lục Đỏ Việt Nam: là hệ thống đánh giá chính thức về tình trạng bảo tồn các loài sinh vật ở Việt Nam, được xây dựng và quản lý bởi Viện Hàn lâm Khoa học và Công nghệ Việt Nam (VAST) và Viện Sinh thái và Tài nguyên Sinh vật (IEBR).",
+      en: "The Vietnam Red List: is the official assessment of the conservation status of species in Vietnam, developed and managed by the Vietnam Academy of Science and Technology (VAST) and the Institute of Ecology and Biological Resources (IEBR).",
+    },
+    shortName: {
+      vi: "Danh lục Đỏ VN",
+      en: "VN Red List",
+    },
+    data: vnredlistData as Species[],
+    url: "http://vnredlist.vast.vn/",
     description: {
       vi: "",
       en: "",

@@ -423,6 +423,39 @@ export const SpeciesTable = ({
                           status = species.laws[0]?.value || "";
                           note = species.laws[0]?.note || "";
                         }
+
+                        // Check if this is an IUCN or Vietnam Red List document
+                        const isIUCN = docId === "iucn";
+                        const isVNRedList = docId === "vnredlist";
+                        const isRedList = isIUCN || isVNRedList;
+
+                        // Get IUCN/Red List badge color based on category
+                        const getIUCNBadgeColor = (category: string) => {
+                          switch (category) {
+                            case "EX": // Extinct
+                            case "EW": // Extinct in the Wild
+                              return "bg-black text-white";
+                            case "CR": // Critically Endangered
+                              return "bg-red-700 text-white";
+                            case "EN": // Endangered
+                              return "bg-orange-600 text-white";
+                            case "VU": // Vulnerable
+                              return "bg-yellow-600 text-white";
+                            case "NT": // Near Threatened
+                              return "bg-yellow-400 text-black";
+                            case "LC": // Least Concern
+                              return "bg-green-600 text-white";
+                            case "DD": // Data Deficient
+                              return "bg-gray-500 text-white";
+                            case "NE": // Not Evaluated
+                              return "bg-gray-300 text-black";
+                            case "NA": // Not Applicable
+                              return "bg-gray-300 text-black";
+                            default:
+                              return "bg-gray-400 text-white";
+                          }
+                        };
+
                         return (
                           <TableCell
                             key={`${docId}`}
@@ -430,25 +463,82 @@ export const SpeciesTable = ({
                           >
                             {status && (
                               <div>
-                                <Badge
-                                  className={`text-xs px-2 py-1 ${
-                                    status === "IB" || status === "IA"
-                                      ? "bg-red-600"
-                                      : status === "IIA" || status === "IIB"
-                                      ? "bg-yellow-600"
-                                      : "bg-transparent text-black"
-                                  }`}
-                                >
-                                  {status}
-                                </Badge>
-                                <div className="text-blue-400 text-xs">
-                                  {note}
-                                </div>
+                                {isRedList && note ? (
+                                  <a
+                                    href={note}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    title={t(`iucnCategories.${status}`)}
+                                  >
+                                    <Badge
+                                      className={`text-xs px-2 py-1 cursor-pointer hover:opacity-80 transition-opacity ${getIUCNBadgeColor(
+                                        status
+                                      )}`}
+                                    >
+                                      {status}
+                                    </Badge>
+                                  </a>
+                                ) : (
+                                  <Badge
+                                    className={`text-xs px-2 py-1 ${
+                                      isRedList
+                                        ? getIUCNBadgeColor(status)
+                                        : status === "IB" || status === "IA"
+                                        ? "bg-red-600"
+                                        : status === "IIA" || status === "IIB"
+                                        ? "bg-yellow-600"
+                                        : "bg-transparent text-black"
+                                    }`}
+                                    title={
+                                      isRedList && t(`iucnCategories.${status}`)
+                                        ? t(`iucnCategories.${status}`)
+                                        : status
+                                    }
+                                  >
+                                    {status}
+                                  </Badge>
+                                )}
+                                {!isRedList && note && (
+                                  <div className="text-blue-400 text-xs mt-1">
+                                    {note}
+                                  </div>
+                                )}
                               </div>
                             )}
                           </TableCell>
                         );
                       }
+
+                      const isIUCN = docId === "iucn";
+                      const isVNRedList = docId === "vnredlist";
+                      const isRedList = isIUCN || isVNRedList;
+
+                      // Get IUCN/Red List badge color based on category
+                      const getIUCNBadgeColor = (category: string) => {
+                        switch (category) {
+                          case "EX": // Extinct
+                          case "EW": // Extinct in the Wild
+                            return "bg-black text-white";
+                          case "CR": // Critically Endangered
+                            return "bg-red-700 text-white";
+                          case "EN": // Endangered
+                            return "bg-orange-600 text-white";
+                          case "VU": // Vulnerable
+                            return "bg-yellow-600 text-white";
+                          case "NT": // Near Threatened
+                          case "LR/nt": // Lower Risk/near threatened (old IUCN category)
+                            return "bg-yellow-400 text-black";
+                          case "LC": // Least Concern
+                            return "bg-green-600 text-white";
+                          case "DD": // Data Deficient
+                            return "bg-gray-500 text-white";
+                          case "NE": // Not Evaluated
+                          case "NA": // Not Applicable
+                            return "bg-gray-300 text-black";
+                          default:
+                            return "bg-gray-400 text-white";
+                        }
+                      };
 
                       return categories.map((category, idx) => {
                         let status = "";
@@ -471,20 +561,46 @@ export const SpeciesTable = ({
                           >
                             {status && (
                               <div>
-                                <Badge
-                                  className={`text-xs px-2 py-1 ${
-                                    status === "IB" || status === "IA"
-                                      ? "bg-red-600"
-                                      : status === "IIA" || status === "IIB"
-                                      ? "bg-yellow-600"
-                                      : "bg-transparent text-black"
-                                  }`}
-                                >
-                                  {status}
-                                </Badge>
-                                <div className="text-blue-400 mt-2 text-xs text-wrap">
-                                  {note}
-                                </div>
+                                {isRedList && note ? (
+                                  <a
+                                    href={note}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    title={t(`iucnCategories.${status}`)}
+                                  >
+                                    <Badge
+                                      className={`text-xs px-2 py-1 cursor-pointer hover:opacity-80 transition-opacity ${getIUCNBadgeColor(
+                                        status
+                                      )}`}
+                                    >
+                                      {status}
+                                    </Badge>
+                                  </a>
+                                ) : (
+                                  <Badge
+                                    className={`text-xs px-2 py-1 ${
+                                      isRedList
+                                        ? getIUCNBadgeColor(status)
+                                        : status === "IB" || status === "IA"
+                                        ? "bg-red-600"
+                                        : status === "IIA" || status === "IIB"
+                                        ? "bg-yellow-600"
+                                        : "bg-transparent text-black"
+                                    }`}
+                                    title={
+                                      isRedList && t(`iucnCategories.${status}`)
+                                        ? t(`iucnCategories.${status}`)
+                                        : status
+                                    }
+                                  >
+                                    {status}
+                                  </Badge>
+                                )}
+                                {!isRedList && note && (
+                                  <div className="text-blue-400 mt-2 text-xs text-wrap">
+                                    {note}
+                                  </div>
+                                )}
                               </div>
                             )}
                           </TableCell>
