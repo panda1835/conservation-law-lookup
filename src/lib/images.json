@@ -1,1514 +1,2271 @@
 {
-    "Pygathrix nemaeus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511123312/medium.jpg",
-            "attribute": "(c) the_taxanaut, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Tyto alba": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165796939/medium.jpg",
-            "attribute": "(c) caroline legg, some rights reserved (CC BY)"
-        }
-    ],
-    "Calocedrus rupestris": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295529073/medium.jpg",
-            "attribute": "(c) James Hardcastle, some rights reserved (CC BY), uploaded by James Hardcastle to iNaturalist"
-        }
-    ],
-    "Bubalus arnee": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47515716/medium.jpg",
-            "attribute": "(c) Subhadra Devi, some rights reserved (CC BY), uploaded by Subhadra Devi to iNaturalist"
-        }
-    ],
-    "Tragulus versicolor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355517722/medium.png",
-            "attribute": "(c) User:מנחם.אל, some rights reserved (CC BY)"
-        }
-    ],
-    "Paphiopedilum emersonii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7496571/medium.jpg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Cuora mouhotii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416254895/medium.jpg",
-            "attribute": "(c) lightwind, some rights reserved (CC BY-NC), uploaded by lightwind to iNaturalist"
-        }
-    ],
-    "Moschus berezovskii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155080061/medium.jpeg",
-            "attribute": "(c) Phil Benstead, some rights reserved (CC BY-NC), uploaded by Phil Benstead to iNaturalist"
-        }
-    ],
-    "Aceros nipalensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110097347/medium.jpg",
-            "attribute": "(c) soarexcursions, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Platalea minor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365947667/medium.jpg",
-            "attribute": "(c) Arlango Lee, some rights reserved (CC BY-NC), uploaded by Arlango Lee to iNaturalist"
-        }
-    ],
-    "Batagur affinis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62104789/medium.jpg",
-            "attribute": "(c) John Howes, some rights reserved (CC BY-NC), uploaded by John Howes to iNaturalist"
-        }
-    ],
-    "Cuora cyclornata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17584166/medium.jpg",
-            "attribute": "(c) Original uploader was Cuora at en.wikipedia. Later version(s) were uploaded by Storkk at en.wikipedia., some rights reserved (CC BY-SA) to iNaturalist"
-        }
-    ],
-    "Strix seloputo": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10771391/medium.jpeg",
-            "attribute": "(c) Catalina Tong, some rights reserved (CC BY-NC), uploaded by Catalina Tong to iNaturalist"
-        }
-    ],
-    "Elanus caeruleus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg",
-            "attribute": "(c) Daniel Liepack, some rights reserved (CC BY-NC), uploaded by Daniel Liepack to iNaturalist"
-        }
-    ],
-    "Butastur liventer": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348115866/medium.jpg",
-            "attribute": "(c) clicque, some rights reserved (CC BY-NC), uploaded by clicque to iNaturalist"
-        }
-    ],
-    "Bos javanicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60532199/medium.jpeg",
-            "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning to iNaturalist"
-        }
-    ],
-    "Circus cyaneus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg",
-            "attribute": "(c) Константин Самодуров, some rights reserved (CC BY-NC), uploaded by Константин Самодуров to iNaturalist"
-        }
-    ],
-    "Arborophila davidi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430252844/medium.jpg",
-            "attribute": "(c) matthewkwan, kai kurios teisės saugomos (CC BY-ND), uploaded by matthewkwan to iNaturalist"
-        }
-    ],
-    "Elephas maximus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035244/medium.jpg",
-            "attribute": "(c) Mousam Ray, some rights reserved (CC BY-NC), uploaded by Mousam Ray to iNaturalist"
-        }
-    ],
-    "Glyptostrobus pensilis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129892/medium.jpg",
-            "attribute": "(c) Tony Rodd, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Heosemys grandis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2852040/medium.jpg",
-            "attribute": "(c) J. Maughn, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Troides helena cerberus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24647099/medium.jpg",
-            "attribute": "(c) Tan Kok Hui, some rights reserved (CC BY-NC), uploaded by Tan Kok Hui to iNaturalist"
-        }
-    ],
-    "Muntiacus rooseveltorum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354204852/medium.png",
-            "attribute": "(c) User:מנחם.אל, some rights reserved (CC BY)"
-        }
-    ],
-    "Sindora siamensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2053260/medium.jpg",
-            "attribute": "(c) eyeweed, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Numenius madagascariensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422481739/medium.jpg",
-            "attribute": "(c) Grace Bryant, some rights reserved (CC BY-NC), uploaded by Grace Bryant to iNaturalist"
-        }
-    ],
-    "Paphiopedilum delenatii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5962545/medium.jpeg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Xanthocyparis vietnamensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151300/medium.jpg",
-            "attribute": "(c) Themodoccypress (J. Malone), some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Circaetus gallicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40950147/medium.jpg",
-            "attribute": "(c) Vijay Vanaparthy, some rights reserved (CC BY), uploaded by Vijay Vanaparthy to iNaturalist"
-        }
-    ],
-    "Troides aeacus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180519485/medium.jpg",
-            "attribute": "(c) Steve, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Paphiopedilum helenae": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3829555/medium.jpg",
-            "attribute": "(c) anonymous, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Rheinardia ocellata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11382135/medium.jpeg",
-            "attribute": "(c) Diego Delso, kai kurios teisės saugomos (CC BY-SA)"
-        }
-    ],
-    "Pitta nympha": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195561792/medium.jpeg",
-            "attribute": "(c) Sajee Kongsuwan, some rights reserved (CC BY-NC), uploaded by Sajee Kongsuwan to iNaturalist"
-        }
-    ],
-    "Amyda ornata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179469771/medium.jpg",
-            "attribute": "(c) MSOne, some rights reserved (CC BY-NC-ND), uploaded by MSOne to iNaturalist"
-        }
-    ],
-    "Huperzia serrata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91939886/medium.jpeg",
-            "attribute": "(c) V.S. Volkotrub, some rights reserved (CC BY-NC), uploaded by V.S. Volkotrub to iNaturalist"
-        }
-    ],
-    "Abies delavayi fansipanensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456643167/medium.jpg",
-            "attribute": "(c) Darrell Parsons, some rights reserved (CC BY-NC), uploaded by Darrell Parsons to iNaturalist"
-        }
-    ],
-    "Pygathrix cinerea": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523257659/medium.jpg",
-            "attribute": "(c) the_taxanaut, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Dugong dugon": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415728148/medium.jpg",
-            "attribute": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B. to iNaturalist"
-        }
-    ],
-    "Mycteria cinerea": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181076647/medium.jpeg",
-            "attribute": "(c) Minder Singh, some rights reserved (CC BY-NC), uploaded by Minder Singh to iNaturalist"
-        }
-    ],
-    "Haliaeetus albicilla": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164904961/medium.jpg",
-            "attribute": "(c) Jacob  Spinks, some rights reserved (CC BY)"
-        }
-    ],
-    "Trochalopteron melanostigma": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13564106/medium.jpeg",
-            "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje to iNaturalist"
-        }
-    ],
-    "Nisaetus nipalensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174790909/medium.jpeg",
-            "attribute": "(c) Jagdish Singh Negi, some rights reserved (CC BY), uploaded by Jagdish Singh Negi to iNaturalist"
-        }
-    ],
-    "Eretmochelys imbricata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511341341/medium.jpg",
-            "attribute": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B. to iNaturalist"
-        }
-    ],
-    "Indotestudo elongata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21702504/medium.jpg",
-            "attribute": "(c) Rejoice Gassah, some rights reserved (CC BY-NC), uploaded by Rejoice Gassah to iNaturalist"
-        }
-    ],
-    "Garrulax leucolophus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20167144/medium.jpg",
-            "attribute": "(c) Md Jusri, some rights reserved (CC BY-NC), uploaded by Md Jusri to iNaturalist"
-        }
-    ],
-    "Trochalopteron affine": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555204/medium.jpg",
-            "attribute": "(c) Allan Drewitt, some rights reserved (CC BY)"
-        }
-    ],
-    "Numida meleagris": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199644869/medium.jpg",
-            "attribute": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Cairina moschata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389963/medium.jpg",
-            "attribute": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Nisaetus cirrhatus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48245091/medium.jpeg",
-            "attribute": "(c) Chathuri Jayatissa, some rights reserved (CC BY-NC), uploaded by Chathuri Jayatissa to iNaturalist"
-        }
-    ],
-    "Liocichla ripponi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209358/medium.jpg",
-            "attribute": "(c) Carlos Sanchez, some rights reserved (CC BY-NC), uploaded by Carlos Sanchez to iNaturalist"
-        }
-    ],
-    "Panthera tigris": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13207883/medium.jpg",
-            "attribute": "(c) omveerchoudhary, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Aquila nipalensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035345/medium.jpg",
-            "attribute": "(c) Mousam Ray, some rights reserved (CC BY-NC), uploaded by Mousam Ray to iNaturalist"
-        }
-    ],
-    "Lophotriorchis kienerii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218264330/medium.jpeg",
-            "attribute": "(c) Karim Imran, some rights reserved (CC BY-NC), uploaded by Karim Imran to iNaturalist"
-        }
-    ],
-    "Manouria impressa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207900849/medium.jpg",
-            "attribute": "(c) ayuwat, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Circus aeruginosus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113786815/medium.jpg",
-            "attribute": "(c) Radovan Václav, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Emberiza aureola": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57723251/medium.jpg",
-            "attribute": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov to iNaturalist"
-        }
-    ],
-    "Taiwania cryptomerioides": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/828706/medium.jpg",
-            "attribute": "(c) Tony Rodd, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Pelecanus philippensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230657515/medium.jpg",
-            "attribute": "(c) Anuvinda_D., some rights reserved (CC BY-NC), uploaded by Anuvinda_D. to iNaturalist"
-        }
-    ],
-    "Cutia legalleni": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253075714/medium.jpg",
-            "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
-        }
-    ],
-    "Circus spilonotus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127663648/medium.jpg",
-            "attribute": "(c) Griha Hasanov, some rights reserved (CC BY), uploaded by Griha Hasanov to iNaturalist"
-        }
-    ],
-    "Calamus poilanei": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76334467/medium.jpg",
-            "attribute": "(c) Simon Williams，保留部分权利（CC BY-NC）, 由 Simon Williams 上传"
-        }
-    ],
-    "Fibraurea tinctoria": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/993350/medium.JPG",
-            "attribute": "(c) 106611639464075912591, some rights reserved (CC BY-NC-SA), uploaded by 106611639464075912591 to iNaturalist"
-        }
-    ],
-    "Colocasia esculenta": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20295281/medium.jpeg",
-            "attribute": "(c) Kuan-Chieh (Chuck) Hung, some rights reserved (CC BY-NC-SA), uploaded by Kuan-Chieh (Chuck) Hung to iNaturalist"
-        }
-    ],
-    "Berberidaceae": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14991/medium.jpg",
-            "attribute": "(c) James Gaither, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Actinodura sodangorum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29612920/medium.jpg",
-            "attribute": "(c) stanlilley, some rights reserved (CC BY-NC), uploaded by stanlilley to iNaturalist"
-        }
-    ],
-    "Mergus squamatus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13173093/medium.jpg",
-            "attribute": "(c) DickDaniels, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Nomascus annamensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301456890/medium.jpg",
-            "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
-        }
-    ],
-    "Paphiopedilum micranthum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116281410/medium.jpeg",
-            "attribute": "(c) Ryan Yue Wah Chan, some rights reserved (CC BY-NC), uploaded by Ryan Yue Wah Chan to iNaturalist"
-        }
-    ],
-    "Paphiopedilum callosum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090635/medium.jpg",
-            "attribute": "(c) Dalton Holland Baptista, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Thalictrum foliolosum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51416491/medium.jpeg",
-            "attribute": "(c) Siddarth Machado, some rights reserved (CC BY), uploaded by Siddarth Machado to iNaturalist"
-        }
-    ],
-    "Cuora amboinensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30655732/medium.jpg",
-            "attribute": "(c) Tom Kirschey, some rights reserved (CC BY-NC), uploaded by Tom Kirschey to iNaturalist"
-        }
-    ],
-    "Paphiopedilum appletonianum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14096706/medium.jpeg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Garrulax monileger": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81340307/medium.jpg",
-            "attribute": "(c) Utain Pummarin, some rights reserved (CC BY-NC), uploaded by Utain Pummarin to iNaturalist"
-        }
-    ],
-    "Nomascus siki": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59458288/medium.jpg",
-            "attribute": "(c) Linda De Volder, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Cnemaspis psychedelica": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175743528/medium.jpg",
-            "attribute": "(c) Ken190, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Haliaeetus leucoryphus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100433148/medium.jpg",
-            "attribute": "(c) Koshy Koshy, some rights reserved (CC BY)"
-        }
-    ],
-    "Canis aureus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12400254/medium.jpg",
-            "attribute": "(c) Balaji Venkatesh Sivaramakrishnan, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Cyclemys atripons": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442448665/medium.jpeg",
-            "attribute": "(c) Andrew Pierce, some rights reserved (CC BY-NC), uploaded by Andrew Pierce to iNaturalist"
-        }
-    ],
-    "Accipiter nisus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60499639/medium.jpg",
-            "attribute": "(c) john.purvis, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Aquila fasciata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6974428/medium.jpg",
-            "attribute": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools to iNaturalist"
-        }
-    ],
-    "Chrotogale owstoni": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215678231/medium.jpeg",
-            "attribute": "(c) 刘光裕 Liu Guangyu，保留部分权利（CC BY-NC）, 由 刘光裕 Liu Guangyu 上传"
-        }
-    ],
-    "Pterorhinus albogularis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331426540/medium.jpg",
-            "attribute": "(c) P. S. Sivaprasad, some rights reserved (CC BY-NC), uploaded by P. S. Sivaprasad to iNaturalist"
-        }
-    ],
-    "Microhierax melanoleucos": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198693685/medium.jpg",
-            "attribute": "(c) Savi.odl, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Caretta caretta": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/medium.jpeg",
-            "attribute": "(c) Roberto Pillon, some rights reserved (CC BY-NC), uploaded by Roberto Pillon to iNaturalist"
-        }
-    ],
-    "Pavo muticus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4396813/medium.jpg",
-            "attribute": "(c) Jonah van Beijnen, some rights reserved (CC BY-NC), uploaded by Jonah van Beijnen to iNaturalist"
-        }
-    ],
-    "Tringa guttifer": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105857408/medium.jpg",
-            "attribute": "(c) suchihfen, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Falco peregrinus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212499709/medium.jpg",
-            "attribute": "(c) nautiboy, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Helarctos malayanus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85921248/medium.jpg",
-            "attribute": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC), uploaded by Wich’yanan (Jay) Limparungpatthanakij to iNaturalist"
-        }
-    ],
-    "Trochalopteron ngoclinhense": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355853936/medium.jpg",
-            "attribute": "(c) egorbirder, some rights reserved (CC BY)"
-        }
-    ],
-    "Cuon alpinus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65925444/medium.jpg",
-            "attribute": "(c) janconl, some rights reserved (CC BY-NC-SA), uploaded by janconl to iNaturalist"
-        }
-    ],
-    "Butastur indicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397922206/medium.jpeg",
-            "attribute": "(c) nhm_36, some rights reserved (CC BY-NC), uploaded by nhm_36 to iNaturalist"
-        }
-    ],
-    "Oryza sativa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48742632/medium.jpg",
-            "attribute": "(c) Luis Mata, some rights reserved (CC BY-NC), uploaded by Luis Mata to iNaturalist"
-        }
-    ],
-    "Polygonatum kingianum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130073718/medium.jpg",
-            "attribute": "(c) dogtooth77, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Cibotium barometz": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/211082/medium.jpg",
-            "attribute": "(c) Kai Yan,  Joseph Wong, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Leptoptilos javanicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83175175/medium.jpeg",
-            "attribute": "(c) Chathuri Jayatissa, some rights reserved (CC BY-NC), uploaded by Chathuri Jayatissa to iNaturalist"
-        }
-    ],
-    "Trachypithecus crepusculus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228255814/medium.jpg",
-            "attribute": "(c) ayuwat, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Pseudoryx nghetinhensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251278672/medium.jpg",
-            "attribute": "(c) testerpro, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Naja kaouthia": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59656179/medium.jpg",
-            "attribute": "(c) herpingvietnam, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Cyclemys oldhamii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461582736/medium.jpg",
-            "attribute": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC), uploaded by Wich’yanan (Jay) Limparungpatthanakij to iNaturalist"
-        }
-    ],
-    "Aegypius monachus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg",
-            "attribute": "(c) rociomar, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Gekko reevesii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43766531/medium.jpeg",
-            "attribute": "(c) Alex Krohn, some rights reserved (CC BY-NC-SA), uploaded by Alex Krohn to iNaturalist"
-        }
-    ],
-    "Lutra lutra": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389336/medium.jpg",
-            "attribute": "(c) Tomi Tirkkonen, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Polyplectron germaini": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264334869/medium.jpeg",
-            "attribute": "(c) TK Pham, some rights reserved (CC BY-NC-ND), uploaded by TK Pham to iNaturalist"
-        }
-    ],
-    "Glaucidium cuculoides": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268450564/medium.jpg",
-            "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly to iNaturalist"
-        }
-    ],
-    "Dalbergia oliveri": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187013358/medium.jpg",
-            "attribute": "(c) dechaphaetkrathok, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Aviceda leuphotes": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4970325/medium.jpg",
-            "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Nomascus leucogenys": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119501447/medium.jpg",
-            "attribute": "(c) cuatrok77, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Prionailurus viverrinus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324406071/medium.jpg",
-            "attribute": "(c) Tim Bawden, some rights reserved (CC BY-NC), uploaded by Tim Bawden to iNaturalist"
-        }
-    ],
-    "Dermochelys coriacea": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244918310/medium.jpg",
-            "attribute": "(c) azure27014, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Gekko gecko": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104000974/medium.jpeg",
-            "attribute": "(c) Xavier Rufray, some rights reserved (CC BY-NC), uploaded by Xavier Rufray to iNaturalist"
-        }
-    ],
-    "Pygathrix nigripes": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440302643/medium.jpg",
-            "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
-        }
-    ],
-    "Rafetus swinhoei": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156754360/medium.jpg",
-            "attribute": "(c) Phuongcacanh, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Gracula religiosa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9703244/medium.jpeg",
-            "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje to iNaturalist"
-        }
-    ],
-    "Macaca mulatta": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8739674/medium.jpg",
-            "attribute": "(c) Markus  Lilje, some rights reserved (CC BY-NC-ND), uploaded by Markus  Lilje to iNaturalist"
-        }
-    ],
-    "Egretta eulophotes": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285316496/medium.jpg",
-            "attribute": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева to iNaturalist"
-        }
-    ],
-    "Trochalopteron formosum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22713962/medium.jpg",
-            "attribute": "(c) Steve, some rights reserved (CC BY-NC), uploaded by Steve to iNaturalist"
-        }
-    ],
-    "Bos sauveli": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11478701/medium.jpg",
-            "attribute": "(c) vivtony00, some rights reserved (CC BY)"
-        }
-    ],
-    "Naja siamensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21257971/medium.jpeg",
-            "attribute": "(c) tristanv, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Keteleeria davidiana": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1539748/medium.jpg",
-            "attribute": "(c) Yoko Nekonomania, some rights reserved (CC BY)"
-        }
-    ],
-    "Sousa chinensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75164828/medium.jpg",
-            "attribute": "(c) Stephen Ng, some rights reserved (CC BY-NC), uploaded by Stephen Ng to iNaturalist"
-        }
-    ],
-    "Trachypithecus francoisi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148865296/medium.jpg",
-            "attribute": "(c) Nat Panda, some rights reserved (CC BY-NC-SA), uploaded by Nat Panda to iNaturalist"
-        }
-    ],
-    "Rucervus eldii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263290223/medium.jpg",
-            "attribute": "(c) Li Jianong, some rights reserved (CC BY-NC), uploaded by Li Jianong to iNaturalist"
-        }
-    ],
-    "Pterorhinus gularis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351171518/medium.jpg",
-            "attribute": "(c) Rohit Naniwadekar, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Siebenrockiella crassicollis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1458892/medium.jpg",
-            "attribute": "(c) Bernard DUPONT, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Paphiopedilum vietnamense": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5962560/medium.jpeg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Petaurista philippensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456073462/medium.jpg",
-            "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
-        }
-    ],
-    "Trachypithecus poliocephalus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42592257/medium.jpg",
-            "attribute": "(c) Luan Mai Sy, some rights reserved (CC BY-NC), uploaded by Luan Mai Sy to iNaturalist"
-        }
-    ],
-    "Nesolagus timminsi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17566526/medium.jpg",
-            "attribute": "(c) Planet Earth, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Felis chaus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60135146/medium.jpeg",
-            "attribute": "(c) Harshad Sharma, some rights reserved (CC BY), uploaded by Harshad Sharma to iNaturalist"
-        }
-    ],
-    "Pinus dalatensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80765598/medium.jpeg",
-            "attribute": "(c) bangtran, some rights reserved (CC BY-NC), uploaded by bangtran to iNaturalist"
-        }
-    ],
-    "Ratufa bicolor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9885623/medium.jpg",
-            "attribute": "(c) pfaucher, some rights reserved (CC BY-NC), uploaded by pfaucher to iNaturalist"
-        }
-    ],
-    "Python bivittatus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56087430/medium.jpeg",
-            "attribute": "(c) Wayne Fidler, some rights reserved (CC BY-NC), uploaded by Wayne Fidler to iNaturalist"
-        }
-    ],
-    "Prionailurus bengalensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4274167/medium.jpg",
-            "attribute": "(c) Yu Ching Tam, some rights reserved (CC BY-NC-ND), uploaded by Yu Ching Tam to iNaturalist"
-        }
-    ],
-    "Mauremys nigricans": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277848501/medium.jpg",
-            "attribute": "(c) Cyrus Li, some rights reserved (CC BY-NC), uploaded by Cyrus Li to iNaturalist"
-        }
-    ],
-    "Carpococcyx renauldi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107455999/medium.jpg",
-            "attribute": "(c) Xavier Rufray, some rights reserved (CC BY-NC), uploaded by Xavier Rufray to iNaturalist"
-        }
-    ],
-    "Paphiopedilum villosum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4821128/medium.jpeg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Microhierax caerulescens": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243347405/medium.jpg",
-            "attribute": "(c) Avinash Bhagat, some rights reserved (CC BY-NC), uploaded by Avinash Bhagat to iNaturalist"
-        }
-    ],
-    "Pseudibis gigantea": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205925839/medium.jpg",
-            "attribute": "(c) matthewkwan, some rights reserved (CC BY-ND), uploaded by matthewkwan to iNaturalist"
-        }
-    ],
-    "Hydrornis nipalensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259926437/medium.jpeg",
-            "attribute": "(c) Wat Wongpan, some rights reserved (CC BY-NC), uploaded by Wat Wongpan to iNaturalist"
-        }
-    ],
-    "Arctogalidia trivirgata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6676249/medium.jpg",
-            "attribute": "(c) Mikael Bauer, some rights reserved (CC BY-NC), uploaded by Mikael Bauer to iNaturalist"
-        }
-    ],
-    "Arborophila rufogularis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13563732/medium.jpeg",
-            "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje to iNaturalist"
-        }
-    ],
-    "Psittacula eupatria": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61055458/medium.jpeg",
-            "attribute": "(c) jageshwerverma, some rights reserved (CC BY-NC), uploaded by jageshwerverma to iNaturalist"
-        }
-    ],
-    "Otus spilocephalus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1725240/medium.jpg",
-            "attribute": "(c) Soham Dixit, some rights reserved (CC BY-NC), uploaded by Soham Dixit to iNaturalist"
-        }
-    ],
-    "Ptyas mucosa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323553661/medium.jpg",
-            "attribute": "(c) \nArun Kumar Thyadi, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Physignathus cocincinus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143097581/medium.jpg",
-            "attribute": "(c) paulmckenzie, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Viverra zibetha": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11172409/medium.jpeg",
-            "attribute": "(c) pfaucher, some rights reserved (CC BY-NC), uploaded by pfaucher to iNaturalist"
-        }
-    ],
-    "Cuora bourreti": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65195133/medium.jpg",
-            "attribute": "(c) Cuora, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Asarcornis scutulata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98380423/medium.png",
-            "attribute": "(c) Ashley Coates, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Axis porcinus annamiticus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135676130/medium.jpg",
-            "attribute": "(c) Thanyarat Sukruan, some rights reserved (CC BY-NC), uploaded by Thanyarat Sukruan to iNaturalist"
-        }
-    ],
-    "Calocedrus macrolepis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11163730/medium.jpg",
-            "attribute": "(c) Krzysztof Ziarnek, Kenraiz, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Calidris pygmaea": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246421543/medium.jpg",
-            "attribute": "(c) Alexander Yakovlev, some rights reserved (CC BY-NC), uploaded by Alexander Yakovlev to iNaturalist"
-        }
-    ],
-    "Arctictis binturong": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145153388/medium.jpg",
-            "attribute": "(c) Joachim S. Müller, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Trachypithecus germaini": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2042317/medium.JPG",
-            "attribute": "(c) bangtran, some rights reserved (CC BY-NC), uploaded by bangtran to iNaturalist"
-        }
-    ],
-    "Pteropus hypomelanus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56461104/medium.jpg",
-            "attribute": "(c) Pavel Kirillov, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Platysternon megacephalum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150945171/medium.jpg",
-            "attribute": "(c) Binturong27, some rights reserved (CC BY-NC), uploaded by Binturong27 to iNaturalist"
-        }
-    ],
-    "Teinopalpus imperialis imperialis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264167435/medium.jpg",
-            "attribute": "(c) Robert Gilson, some rights reserved (CC BY-NC), uploaded by Robert Gilson to iNaturalist"
-        }
-    ],
-    "Lophura diardi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255263566/medium.jpeg",
-            "attribute": "(c) Геннадий Дякин, some rights reserved (CC BY-NC), uploaded by Геннадий Дякин to iNaturalist"
-        }
-    ],
-    "Cinnamomum glaucescens": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60096914/medium.jpg",
-            "attribute": "(c) Ryne Rutherford, some rights reserved (CC BY-NC), uploaded by Ryne Rutherford to iNaturalist"
-        }
-    ],
-    "Circus melanoleucos": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197094138/medium.jpg",
-            "attribute": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева to iNaturalist"
-        }
-    ],
-    "Ursus thibetanus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9815851/medium.jpg",
-            "attribute": "(c) Dr. Raju Kasambe, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Taxus chinensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122958817/medium.jpeg",
-            "attribute": "(c) MP Zhou, some rights reserved (CC BY-NC), uploaded by MP Zhou to iNaturalist"
-        }
-    ],
-    "Ciconia episcopus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1950709/medium.JPG",
-            "attribute": "(c) Subhajit Roy, some rights reserved (CC BY-NC-ND), uploaded by Subhajit Roy to iNaturalist"
-        }
-    ],
-    "Coscinium fenestratum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2044182/medium.jpg",
-            "attribute": "(c) Vinayaraj, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Fibraurea recisa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31678382/medium.jpeg",
-            "attribute": "(c) 刘光裕 Liu Guangyu, some rights reserved (CC BY-NC), uploaded by 刘光裕 Liu Guangyu to iNaturalist"
-        }
-    ],
-    "Houbaropsis bengalensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359945422/medium.jpg",
-            "attribute": "(c) Sourav Halder, some rights reserved (CC BY-NC), uploaded by Sourav Halder to iNaturalist"
-        }
-    ],
-    "Panthera pardus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8666580/medium.jpeg",
-            "attribute": "(c) janaohrner, some rights reserved (CC BY-NC), uploaded by janaohrner to iNaturalist"
-        }
-    ],
-    "Pterorhinus pectoralis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23848292/medium.jpg",
-            "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough to iNaturalist"
-        }
-    ],
-    "Athene brama": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89909173/medium.jpg",
-            "attribute": "(c) Ananya Mondal, some rights reserved (CC BY-SA), uploaded by Ananya Mondal to iNaturalist"
-        }
-    ],
-    "Paphiopedilum concolor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090645/medium.jpg",
-            "attribute": "(c) Orchi, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Threskiornis melanocephalus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259008/medium.jpg",
-            "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Gyps indicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440877661/medium.jpg",
-            "attribute": "(c) Dhyey Shah, some rights reserved (CC BY-NC), uploaded by Dhyey Shah to iNaturalist"
-        }
-    ],
-    "Teinopalpus aureus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49379950/medium.jpeg",
-            "attribute": "(c) raylei, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Tragulus javanicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48724299/medium.jpg",
-            "attribute": "(c) Joachim S. Müller, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Trachypithecus margarita": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42579041/medium.jpg",
-            "attribute": "(c) Grigory Evtukh, some rights reserved (CC BY-NC), uploaded by Grigory Evtukh to iNaturalist"
-        }
-    ],
-    "Amyda cartilaginea": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140903/medium.jpg",
-            "attribute": "(c) Thomas Calame, some rights reserved (CC BY-NC), uploaded by Thomas Calame to iNaturalist"
-        }
-    ],
-    "Pseudibis davisoni": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178251484/medium.jpg",
-            "attribute": "(c) quiltedquetzal, kai kurios teisės saugomos (CC BY-NC), uploaded by quiltedquetzal to iNaturalist"
-        }
-    ],
-    "Naja atra": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32005491/medium.jpg",
-            "attribute": "(c) ong-siau-kun, some rights reserved (CC BY-NC), uploaded by ong-siau-kun to iNaturalist"
-        }
-    ],
-    "Disporopsis longifolia": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408469762/medium.jpg",
-            "attribute": "(c) Xuan Chuan, some rights reserved (CC BY-NC), uploaded by Xuan Chuan to iNaturalist"
-        }
-    ],
-    "Laniellus langbianis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60342911/medium.jpeg",
-            "attribute": "(c) Filipe J Ribeiro, some rights reserved (CC BY-NC), uploaded by Filipe J Ribeiro to iNaturalist"
-        }
-    ],
-    "Sus scrofa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414500081/medium.jpg",
-            "attribute": "(c) Nathalie Hausser, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Pterorhinus perspicillatus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555195/medium.jpg",
-            "attribute": "(c) Darren, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Pitta moluccensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182302378/medium.jpg",
-            "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly to iNaturalist"
-        }
-    ],
-    "Viverricula indica": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303182/medium.JPG",
-            "attribute": "(c) Carmelo López Abad, some rights reserved (CC BY-NC), uploaded by Carmelo López Abad to iNaturalist"
-        }
-    ],
-    "Ranunculaceae": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3063606/medium.jpg",
-            "attribute": "(c) Colin Ogle, some rights reserved (CC BY-NC), uploaded by Colin Ogle to iNaturalist"
-        }
-    ],
-    "Geoemyda spengleri": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60629328/medium.jpg",
-            "attribute": "(c) Josh More, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Fokienia hodginsii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8626191/medium.jpg",
-            "attribute": "(c) Zhangzhugang, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Mustela strigidorsa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366019974/medium.jpg",
-            "attribute": "(c) Walk A Long, some rights reserved (CC BY-NC), uploaded by Walk A Long to iNaturalist"
-        }
-    ],
-    "Heliopais personatus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6674965/medium.jpeg",
-            "attribute": "(c) Tun Pin ONG, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Aquila heliaca": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/379642922/medium.jpg",
-            "attribute": "(c) Андрей Семенов, some rights reserved (CC BY-NC), uploaded by Андрей Семенов to iNaturalist"
-        }
-    ],
-    "Rhyticeros undulatus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301434/medium.JPG",
-            "attribute": "(c) Carmelo López Abad, some rights reserved (CC BY-NC), uploaded by Carmelo López Abad to iNaturalist"
-        }
-    ],
-    "Milvus migrans": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg",
-            "attribute": "(c) Joshua S. Martin, some rights reserved (CC BY-NC), uploaded by Joshua S. Martin to iNaturalist"
-        }
-    ],
-    "Falco severus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7691824/medium.jpg",
-            "attribute": "(c) Michael Gillam, some rights reserved (CC BY)"
-        }
-    ],
-    "Prionodon pardicolor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100839651/medium.jpg",
-            "attribute": "(c) Elangbam Premjit Singh, some rights reserved (CC BY-NC), uploaded by Elangbam Premjit Singh to iNaturalist"
-        }
-    ],
-    "Viverra megaspila": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467302919/medium.jpeg",
-            "attribute": "(c) Phakawat Kittikhunodom, some rights reserved (CC BY-NC), uploaded by Phakawat Kittikhunodom to iNaturalist"
-        }
-    ],
-    "Vigna umbellata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321228117/medium.jpg",
-            "attribute": "(c) Chuangzao, some rights reserved (CC BY-NC), uploaded by Chuangzao to iNaturalist"
-        }
-    ],
-    "Garrulax merulinus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97673224/medium.jpg",
-            "attribute": "(c) Peter Ericsson, some rights reserved (CC BY-NC), uploaded by Peter Ericsson to iNaturalist"
-        }
-    ],
-    "Arctonyx collaris": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76844429/medium.jpg",
-            "attribute": "(c) Khemthong Tonsakulrungruang, some rights reserved (CC BY-NC), uploaded by Khemthong Tonsakulrungruang to iNaturalist"
-        }
-    ],
-    "Diospyros mun": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55361081/medium.jpeg",
-            "attribute": "(c) Lê Võ Sơn Quân, some rights reserved (CC BY-NC), uploaded by Lê Võ Sơn Quân to iNaturalist"
-        }
-    ],
-    "Falco tinnunculus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464353866/medium.jpg",
-            "attribute": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab to iNaturalist"
-        }
-    ],
-    "Catopuma temminckii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187398363/medium.jpg",
-            "attribute": "(c) Karen Stout, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Tragopan temminckii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66364877/medium.jpg",
-            "attribute": "(c) Matěj Baťha, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Nomascus gabriellae": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493042564/medium.jpg",
-            "attribute": "(c) Next Continent: Wildlife, Photography and Natural History Tours, some rights reserved (CC BY-NC), uploaded by Next Continent: Wildlife, Photography and Natural History Tours to iNaturalist"
-        }
-    ],
-    "Ianthocincla konkakinhensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105778479/medium.jpeg",
-            "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning to iNaturalist"
-        }
-    ],
-    "Circus macrourus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210924816/medium.jpg",
-            "attribute": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева to iNaturalist"
-        }
-    ],
-    "Malayemys subtrijuga": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/918387/medium.jpg",
-            "attribute": "(c) Martin Grimm, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Mauremys annamensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27138188/medium.jpg",
-            "attribute": "(c) Tommy Hui, some rights reserved (CC BY-NC), uploaded by Tommy Hui to iNaturalist"
-        }
-    ],
-    "Berberis julianae": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355911230/medium.jpeg",
-            "attribute": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay to iNaturalist"
-        }
-    ],
-    "Python molurus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51465007/medium.jpg",
-            "attribute": "(c) John Sullivan, some rights reserved (CC BY-NC), uploaded by John Sullivan to iNaturalist"
-        }
-    ],
-    "Chelonia mydas": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248337518/medium.jpg",
-            "attribute": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B. to iNaturalist"
-        }
-    ],
-    "Copsychus malabaricus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279082/medium.jpg",
-            "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Pterorhinus vassali": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140346665/medium.jpg",
-            "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
-        }
-    ],
-    "Rusa unicolor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366789669/medium.jpg",
-            "attribute": "(c) Rashityagi, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Paphiopedilum gratrixianum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5328994/medium.jpeg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Lilium poilanei": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53025776/medium.jpg",
-            "attribute": "(c) ceo5956gmailcom, some rights reserved (CC BY-NC), uploaded by ceo5956gmailcom to iNaturalist"
-        }
-    ],
-    "Nomascus nasutus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59458236/medium.jpg",
-            "attribute": "(c) Geof Wilson, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Pinus hwangshanensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8464339/medium.jpg",
-            "attribute": "(c) andreaqi / Andrew Ciceri, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Paphiopedilum dianthum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090647/medium.jpg",
-            "attribute": "(c) Orchi, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Petaurista petaurista": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4162198/medium.jpg",
-            "attribute": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz to iNaturalist"
-        }
-    ],
-    "Pinus krempfii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17162008/medium.jpg",
-            "attribute": "(c) Eugene Popov, some rights reserved (CC BY)"
-        }
-    ],
-    "Garrulax castanotis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262121958/medium.jpeg",
-            "attribute": "(c) kangkang, some rights reserved (CC BY-NC), uploaded by kangkang to iNaturalist"
-        }
-    ],
-    "Paphiopedilum malipoense": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090692/medium.jpg",
-            "attribute": "(c) Dalton Holland Baptista, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Otus lettia": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44097511/medium.jpg",
-            "attribute": "(c) matthewkwan, some rights reserved (CC BY-ND), uploaded by matthewkwan to iNaturalist"
-        }
-    ],
-    "Rhinoceros sondaicus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298835434/medium.jpg",
-            "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
-        }
-    ],
-    "Hydrornis elliotii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105703081/medium.jpeg",
-            "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning to iNaturalist"
-        }
-    ],
-    "Cunninghamia konishii": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32373744/medium.jpeg",
-            "attribute": "(c) 呂一起(Lu i-chi), some rights reserved (CC BY), uploaded by 呂一起(Lu i-chi) to iNaturalist"
-        }
-    ],
-    "Pandion haliaetus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/medium.jpg",
-            "attribute": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley to iNaturalist"
-        }
-    ],
-    "Trachypithecus hatinhensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345368459/medium.jpg",
-            "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
-        }
-    ],
-    "Icthyophaga ichthyaetus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325795578/medium.jpg",
-            "attribute": "(c) Griha Hasanov, some rights reserved (CC BY), uploaded by Griha Hasanov to iNaturalist"
-        }
-    ],
-    "Garrulax maesi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154079500/medium.jpg",
-            "attribute": "(c) taiyi, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Anorrhinus austeni": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265481373/medium.jpg",
-            "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly to iNaturalist"
-        }
-    ],
-    "Cinnamomum parthenoxylon": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65580568/medium.jpg",
-            "attribute": "(c) Alan Kwok (King Lun), Ada Tai (Ah Heung), some rights reserved (CC BY-NC), uploaded by Alan Kwok (King Lun), Ada Tai (Ah Heung) to iNaturalist"
-        }
-    ],
-    "Ninox scutulata": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17719/medium.jpg",
-            "attribute": "(c) Mike (NO captive birds) in Thailand, some rights reserved (CC BY-NC-ND)"
-        }
-    ],
-    "Paphiopedilum tranlienianum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5962453/medium.jpeg",
-            "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
-        }
-    ],
-    "Teinopalpus imperialis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186545688/medium.jpg",
-            "attribute": "(c) Cheongweei Gan, some rights reserved (CC BY), uploaded by Cheongweei Gan to iNaturalist"
-        }
-    ],
-    "Trochalopteron yersini": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355844998/medium.jpg",
-            "attribute": "(c) egorbirder, some rights reserved (CC BY)"
-        }
-    ],
-    "Lophura edwardsi": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66143865/medium.jpg",
-            "attribute": "(c) \nVáclav Šilha, some rights reserved (CC BY-SA)"
-        }
-    ],
-    "Garrulax canorus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26597643/medium.jpg",
-            "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough to iNaturalist"
-        }
-    ],
-    "Cheirotonus battareli": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394745168/medium.jpg",
-            "attribute": "(c) 小游, some rights reserved (CC BY-NC), uploaded by 小游 to iNaturalist"
-        }
-    ],
-    "Paramesotriton deloustali": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48352714/medium.jpg",
-            "attribute": "(c) Leonid A. Neymark, some rights reserved (CC BY-NC), uploaded by Leonid A. Neymark to iNaturalist"
-        }
-    ],
-    "Nomascus concolor": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265904148/medium.jpg",
-            "attribute": "(c) huangmingpan, some rights reserved (CC BY-NC), uploaded by huangmingpan to iNaturalist"
-        }
-    ],
-    "Falco jugger": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179229329/medium.jpg",
-            "attribute": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe to iNaturalist"
-        }
-    ],
-    "Ciconia nigra": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55845277/medium.jpg",
-            "attribute": "(c) The Wasp Factory, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Loriculus vernalis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103731438/medium.jpg",
-            "attribute": "(c) prajath, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Aquila rapax": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76347846/medium.jpg",
-            "attribute": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow to iNaturalist"
-        }
-    ],
-    "Caloenas nicobarica": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57343379/medium.jpg",
-            "attribute": "(c) Bird Explorers, some rights reserved (CC BY-NC), uploaded by Bird Explorers to iNaturalist"
-        }
-    ],
-    "Laonastes aenigmamus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335485370/medium.jpeg",
-            "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
-        }
-    ],
-    "Pterocarpus macrocarpus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251607341/medium.jpg",
-            "attribute": "(c) Andrey, some rights reserved (CC BY-NC), uploaded by Andrey to iNaturalist"
-        }
-    ],
-    "Muntiacus truongsonensis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55291182/medium.jpeg",
-            "attribute": "(c) linhbachma, some rights reserved (CC BY-NC)"
-        }
-    ],
-    "Calamus inermis": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448586221/medium.jpg",
-            "attribute": "(c) Tobias Spanner，保留部分权利（CC BY-NC）, 由 Tobias Spanner 上传"
-        }
-    ],
-    "Paphiopedilum henryanum": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183024280/medium.jpg",
-            "attribute": "(c) 0rchidhunter, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Neofelis nebulosa": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96024237/medium.jpg",
-            "attribute": "(c) HO JJ, some rights reserved (CC BY-NC-SA)"
-        }
-    ],
-    "Troides helena": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4331266/medium.jpeg",
-            "attribute": "(c) Soh Kam Yung, some rights reserved (CC BY-NC), uploaded by Soh Kam Yung to iNaturalist"
-        }
-    ],
-    "Haliastur indus": [
-        {
-            "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49857906/medium.jpg",
-            "attribute": "(c) Jayant M Deshpande, some rights reserved (CC BY-NC), uploaded by Jayant M Deshpande to iNaturalist"
-        }
-    ]
+  "Pygathrix nemaeus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511123312/medium.jpg",
+      "attribute": "(c) the_taxanaut, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Tyto alba": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165796939/medium.jpg",
+      "attribute": "(c) caroline legg, some rights reserved (CC BY)"
+    }
+  ],
+  "Calocedrus rupestris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295529073/medium.jpg",
+      "attribute": "(c) James Hardcastle, some rights reserved (CC BY), uploaded by James Hardcastle to iNaturalist"
+    }
+  ],
+  "Bubalus arnee": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47515716/medium.jpg",
+      "attribute": "(c) Subhadra Devi, some rights reserved (CC BY), uploaded by Subhadra Devi to iNaturalist"
+    }
+  ],
+  "Tragulus versicolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355517722/medium.png",
+      "attribute": "(c) User:מנחם.אל, some rights reserved (CC BY)"
+    }
+  ],
+  "Paphiopedilum emersonii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7496571/medium.jpg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Cuora mouhotii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416254895/medium.jpg",
+      "attribute": "(c) lightwind, some rights reserved (CC BY-NC), uploaded by lightwind to iNaturalist"
+    }
+  ],
+  "Moschus berezovskii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155080061/medium.jpeg",
+      "attribute": "(c) Phil Benstead, some rights reserved (CC BY-NC), uploaded by Phil Benstead to iNaturalist"
+    }
+  ],
+  "Aceros nipalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110097347/medium.jpg",
+      "attribute": "(c) soarexcursions, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Platalea minor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365947667/medium.jpg",
+      "attribute": "(c) Arlango Lee, some rights reserved (CC BY-NC), uploaded by Arlango Lee to iNaturalist"
+    }
+  ],
+  "Batagur affinis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62104789/medium.jpg",
+      "attribute": "(c) John Howes, some rights reserved (CC BY-NC), uploaded by John Howes to iNaturalist"
+    }
+  ],
+  "Cuora cyclornata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17584166/medium.jpg",
+      "attribute": "(c) Original uploader was Cuora at en.wikipedia. Later version(s) were uploaded by Storkk at en.wikipedia., some rights reserved (CC BY-SA) to iNaturalist"
+    }
+  ],
+  "Strix seloputo": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10771391/medium.jpeg",
+      "attribute": "(c) Catalina Tong, some rights reserved (CC BY-NC), uploaded by Catalina Tong to iNaturalist"
+    }
+  ],
+  "Elanus caeruleus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg",
+      "attribute": "(c) Daniel Liepack, some rights reserved (CC BY-NC), uploaded by Daniel Liepack to iNaturalist"
+    }
+  ],
+  "Butastur liventer": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348115866/medium.jpg",
+      "attribute": "(c) clicque, some rights reserved (CC BY-NC), uploaded by clicque to iNaturalist"
+    }
+  ],
+  "Bos javanicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60532199/medium.jpeg",
+      "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning to iNaturalist"
+    }
+  ],
+  "Circus cyaneus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg",
+      "attribute": "(c) Константин Самодуров, some rights reserved (CC BY-NC), uploaded by Константин Самодуров to iNaturalist"
+    }
+  ],
+  "Arborophila davidi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430252844/medium.jpg",
+      "attribute": "(c) matthewkwan, kai kurios teisės saugomos (CC BY-ND), uploaded by matthewkwan to iNaturalist"
+    }
+  ],
+  "Elephas maximus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035244/medium.jpg",
+      "attribute": "(c) Mousam Ray, some rights reserved (CC BY-NC), uploaded by Mousam Ray to iNaturalist"
+    }
+  ],
+  "Glyptostrobus pensilis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129892/medium.jpg",
+      "attribute": "(c) Tony Rodd, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Heosemys grandis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2852040/medium.jpg",
+      "attribute": "(c) J. Maughn, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Troides helena cerberus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24647099/medium.jpg",
+      "attribute": "(c) Tan Kok Hui, some rights reserved (CC BY-NC), uploaded by Tan Kok Hui to iNaturalist"
+    }
+  ],
+  "Muntiacus rooseveltorum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354204852/medium.png",
+      "attribute": "(c) User:מנחם.אל, some rights reserved (CC BY)"
+    }
+  ],
+  "Sindora siamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2053260/medium.jpg",
+      "attribute": "(c) eyeweed, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Numenius madagascariensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422481739/medium.jpg",
+      "attribute": "(c) Grace Bryant, some rights reserved (CC BY-NC), uploaded by Grace Bryant to iNaturalist"
+    }
+  ],
+  "Paphiopedilum delenatii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5962545/medium.jpeg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Xanthocyparis vietnamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151300/medium.jpg",
+      "attribute": "(c) Themodoccypress (J. Malone), some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Circaetus gallicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40950147/medium.jpg",
+      "attribute": "(c) Vijay Vanaparthy, some rights reserved (CC BY), uploaded by Vijay Vanaparthy to iNaturalist"
+    }
+  ],
+  "Troides aeacus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180519485/medium.jpg",
+      "attribute": "(c) Steve, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Paphiopedilum helenae": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3829555/medium.jpg",
+      "attribute": "(c) anonymous, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Rheinardia ocellata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11382135/medium.jpeg",
+      "attribute": "(c) Diego Delso, kai kurios teisės saugomos (CC BY-SA)"
+    }
+  ],
+  "Pitta nympha": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195561792/medium.jpeg",
+      "attribute": "(c) Sajee Kongsuwan, some rights reserved (CC BY-NC), uploaded by Sajee Kongsuwan to iNaturalist"
+    }
+  ],
+  "Amyda ornata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179469771/medium.jpg",
+      "attribute": "(c) MSOne, some rights reserved (CC BY-NC-ND), uploaded by MSOne to iNaturalist"
+    }
+  ],
+  "Huperzia serrata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91939886/medium.jpeg",
+      "attribute": "(c) V.S. Volkotrub, some rights reserved (CC BY-NC), uploaded by V.S. Volkotrub to iNaturalist"
+    }
+  ],
+  "Abies delavayi fansipanensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456643167/medium.jpg",
+      "attribute": "(c) Darrell Parsons, some rights reserved (CC BY-NC), uploaded by Darrell Parsons to iNaturalist"
+    }
+  ],
+  "Pygathrix cinerea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523257659/medium.jpg",
+      "attribute": "(c) the_taxanaut, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Dugong dugon": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415728148/medium.jpg",
+      "attribute": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B. to iNaturalist"
+    }
+  ],
+  "Mycteria cinerea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181076647/medium.jpeg",
+      "attribute": "(c) Minder Singh, some rights reserved (CC BY-NC), uploaded by Minder Singh to iNaturalist"
+    }
+  ],
+  "Haliaeetus albicilla": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164904961/medium.jpg",
+      "attribute": "(c) Jacob  Spinks, some rights reserved (CC BY)"
+    }
+  ],
+  "Trochalopteron melanostigma": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13564106/medium.jpeg",
+      "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje to iNaturalist"
+    }
+  ],
+  "Nisaetus nipalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174790909/medium.jpeg",
+      "attribute": "(c) Jagdish Singh Negi, some rights reserved (CC BY), uploaded by Jagdish Singh Negi to iNaturalist"
+    }
+  ],
+  "Eretmochelys imbricata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511341341/medium.jpg",
+      "attribute": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B. to iNaturalist"
+    }
+  ],
+  "Indotestudo elongata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21702504/medium.jpg",
+      "attribute": "(c) Rejoice Gassah, some rights reserved (CC BY-NC), uploaded by Rejoice Gassah to iNaturalist"
+    }
+  ],
+  "Garrulax leucolophus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20167144/medium.jpg",
+      "attribute": "(c) Md Jusri, some rights reserved (CC BY-NC), uploaded by Md Jusri to iNaturalist"
+    }
+  ],
+  "Trochalopteron affine": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555204/medium.jpg",
+      "attribute": "(c) Allan Drewitt, some rights reserved (CC BY)"
+    }
+  ],
+  "Numida meleagris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199644869/medium.jpg",
+      "attribute": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Cairina moschata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389963/medium.jpg",
+      "attribute": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Nisaetus cirrhatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48245091/medium.jpeg",
+      "attribute": "(c) Chathuri Jayatissa, some rights reserved (CC BY-NC), uploaded by Chathuri Jayatissa to iNaturalist"
+    }
+  ],
+  "Liocichla ripponi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209358/medium.jpg",
+      "attribute": "(c) Carlos Sanchez, some rights reserved (CC BY-NC), uploaded by Carlos Sanchez to iNaturalist"
+    }
+  ],
+  "Panthera tigris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13207883/medium.jpg",
+      "attribute": "(c) omveerchoudhary, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Aquila nipalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035345/medium.jpg",
+      "attribute": "(c) Mousam Ray, some rights reserved (CC BY-NC), uploaded by Mousam Ray to iNaturalist"
+    }
+  ],
+  "Lophotriorchis kienerii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218264330/medium.jpeg",
+      "attribute": "(c) Karim Imran, some rights reserved (CC BY-NC), uploaded by Karim Imran to iNaturalist"
+    }
+  ],
+  "Manouria impressa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207900849/medium.jpg",
+      "attribute": "(c) ayuwat, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Circus aeruginosus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113786815/medium.jpg",
+      "attribute": "(c) Radovan Václav, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Emberiza aureola": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57723251/medium.jpg",
+      "attribute": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov to iNaturalist"
+    }
+  ],
+  "Taiwania cryptomerioides": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/828706/medium.jpg",
+      "attribute": "(c) Tony Rodd, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Pelecanus philippensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230657515/medium.jpg",
+      "attribute": "(c) Anuvinda_D., some rights reserved (CC BY-NC), uploaded by Anuvinda_D. to iNaturalist"
+    }
+  ],
+  "Cutia legalleni": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253075714/medium.jpg",
+      "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
+    }
+  ],
+  "Circus spilonotus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127663648/medium.jpg",
+      "attribute": "(c) Griha Hasanov, some rights reserved (CC BY), uploaded by Griha Hasanov to iNaturalist"
+    }
+  ],
+  "Calamus poilanei": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76334467/medium.jpg",
+      "attribute": "(c) Simon Williams，保留部分权利（CC BY-NC）, 由 Simon Williams 上传"
+    }
+  ],
+  "Fibraurea tinctoria": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/993350/medium.JPG",
+      "attribute": "(c) 106611639464075912591, some rights reserved (CC BY-NC-SA), uploaded by 106611639464075912591 to iNaturalist"
+    }
+  ],
+  "Colocasia esculenta": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20295281/medium.jpeg",
+      "attribute": "(c) Kuan-Chieh (Chuck) Hung, some rights reserved (CC BY-NC-SA), uploaded by Kuan-Chieh (Chuck) Hung to iNaturalist"
+    }
+  ],
+  "Berberidaceae": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14991/medium.jpg",
+      "attribute": "(c) James Gaither, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Actinodura sodangorum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29612920/medium.jpg",
+      "attribute": "(c) stanlilley, some rights reserved (CC BY-NC), uploaded by stanlilley to iNaturalist"
+    }
+  ],
+  "Mergus squamatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13173093/medium.jpg",
+      "attribute": "(c) DickDaniels, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Nomascus annamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301456890/medium.jpg",
+      "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
+    }
+  ],
+  "Paphiopedilum micranthum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116281410/medium.jpeg",
+      "attribute": "(c) Ryan Yue Wah Chan, some rights reserved (CC BY-NC), uploaded by Ryan Yue Wah Chan to iNaturalist"
+    }
+  ],
+  "Paphiopedilum callosum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090635/medium.jpg",
+      "attribute": "(c) Dalton Holland Baptista, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Thalictrum foliolosum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51416491/medium.jpeg",
+      "attribute": "(c) Siddarth Machado, some rights reserved (CC BY), uploaded by Siddarth Machado to iNaturalist"
+    }
+  ],
+  "Cuora amboinensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30655732/medium.jpg",
+      "attribute": "(c) Tom Kirschey, some rights reserved (CC BY-NC), uploaded by Tom Kirschey to iNaturalist"
+    }
+  ],
+  "Paphiopedilum appletonianum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14096706/medium.jpeg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Garrulax monileger": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81340307/medium.jpg",
+      "attribute": "(c) Utain Pummarin, some rights reserved (CC BY-NC), uploaded by Utain Pummarin to iNaturalist"
+    }
+  ],
+  "Nomascus siki": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59458288/medium.jpg",
+      "attribute": "(c) Linda De Volder, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Cnemaspis psychedelica": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175743528/medium.jpg",
+      "attribute": "(c) Ken190, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Haliaeetus leucoryphus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100433148/medium.jpg",
+      "attribute": "(c) Koshy Koshy, some rights reserved (CC BY)"
+    }
+  ],
+  "Canis aureus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12400254/medium.jpg",
+      "attribute": "(c) Balaji Venkatesh Sivaramakrishnan, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Cyclemys atripons": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442448665/medium.jpeg",
+      "attribute": "(c) Andrew Pierce, some rights reserved (CC BY-NC), uploaded by Andrew Pierce to iNaturalist"
+    }
+  ],
+  "Accipiter nisus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60499639/medium.jpg",
+      "attribute": "(c) john.purvis, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Aquila fasciata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6974428/medium.jpg",
+      "attribute": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools to iNaturalist"
+    }
+  ],
+  "Chrotogale owstoni": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215678231/medium.jpeg",
+      "attribute": "(c) 刘光裕 Liu Guangyu，保留部分权利（CC BY-NC）, 由 刘光裕 Liu Guangyu 上传"
+    }
+  ],
+  "Pterorhinus albogularis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331426540/medium.jpg",
+      "attribute": "(c) P. S. Sivaprasad, some rights reserved (CC BY-NC), uploaded by P. S. Sivaprasad to iNaturalist"
+    }
+  ],
+  "Microhierax melanoleucos": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198693685/medium.jpg",
+      "attribute": "(c) Savi.odl, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Caretta caretta": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/medium.jpeg",
+      "attribute": "(c) Roberto Pillon, some rights reserved (CC BY-NC), uploaded by Roberto Pillon to iNaturalist"
+    }
+  ],
+  "Pavo muticus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4396813/medium.jpg",
+      "attribute": "(c) Jonah van Beijnen, some rights reserved (CC BY-NC), uploaded by Jonah van Beijnen to iNaturalist"
+    }
+  ],
+  "Tringa guttifer": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105857408/medium.jpg",
+      "attribute": "(c) suchihfen, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Falco peregrinus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212499709/medium.jpg",
+      "attribute": "(c) nautiboy, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Helarctos malayanus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85921248/medium.jpg",
+      "attribute": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC), uploaded by Wich’yanan (Jay) Limparungpatthanakij to iNaturalist"
+    }
+  ],
+  "Trochalopteron ngoclinhense": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355853936/medium.jpg",
+      "attribute": "(c) egorbirder, some rights reserved (CC BY)"
+    }
+  ],
+  "Cuon alpinus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65925444/medium.jpg",
+      "attribute": "(c) janconl, some rights reserved (CC BY-NC-SA), uploaded by janconl to iNaturalist"
+    }
+  ],
+  "Butastur indicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397922206/medium.jpeg",
+      "attribute": "(c) nhm_36, some rights reserved (CC BY-NC), uploaded by nhm_36 to iNaturalist"
+    }
+  ],
+  "Oryza sativa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48742632/medium.jpg",
+      "attribute": "(c) Luis Mata, some rights reserved (CC BY-NC), uploaded by Luis Mata to iNaturalist"
+    }
+  ],
+  "Polygonatum kingianum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130073718/medium.jpg",
+      "attribute": "(c) dogtooth77, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Cibotium barometz": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/211082/medium.jpg",
+      "attribute": "(c) Kai Yan,  Joseph Wong, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Leptoptilos javanicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83175175/medium.jpeg",
+      "attribute": "(c) Chathuri Jayatissa, some rights reserved (CC BY-NC), uploaded by Chathuri Jayatissa to iNaturalist"
+    }
+  ],
+  "Trachypithecus crepusculus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228255814/medium.jpg",
+      "attribute": "(c) ayuwat, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Pseudoryx nghetinhensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251278672/medium.jpg",
+      "attribute": "(c) testerpro, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Naja kaouthia": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59656179/medium.jpg",
+      "attribute": "(c) herpingvietnam, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Cyclemys oldhamii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461582736/medium.jpg",
+      "attribute": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC), uploaded by Wich’yanan (Jay) Limparungpatthanakij to iNaturalist"
+    }
+  ],
+  "Aegypius monachus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg",
+      "attribute": "(c) rociomar, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Gekko reevesii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43766531/medium.jpeg",
+      "attribute": "(c) Alex Krohn, some rights reserved (CC BY-NC-SA), uploaded by Alex Krohn to iNaturalist"
+    }
+  ],
+  "Lutra lutra": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389336/medium.jpg",
+      "attribute": "(c) Tomi Tirkkonen, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Polyplectron germaini": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264334869/medium.jpeg",
+      "attribute": "(c) TK Pham, some rights reserved (CC BY-NC-ND), uploaded by TK Pham to iNaturalist"
+    }
+  ],
+  "Glaucidium cuculoides": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268450564/medium.jpg",
+      "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly to iNaturalist"
+    }
+  ],
+  "Dalbergia oliveri": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187013358/medium.jpg",
+      "attribute": "(c) dechaphaetkrathok, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Aviceda leuphotes": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4970325/medium.jpg",
+      "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Nomascus leucogenys": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119501447/medium.jpg",
+      "attribute": "(c) cuatrok77, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Prionailurus viverrinus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324406071/medium.jpg",
+      "attribute": "(c) Tim Bawden, some rights reserved (CC BY-NC), uploaded by Tim Bawden to iNaturalist"
+    }
+  ],
+  "Dermochelys coriacea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244918310/medium.jpg",
+      "attribute": "(c) azure27014, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Gekko gecko": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104000974/medium.jpeg",
+      "attribute": "(c) Xavier Rufray, some rights reserved (CC BY-NC), uploaded by Xavier Rufray to iNaturalist"
+    }
+  ],
+  "Pygathrix nigripes": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440302643/medium.jpg",
+      "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
+    }
+  ],
+  "Rafetus swinhoei": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156754360/medium.jpg",
+      "attribute": "(c) Phuongcacanh, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Gracula religiosa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9703244/medium.jpeg",
+      "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje to iNaturalist"
+    }
+  ],
+  "Macaca mulatta": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8739674/medium.jpg",
+      "attribute": "(c) Markus  Lilje, some rights reserved (CC BY-NC-ND), uploaded by Markus  Lilje to iNaturalist"
+    }
+  ],
+  "Egretta eulophotes": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285316496/medium.jpg",
+      "attribute": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева to iNaturalist"
+    }
+  ],
+  "Trochalopteron formosum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22713962/medium.jpg",
+      "attribute": "(c) Steve, some rights reserved (CC BY-NC), uploaded by Steve to iNaturalist"
+    }
+  ],
+  "Bos sauveli": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11478701/medium.jpg",
+      "attribute": "(c) vivtony00, some rights reserved (CC BY)"
+    }
+  ],
+  "Naja siamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21257971/medium.jpeg",
+      "attribute": "(c) tristanv, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Keteleeria davidiana": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1539748/medium.jpg",
+      "attribute": "(c) Yoko Nekonomania, some rights reserved (CC BY)"
+    }
+  ],
+  "Sousa chinensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75164828/medium.jpg",
+      "attribute": "(c) Stephen Ng, some rights reserved (CC BY-NC), uploaded by Stephen Ng to iNaturalist"
+    }
+  ],
+  "Trachypithecus francoisi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148865296/medium.jpg",
+      "attribute": "(c) Nat Panda, some rights reserved (CC BY-NC-SA), uploaded by Nat Panda to iNaturalist"
+    }
+  ],
+  "Rucervus eldii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263290223/medium.jpg",
+      "attribute": "(c) Li Jianong, some rights reserved (CC BY-NC), uploaded by Li Jianong to iNaturalist"
+    }
+  ],
+  "Pterorhinus gularis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351171518/medium.jpg",
+      "attribute": "(c) Rohit Naniwadekar, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Siebenrockiella crassicollis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1458892/medium.jpg",
+      "attribute": "(c) Bernard DUPONT, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Paphiopedilum vietnamense": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5962560/medium.jpeg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Petaurista philippensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456073462/medium.jpg",
+      "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
+    }
+  ],
+  "Trachypithecus poliocephalus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42592257/medium.jpg",
+      "attribute": "(c) Luan Mai Sy, some rights reserved (CC BY-NC), uploaded by Luan Mai Sy to iNaturalist"
+    }
+  ],
+  "Nesolagus timminsi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17566526/medium.jpg",
+      "attribute": "(c) Planet Earth, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Felis chaus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60135146/medium.jpeg",
+      "attribute": "(c) Harshad Sharma, some rights reserved (CC BY), uploaded by Harshad Sharma to iNaturalist"
+    }
+  ],
+  "Pinus dalatensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80765598/medium.jpeg",
+      "attribute": "(c) bangtran, some rights reserved (CC BY-NC), uploaded by bangtran to iNaturalist"
+    }
+  ],
+  "Ratufa bicolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9885623/medium.jpg",
+      "attribute": "(c) pfaucher, some rights reserved (CC BY-NC), uploaded by pfaucher to iNaturalist"
+    }
+  ],
+  "Python bivittatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56087430/medium.jpeg",
+      "attribute": "(c) Wayne Fidler, some rights reserved (CC BY-NC), uploaded by Wayne Fidler to iNaturalist"
+    }
+  ],
+  "Prionailurus bengalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4274167/medium.jpg",
+      "attribute": "(c) Yu Ching Tam, some rights reserved (CC BY-NC-ND), uploaded by Yu Ching Tam to iNaturalist"
+    }
+  ],
+  "Mauremys nigricans": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277848501/medium.jpg",
+      "attribute": "(c) Cyrus Li, some rights reserved (CC BY-NC), uploaded by Cyrus Li to iNaturalist"
+    }
+  ],
+  "Carpococcyx renauldi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107455999/medium.jpg",
+      "attribute": "(c) Xavier Rufray, some rights reserved (CC BY-NC), uploaded by Xavier Rufray to iNaturalist"
+    }
+  ],
+  "Paphiopedilum villosum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4821128/medium.jpeg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Microhierax caerulescens": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243347405/medium.jpg",
+      "attribute": "(c) Avinash Bhagat, some rights reserved (CC BY-NC), uploaded by Avinash Bhagat to iNaturalist"
+    }
+  ],
+  "Pseudibis gigantea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205925839/medium.jpg",
+      "attribute": "(c) matthewkwan, some rights reserved (CC BY-ND), uploaded by matthewkwan to iNaturalist"
+    }
+  ],
+  "Hydrornis nipalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259926437/medium.jpeg",
+      "attribute": "(c) Wat Wongpan, some rights reserved (CC BY-NC), uploaded by Wat Wongpan to iNaturalist"
+    }
+  ],
+  "Arctogalidia trivirgata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6676249/medium.jpg",
+      "attribute": "(c) Mikael Bauer, some rights reserved (CC BY-NC), uploaded by Mikael Bauer to iNaturalist"
+    }
+  ],
+  "Arborophila rufogularis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13563732/medium.jpeg",
+      "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje to iNaturalist"
+    }
+  ],
+  "Psittacula eupatria": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61055458/medium.jpeg",
+      "attribute": "(c) jageshwerverma, some rights reserved (CC BY-NC), uploaded by jageshwerverma to iNaturalist"
+    }
+  ],
+  "Otus spilocephalus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1725240/medium.jpg",
+      "attribute": "(c) Soham Dixit, some rights reserved (CC BY-NC), uploaded by Soham Dixit to iNaturalist"
+    }
+  ],
+  "Ptyas mucosa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323553661/medium.jpg",
+      "attribute": "(c) \nArun Kumar Thyadi, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Physignathus cocincinus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143097581/medium.jpg",
+      "attribute": "(c) paulmckenzie, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Viverra zibetha": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11172409/medium.jpeg",
+      "attribute": "(c) pfaucher, some rights reserved (CC BY-NC), uploaded by pfaucher to iNaturalist"
+    }
+  ],
+  "Cuora bourreti": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65195133/medium.jpg",
+      "attribute": "(c) Cuora, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Asarcornis scutulata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98380423/medium.png",
+      "attribute": "(c) Ashley Coates, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Axis porcinus annamiticus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135676130/medium.jpg",
+      "attribute": "(c) Thanyarat Sukruan, some rights reserved (CC BY-NC), uploaded by Thanyarat Sukruan to iNaturalist"
+    }
+  ],
+  "Calocedrus macrolepis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11163730/medium.jpg",
+      "attribute": "(c) Krzysztof Ziarnek, Kenraiz, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Calidris pygmaea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246421543/medium.jpg",
+      "attribute": "(c) Alexander Yakovlev, some rights reserved (CC BY-NC), uploaded by Alexander Yakovlev to iNaturalist"
+    }
+  ],
+  "Arctictis binturong": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145153388/medium.jpg",
+      "attribute": "(c) Joachim S. Müller, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Trachypithecus germaini": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2042317/medium.JPG",
+      "attribute": "(c) bangtran, some rights reserved (CC BY-NC), uploaded by bangtran to iNaturalist"
+    }
+  ],
+  "Pteropus hypomelanus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56461104/medium.jpg",
+      "attribute": "(c) Pavel Kirillov, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Platysternon megacephalum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150945171/medium.jpg",
+      "attribute": "(c) Binturong27, some rights reserved (CC BY-NC), uploaded by Binturong27 to iNaturalist"
+    }
+  ],
+  "Teinopalpus imperialis imperialis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264167435/medium.jpg",
+      "attribute": "(c) Robert Gilson, some rights reserved (CC BY-NC), uploaded by Robert Gilson to iNaturalist"
+    }
+  ],
+  "Lophura diardi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255263566/medium.jpeg",
+      "attribute": "(c) Геннадий Дякин, some rights reserved (CC BY-NC), uploaded by Геннадий Дякин to iNaturalist"
+    }
+  ],
+  "Cinnamomum glaucescens": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60096914/medium.jpg",
+      "attribute": "(c) Ryne Rutherford, some rights reserved (CC BY-NC), uploaded by Ryne Rutherford to iNaturalist"
+    }
+  ],
+  "Circus melanoleucos": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197094138/medium.jpg",
+      "attribute": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева to iNaturalist"
+    }
+  ],
+  "Ursus thibetanus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9815851/medium.jpg",
+      "attribute": "(c) Dr. Raju Kasambe, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Taxus chinensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122958817/medium.jpeg",
+      "attribute": "(c) MP Zhou, some rights reserved (CC BY-NC), uploaded by MP Zhou to iNaturalist"
+    }
+  ],
+  "Ciconia episcopus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1950709/medium.JPG",
+      "attribute": "(c) Subhajit Roy, some rights reserved (CC BY-NC-ND), uploaded by Subhajit Roy to iNaturalist"
+    }
+  ],
+  "Coscinium fenestratum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2044182/medium.jpg",
+      "attribute": "(c) Vinayaraj, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Fibraurea recisa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31678382/medium.jpeg",
+      "attribute": "(c) 刘光裕 Liu Guangyu, some rights reserved (CC BY-NC), uploaded by 刘光裕 Liu Guangyu to iNaturalist"
+    }
+  ],
+  "Houbaropsis bengalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359945422/medium.jpg",
+      "attribute": "(c) Sourav Halder, some rights reserved (CC BY-NC), uploaded by Sourav Halder to iNaturalist"
+    }
+  ],
+  "Panthera pardus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8666580/medium.jpeg",
+      "attribute": "(c) janaohrner, some rights reserved (CC BY-NC), uploaded by janaohrner to iNaturalist"
+    }
+  ],
+  "Pterorhinus pectoralis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23848292/medium.jpg",
+      "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough to iNaturalist"
+    }
+  ],
+  "Athene brama": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89909173/medium.jpg",
+      "attribute": "(c) Ananya Mondal, some rights reserved (CC BY-SA), uploaded by Ananya Mondal to iNaturalist"
+    }
+  ],
+  "Paphiopedilum concolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090645/medium.jpg",
+      "attribute": "(c) Orchi, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Threskiornis melanocephalus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259008/medium.jpg",
+      "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Gyps indicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440877661/medium.jpg",
+      "attribute": "(c) Dhyey Shah, some rights reserved (CC BY-NC), uploaded by Dhyey Shah to iNaturalist"
+    }
+  ],
+  "Teinopalpus aureus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49379950/medium.jpeg",
+      "attribute": "(c) raylei, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Tragulus javanicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48724299/medium.jpg",
+      "attribute": "(c) Joachim S. Müller, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Trachypithecus margarita": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42579041/medium.jpg",
+      "attribute": "(c) Grigory Evtukh, some rights reserved (CC BY-NC), uploaded by Grigory Evtukh to iNaturalist"
+    }
+  ],
+  "Amyda cartilaginea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140903/medium.jpg",
+      "attribute": "(c) Thomas Calame, some rights reserved (CC BY-NC), uploaded by Thomas Calame to iNaturalist"
+    }
+  ],
+  "Pseudibis davisoni": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178251484/medium.jpg",
+      "attribute": "(c) quiltedquetzal, kai kurios teisės saugomos (CC BY-NC), uploaded by quiltedquetzal to iNaturalist"
+    }
+  ],
+  "Naja atra": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32005491/medium.jpg",
+      "attribute": "(c) ong-siau-kun, some rights reserved (CC BY-NC), uploaded by ong-siau-kun to iNaturalist"
+    }
+  ],
+  "Disporopsis longifolia": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408469762/medium.jpg",
+      "attribute": "(c) Xuan Chuan, some rights reserved (CC BY-NC), uploaded by Xuan Chuan to iNaturalist"
+    }
+  ],
+  "Laniellus langbianis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60342911/medium.jpeg",
+      "attribute": "(c) Filipe J Ribeiro, some rights reserved (CC BY-NC), uploaded by Filipe J Ribeiro to iNaturalist"
+    }
+  ],
+  "Sus scrofa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414500081/medium.jpg",
+      "attribute": "(c) Nathalie Hausser, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Pterorhinus perspicillatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555195/medium.jpg",
+      "attribute": "(c) Darren, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Pitta moluccensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182302378/medium.jpg",
+      "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly to iNaturalist"
+    }
+  ],
+  "Viverricula indica": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303182/medium.JPG",
+      "attribute": "(c) Carmelo López Abad, some rights reserved (CC BY-NC), uploaded by Carmelo López Abad to iNaturalist"
+    }
+  ],
+  "Ranunculaceae": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3063606/medium.jpg",
+      "attribute": "(c) Colin Ogle, some rights reserved (CC BY-NC), uploaded by Colin Ogle to iNaturalist"
+    }
+  ],
+  "Geoemyda spengleri": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60629328/medium.jpg",
+      "attribute": "(c) Josh More, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Fokienia hodginsii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8626191/medium.jpg",
+      "attribute": "(c) Zhangzhugang, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Mustela strigidorsa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366019974/medium.jpg",
+      "attribute": "(c) Walk A Long, some rights reserved (CC BY-NC), uploaded by Walk A Long to iNaturalist"
+    }
+  ],
+  "Heliopais personatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6674965/medium.jpeg",
+      "attribute": "(c) Tun Pin ONG, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Aquila heliaca": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/379642922/medium.jpg",
+      "attribute": "(c) Андрей Семенов, some rights reserved (CC BY-NC), uploaded by Андрей Семенов to iNaturalist"
+    }
+  ],
+  "Rhyticeros undulatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301434/medium.JPG",
+      "attribute": "(c) Carmelo López Abad, some rights reserved (CC BY-NC), uploaded by Carmelo López Abad to iNaturalist"
+    }
+  ],
+  "Milvus migrans": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg",
+      "attribute": "(c) Joshua S. Martin, some rights reserved (CC BY-NC), uploaded by Joshua S. Martin to iNaturalist"
+    }
+  ],
+  "Falco severus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7691824/medium.jpg",
+      "attribute": "(c) Michael Gillam, some rights reserved (CC BY)"
+    }
+  ],
+  "Prionodon pardicolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100839651/medium.jpg",
+      "attribute": "(c) Elangbam Premjit Singh, some rights reserved (CC BY-NC), uploaded by Elangbam Premjit Singh to iNaturalist"
+    }
+  ],
+  "Viverra megaspila": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467302919/medium.jpeg",
+      "attribute": "(c) Phakawat Kittikhunodom, some rights reserved (CC BY-NC), uploaded by Phakawat Kittikhunodom to iNaturalist"
+    }
+  ],
+  "Vigna umbellata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321228117/medium.jpg",
+      "attribute": "(c) Chuangzao, some rights reserved (CC BY-NC), uploaded by Chuangzao to iNaturalist"
+    }
+  ],
+  "Garrulax merulinus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97673224/medium.jpg",
+      "attribute": "(c) Peter Ericsson, some rights reserved (CC BY-NC), uploaded by Peter Ericsson to iNaturalist"
+    }
+  ],
+  "Arctonyx collaris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76844429/medium.jpg",
+      "attribute": "(c) Khemthong Tonsakulrungruang, some rights reserved (CC BY-NC), uploaded by Khemthong Tonsakulrungruang to iNaturalist"
+    }
+  ],
+  "Diospyros mun": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55361081/medium.jpeg",
+      "attribute": "(c) Lê Võ Sơn Quân, some rights reserved (CC BY-NC), uploaded by Lê Võ Sơn Quân to iNaturalist"
+    }
+  ],
+  "Falco tinnunculus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464353866/medium.jpg",
+      "attribute": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab to iNaturalist"
+    }
+  ],
+  "Catopuma temminckii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187398363/medium.jpg",
+      "attribute": "(c) Karen Stout, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Tragopan temminckii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66364877/medium.jpg",
+      "attribute": "(c) Matěj Baťha, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Nomascus gabriellae": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493042564/medium.jpg",
+      "attribute": "(c) Next Continent: Wildlife, Photography and Natural History Tours, some rights reserved (CC BY-NC), uploaded by Next Continent: Wildlife, Photography and Natural History Tours to iNaturalist"
+    }
+  ],
+  "Ianthocincla konkakinhensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105778479/medium.jpeg",
+      "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning to iNaturalist"
+    }
+  ],
+  "Circus macrourus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210924816/medium.jpg",
+      "attribute": "(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева to iNaturalist"
+    }
+  ],
+  "Malayemys subtrijuga": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/918387/medium.jpg",
+      "attribute": "(c) Martin Grimm, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Mauremys annamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27138188/medium.jpg",
+      "attribute": "(c) Tommy Hui, some rights reserved (CC BY-NC), uploaded by Tommy Hui to iNaturalist"
+    }
+  ],
+  "Berberis julianae": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355911230/medium.jpeg",
+      "attribute": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay to iNaturalist"
+    }
+  ],
+  "Python molurus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51465007/medium.jpg",
+      "attribute": "(c) John Sullivan, some rights reserved (CC BY-NC), uploaded by John Sullivan to iNaturalist"
+    }
+  ],
+  "Chelonia mydas": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248337518/medium.jpg",
+      "attribute": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B. to iNaturalist"
+    }
+  ],
+  "Copsychus malabaricus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279082/medium.jpg",
+      "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Pterorhinus vassali": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140346665/medium.jpg",
+      "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh to iNaturalist"
+    }
+  ],
+  "Rusa unicolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366789669/medium.jpg",
+      "attribute": "(c) Rashityagi, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Paphiopedilum gratrixianum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5328994/medium.jpeg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Lilium poilanei": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53025776/medium.jpg",
+      "attribute": "(c) ceo5956gmailcom, some rights reserved (CC BY-NC), uploaded by ceo5956gmailcom to iNaturalist"
+    }
+  ],
+  "Nomascus nasutus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59458236/medium.jpg",
+      "attribute": "(c) Geof Wilson, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Pinus hwangshanensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8464339/medium.jpg",
+      "attribute": "(c) andreaqi / Andrew Ciceri, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Paphiopedilum dianthum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090647/medium.jpg",
+      "attribute": "(c) Orchi, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Petaurista petaurista": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4162198/medium.jpg",
+      "attribute": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz to iNaturalist"
+    }
+  ],
+  "Pinus krempfii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17162008/medium.jpg",
+      "attribute": "(c) Eugene Popov, some rights reserved (CC BY)"
+    }
+  ],
+  "Garrulax castanotis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262121958/medium.jpeg",
+      "attribute": "(c) kangkang, some rights reserved (CC BY-NC), uploaded by kangkang to iNaturalist"
+    }
+  ],
+  "Paphiopedilum malipoense": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4090692/medium.jpg",
+      "attribute": "(c) Dalton Holland Baptista, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Otus lettia": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44097511/medium.jpg",
+      "attribute": "(c) matthewkwan, some rights reserved (CC BY-ND), uploaded by matthewkwan to iNaturalist"
+    }
+  ],
+  "Rhinoceros sondaicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298835434/medium.jpg",
+      "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
+    }
+  ],
+  "Hydrornis elliotii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105703081/medium.jpeg",
+      "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning to iNaturalist"
+    }
+  ],
+  "Cunninghamia konishii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32373744/medium.jpeg",
+      "attribute": "(c) 呂一起(Lu i-chi), some rights reserved (CC BY), uploaded by 呂一起(Lu i-chi) to iNaturalist"
+    }
+  ],
+  "Pandion haliaetus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/medium.jpg",
+      "attribute": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley to iNaturalist"
+    }
+  ],
+  "Trachypithecus hatinhensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345368459/medium.jpg",
+      "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
+    }
+  ],
+  "Icthyophaga ichthyaetus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325795578/medium.jpg",
+      "attribute": "(c) Griha Hasanov, some rights reserved (CC BY), uploaded by Griha Hasanov to iNaturalist"
+    }
+  ],
+  "Garrulax maesi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154079500/medium.jpg",
+      "attribute": "(c) taiyi, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Anorrhinus austeni": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265481373/medium.jpg",
+      "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly to iNaturalist"
+    }
+  ],
+  "Cinnamomum parthenoxylon": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65580568/medium.jpg",
+      "attribute": "(c) Alan Kwok (King Lun), Ada Tai (Ah Heung), some rights reserved (CC BY-NC), uploaded by Alan Kwok (King Lun), Ada Tai (Ah Heung) to iNaturalist"
+    }
+  ],
+  "Ninox scutulata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17719/medium.jpg",
+      "attribute": "(c) Mike (NO captive birds) in Thailand, some rights reserved (CC BY-NC-ND)"
+    }
+  ],
+  "Paphiopedilum tranlienianum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5962453/medium.jpeg",
+      "attribute": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja to iNaturalist"
+    }
+  ],
+  "Teinopalpus imperialis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186545688/medium.jpg",
+      "attribute": "(c) Cheongweei Gan, some rights reserved (CC BY), uploaded by Cheongweei Gan to iNaturalist"
+    }
+  ],
+  "Trochalopteron yersini": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355844998/medium.jpg",
+      "attribute": "(c) egorbirder, some rights reserved (CC BY)"
+    }
+  ],
+  "Lophura edwardsi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66143865/medium.jpg",
+      "attribute": "(c) \nVáclav Šilha, some rights reserved (CC BY-SA)"
+    }
+  ],
+  "Garrulax canorus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26597643/medium.jpg",
+      "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough to iNaturalist"
+    }
+  ],
+  "Cheirotonus battareli": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394745168/medium.jpg",
+      "attribute": "(c) 小游, some rights reserved (CC BY-NC), uploaded by 小游 to iNaturalist"
+    }
+  ],
+  "Paramesotriton deloustali": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48352714/medium.jpg",
+      "attribute": "(c) Leonid A. Neymark, some rights reserved (CC BY-NC), uploaded by Leonid A. Neymark to iNaturalist"
+    }
+  ],
+  "Nomascus concolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265904148/medium.jpg",
+      "attribute": "(c) huangmingpan, some rights reserved (CC BY-NC), uploaded by huangmingpan to iNaturalist"
+    }
+  ],
+  "Falco jugger": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179229329/medium.jpg",
+      "attribute": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe to iNaturalist"
+    }
+  ],
+  "Ciconia nigra": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55845277/medium.jpg",
+      "attribute": "(c) The Wasp Factory, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Loriculus vernalis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103731438/medium.jpg",
+      "attribute": "(c) prajath, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Aquila rapax": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76347846/medium.jpg",
+      "attribute": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow to iNaturalist"
+    }
+  ],
+  "Caloenas nicobarica": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57343379/medium.jpg",
+      "attribute": "(c) Bird Explorers, some rights reserved (CC BY-NC), uploaded by Bird Explorers to iNaturalist"
+    }
+  ],
+  "Laonastes aenigmamus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335485370/medium.jpeg",
+      "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris to iNaturalist"
+    }
+  ],
+  "Pterocarpus macrocarpus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251607341/medium.jpg",
+      "attribute": "(c) Andrey, some rights reserved (CC BY-NC), uploaded by Andrey to iNaturalist"
+    }
+  ],
+  "Muntiacus truongsonensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55291182/medium.jpeg",
+      "attribute": "(c) linhbachma, some rights reserved (CC BY-NC)"
+    }
+  ],
+  "Calamus inermis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448586221/medium.jpg",
+      "attribute": "(c) Tobias Spanner，保留部分权利（CC BY-NC）, 由 Tobias Spanner 上传"
+    }
+  ],
+  "Paphiopedilum henryanum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183024280/medium.jpg",
+      "attribute": "(c) 0rchidhunter, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Neofelis nebulosa": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96024237/medium.jpg",
+      "attribute": "(c) HO JJ, some rights reserved (CC BY-NC-SA)"
+    }
+  ],
+  "Troides helena": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4331266/medium.jpeg",
+      "attribute": "(c) Soh Kam Yung, some rights reserved (CC BY-NC), uploaded by Soh Kam Yung to iNaturalist"
+    }
+  ],
+  "Haliastur indus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49857906/medium.jpg",
+      "attribute": "(c) Jayant M Deshpande, some rights reserved (CC BY-NC), uploaded by Jayant M Deshpande to iNaturalist"
+    }
+  ],
+
+  "Buceros bicornis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40492550/medium.jpg",
+      "attribute": "(c) ConnK, some rights reserved (CC BY-NC), uploaded by ConnK",
+      "source": "https://www.inaturalist.org/observations/26096809#data_quality_assessment"
+    }
+  ],
+  "Accipiter badius": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26286/medium.jpg",
+      "attribute": "(c) Muzaffar Bukhari, some rights reserved (CC BY-NC-SA)",
+      "source": "https://www.flickr.com/photos/83582442@N00/2523211777"
+    }
+  ],
+  "Accipiter gentilis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65608664/medium.jpg",
+      "attribute": "(c) Roberto Ghiglia, some rights reserved (CC BY-NC), uploaded by Roberto Ghiglia",
+      "source": "https://www.inaturalist.org/observations/41360761#data_quality_assessment"
+    }
+  ],
+  "Accipiter gularis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251281815/medium.jpg",
+      "attribute": "(c) Benjamin Koh, some rights reserved (CC BY-NC), uploaded by Benjamin Koh",
+      "source": "https://www.inaturalist.org/observations/146188908#data_quality_assessment"
+    }
+  ],
+  "Accipiter soloensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15811956/medium.jpg",
+      "attribute": "(c) Tan Kok Hui, some rights reserved (CC BY-NC), uploaded by Tan Kok Hui",
+      "source": "https://www.inaturalist.org/observations/11166767#data_quality_assessment"
+    }
+  ],
+  "Accipiter trivirgatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199607349/medium.jpeg",
+      "attribute": "(c) Amaël Borzée, some rights reserved (CC BY-NC), uploaded by Amaël Borzée",
+      "source": "https://www.inaturalist.org/observations/118162504#data_quality_assessment"
+    }
+  ],
+  "Accipiter virgatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60076195/medium.jpg",
+      "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough",
+      "source": "https://www.inaturalist.org/observations/37845799#data_quality_assessment"
+    }
+  ],
+  "Aceros undulatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301434/medium.JPG",
+      "attribute": "(c) Carmelo López Abad, some rights reserved (CC BY-NC), uploaded by Carmelo López Abad",
+      "source": "https://www.inaturalist.org/observations/240861#data_quality_assessment"
+    }
+  ],
+  "Anhinga melanogaster": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20353230/medium.jpg",
+      "attribute": "(c) Tan Kok Hui, some rights reserved (CC BY-NC), uploaded by Tan Kok Hui",
+      "source": "https://www.inaturalist.org/observations/13799494#data_quality_assessment"
+    }
+  ],
+  "Anthracoceros albirostris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186227548/medium.jpg",
+      "attribute": "(c) David Cook, some rights reserved (CC BY-NC)",
+      "source": "https://www.flickr.com/photos/kookr/42119060791/"
+    }
+  ],
+  "Aquila chrysaetos": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31937617/medium.jpeg",
+      "attribute": "(c) ungerlord, some rights reserved (CC BY-NC), uploaded by ungerlord",
+      "source": "https://www.inaturalist.org/observations/20715283#data_quality_assessment"
+    }
+  ],
+  "Aquila clanga": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57957070/medium.jpg",
+      "attribute": "(c) Koshy Koshy, some rights reserved (CC BY)",
+      "source": "https://www.flickr.com/photos/kkoshy/15625081007/"
+    }
+  ],
+  "Arborophila brunneopectus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12800014/medium.jpg",
+      "attribute": "(c) liltography, some rights reserved (CC BY-NC), uploaded by liltography",
+      "source": "https://www.inaturalist.org/observations/9419992"
+    }
+  ],
+  "Arborophila chloropus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236209/medium.jpg",
+      "attribute": "(c) JJ Harrison, some rights reserved (CC BY-SA)",
+      "source": "https://commons.wikimedia.org/wiki/File:Arborophila_chloropus_-_Kaeng_Krachan..jpg"
+    }
+  ],
+  "Asio flammeus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/185384445/medium.jpg",
+      "attribute": "(c) Ian Routley, some rights reserved (CC BY-NC-SA), uploaded by Ian Routley",
+      "source": "https://www.inaturalist.org/observations/109939708"
+    }
+  ],
+  "Arborophila torqueola": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424781334/large.jpg",
+      "attribute": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe",
+      "source": "https://www.inaturalist.org/observations/238585396"
+    }
+  ],
+  "Aviceda jerdoni": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2008222/medium.jpg",
+      "attribute": "(c) Tan Kok Hui, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/1637304"
+    }
+  ],
+  "Buteo burmanicus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176230890/medium.jpeg",
+      "attribute": "(c) Amaël Borzée, some rights reserved (CC BY-NC), uploaded by Amaël Borzée",
+      "source": "https://www.inaturalist.org/observations/105083400"
+    }
+  ],
+  "Calidris tenuirostris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342671340/large.jpeg",
+      "attribute": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+      "source": "https://www.inaturalist.org/observations/194874667"
+    }
+  ],
+  "Columba punicea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165123582/large.jpeg",
+      "attribute": "(c) benjamynweil, some rights reserved (CC BY-NC), uploaded by benjamynweil",
+      "source": "https://www.inaturalist.org/observations/99095088"
+    }
+  ],
+  "Falco amurensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165954220/medium.jpg",
+      "attribute": "(c) rupperrt78, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/99537963"
+    }
+  ],
+  "Falco columbarius": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116364260/medium.jpg",
+      "attribute": "(c) Paul G. Johnson, some rights reserved (CC BY-NC-SA), uploaded by Paul G. Johnson",
+      "source": "https://www.inaturalist.org/observations/71469074"
+    }
+  ],
+  "Falco subbuteo": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173320152/medium.jpg",
+      "attribute": "(c) dssh, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/103542386"
+    }
+  ],
+  "Galeopterus variegatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340273717/large.jpg",
+      "attribute": "(c) Ivan Neo, some rights reserved (CC BY-NC), uploaded by Ivan Neo",
+      "source": "https://www.inaturalist.org/observations/193691393"
+    }
+  ],
+  "Garrulax annamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105772338/large.jpeg",
+      "attribute": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+      "source": "https://www.inaturalist.org/observations/65693429"
+    }
+  ],
+  "Drynaria bonii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334366439/large.jpeg",
+      "attribute": "(c) C.H.Leung, some rights reserved (CC BY-NC), uploaded by C.H.Leung",
+      "source": "https://www.inaturalist.org/observations/190702178"
+    }
+  ],
+  "Cyclemys dentata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2852032/medium.jpg",
+      "attribute": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+      "source": "https://www.flickr.com/photos/berniedup/7783322772/"
+    }
+  ],
+  "Cuora galbinifrons": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4273935/large.jpg",
+      "attribute": "(c) H.T.Cheng, some rights reserved (CC BY-NC), uploaded by H.T.Cheng",
+      "source": "https://www.inaturalist.org/observations/3685589"
+    }
+  ],
+  "Crocodylus siamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42201330/medium.jpg",
+      "attribute": "(c) Nikita Sevastianov, some rights reserved (CC BY-NC), uploaded by Nikita Sevastianov",
+      "source": "https://www.inaturalist.org/observations/27143629"
+    }
+  ],
+  "Crocodylus porosus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393566094/large.jpg",
+      "attribute": "(c) docsharpe, some rights reserved (CC BY-NC), uploaded by docsharpe",
+      "source": "https://www.inaturalist.org/observations/222192560"
+    }
+  ],
+  "Cheirotonus jansoni": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143086874/medium.jpg",
+      "attribute": "(c) 甲殻蟲翻身, some rights reserved (CC BY-NC), uploaded by 甲殻蟲翻身",
+      "source": "https://www.inaturalist.org/observations/86815742"
+    }
+  ],
+  "Capricornis milneedwardsii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34680236/medium.jpg",
+      "attribute": "(c) [2], some rights reserved (CC BY-SA)",
+      "source": "https://commons.wikimedia.org/wiki/File:Capricornis_milneedwardsii_1.jpg"
+    }
+  ],
+  "Bubo nipalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116971226/medium.jpg",
+      "attribute": "(c) Udaya Kumar, some rights reserved (CC BY-NC), uploaded by Udaya Kumar",
+      "source": "https://www.inaturalist.org/observations/71808350"
+    }
+  ],
+  "Bos gaurus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70866627/medium.jpg",
+      "attribute": "(c) makarandsaraf, some rights reserved (CC BY-NC), uploaded by makarandsaraf",
+      "source": "https://www.inaturalist.org/observations/44698521"
+    }
+  ],
+  "Aythya baeri": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467588235/medium.jpg",
+      "attribute": "(c) eeveefang, some rights reserved (CC BY-NC), uploaded by eeveefang",
+      "source": "https://www.inaturalist.org/observations/260378148"
+    }
+  ],
+  "Axis porcinus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285256926/medium.jpg",
+      "attribute": "(c) Vincegohan, some rights reserved (CC BY-SA)",
+      "source": "https://commons.wikimedia.org/wiki/File:Cheerdeer.jpg"
+    }
+  ],
+  "Aonyx cinereus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94664002/medium.jpg",
+      "attribute": "(c) Mathieu, some rights reserved (CC BY-NC-ND)",
+      "source": "https://www.flickr.com/photos/mcinteractivity/27631645908/"
+    }
+  ],
+  "Garrulax milleti": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246927317/medium.jpg",
+      "attribute": "(c) Martin Walsh, some rights reserved (CC BY-NC-ND), uploaded by Martin Walsh",
+      "source": "https://www.inaturalist.org/observations/143929244"
+    }
+  ],
+  "Glaucidium brodiei": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267060149/medium.jpg",
+      "attribute": "(c) atain, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/154551816"
+    }
+  ],
+  "Gorsachius magnificus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548880549/large.jpg",
+      "attribute": "(c) 渔喵, some rights reserved (CC BY-NC-SA), uploaded by 渔喵",
+      "source": "https://www.inaturalist.org/photos/548880549"
+    }
+  ],
+  "Grus antigone": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252514461/medium.jpg",
+      "attribute": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe",
+      "source": "https://www.inaturalist.org/observations/146821509"
+    }
+  ],
+  "Gyps bengalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152360/medium.jpg",
+      "attribute": "(c) Allan Hopkins, some rights reserved (CC BY-NC-ND)",
+      "source": "https://www.inaturalist.org/observations/105902"
+    }
+  ],
+  "Haliaeetus leucogaster": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60297171/medium.jpeg",
+      "attribute": "(c) Allan Lugg, some rights reserved (CC BY-NC), uploaded by Allan Lugg",
+      "source": "https://www.inaturalist.org/observations/37981821"
+    }
+  ],
+  "Heosemys annandalii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28953027/medium.jpeg",
+      "attribute": "(c) John Howes, some rights reserved (CC BY-NC), uploaded by John Howes",
+      "source": "https://www.inaturalist.org/observations/18892899"
+    }
+  ],
+  "Hydrornis cyanea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257120450/medium.jpg",
+      "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly",
+      "source": "https://www.inaturalist.org/observations/149232126"
+    }
+  ],
+  "Hydrornis oatesi": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208141889/medium.jpg",
+      "attribute": "(c) matthewkwan, some rights reserved (CC BY-ND), uploaded by matthewkwan",
+      "source": "https://www.inaturalist.org/observations/122902057"
+    }
+  ],
+  "Hydrornis phayrei": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97679979/medium.jpg",
+      "attribute": "(c) Peter Ericsson, some rights reserved (CC BY-NC), uploaded by Peter Ericsson",
+      "source": "https://www.inaturalist.org/observations/61064250"
+    }
+  ],
+  "Hydrornis soror": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212657479/medium.jpg",
+      "attribute": "(c) Peter Ericsson, some rights reserved (CC BY-NC), uploaded by Peter Ericsson",
+      "source": "https://www.inaturalist.org/observations/125400980"
+    }
+  ],
+  "Icthyophaga humilis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212657479/medium.jpg",
+      "attribute": "(c) Peter Ericsson, some rights reserved (CC BY-NC), uploaded by Peter Ericsson",
+      "source": "https://www.inaturalist.org/observations/125400980"
+    }
+  ],
+  "Ictinaetus malayensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227323165/medium.jpeg",
+      "attribute": "(c) awayk3n, some rights reserved (CC BY), uploaded by awayk3n",
+      "source": "https://www.inaturalist.org/observations/131188816"
+    }
+  ],
+  "Ketupa flavipes": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9743870/medium.jpeg",
+      "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",
+      "source": "https://www.inaturalist.org/observations/7483387"
+    }
+  ],
+  "Ketupa ketupu": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11100846/medium.jpeg",
+      "attribute": "(c) ellietan, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/8353589"
+    }
+  ],
+  "Ketupa zeylonensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/860069/medium.jpg",
+      "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)",
+      "source": "https://www.inaturalist.org/observations/683062"
+    }
+  ],
+  "Leiothrix argentauris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11264457/medium.jpg",
+      "attribute": "(c) Tan Kok Hui, some rights reserved (CC BY-NC), uploaded by Tan Kok Hui",
+      "source": "https://www.inaturalist.org/observations/8452752"
+    }
+  ],
+  "Leiothrix lutea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242875080/medium.jpg",
+      "attribute": "(c) Stephen John Davies, some rights reserved (CC BY-NC), uploaded by Stephen John Davies",
+      "source": "https://www.inaturalist.org/observations/141732088"
+    }
+  ],
+  "Lepidochelys olivacea": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247284582/large.jpeg",
+      "attribute": "(c) grant_mccargar, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/photos/247284582"
+    }
+  ],
+  "Leptoptilos dubius": [
+    {
+      "image_url": "https://static.inaturalist.org/photos/24749858/medium.jpg",
+      "attribute": "(c) Rejoice Gassah, all rights reserved",
+      "source": "https://www.inaturalist.org/observations/16447371"
+    }
+  ],
+  "Lepus sinensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67300203/large.jpg",
+      "attribute": "(c) 尹若宇, some rights reserved (CC BY-SA), uploaded by 尹若宇",
+      "source": "https://www.inaturalist.org/observations/42387326"
+    }
+  ],
+  "Lophura nycthemera": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197162564/large.jpg",
+      "attribute": "(c) zoe_liu, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/116782679"
+    }
+  ],
+  "Lutra sumatrana": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422644250/large.jpeg",
+      "attribute": "(c) stefanie_de_win, some rights reserved (CC BY-NC), uploaded by stefanie_de_win",
+      "source": "https://www.inaturalist.org/observations/237478497"
+    }
+  ],
+  "Lutrogale perspicillata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8015228/medium.jpg",
+      "attribute": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak",
+      "source": "https://www.inaturalist.org/observations/6356006"
+    }
+  ],
+  "Macaca arctoides": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23901112/medium.jpg",
+      "attribute": "(c) Hector Manuel Zazueta Islas, some rights reserved (CC BY-NC), uploaded by Hector Manuel Zazueta Islas",
+      "source": "https://www.inaturalist.org/observations/15967799"
+    }
+  ],
+  "Macaca assamensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228390081/medium.jpg",
+      "attribute": "(c) ayuwat, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/134030106"
+    }
+  ],
+  "Macaca fascicularis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503405381/large.jpg",
+      "attribute": "(c) Jane Kempler &amp; Andrew Goldby Freelance, some rights reserved (CC BY-NC-ND), uploaded by Jane Kempler &amp; Andrew Goldby Freelance",
+      "source": "https://www.inaturalist.org/observations/280297917"
+    }
+  ],
+  "Macaca leonina": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2719603/medium.jpg",
+      "attribute": "(c) seasav, some rights reserved (CC BY-NC-ND), uploaded by seasav",
+      "source": "https://www.inaturalist.org/observations/2438315"
+    }
+  ],
+  "Malayopython reticulatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89211391/medium.jpg",
+      "attribute": "(c) Jeff LeClere, some rights reserved (CC BY-NC), uploaded by Jeff LeClere",
+      "source": "https://www.inaturalist.org/observations/56005818"
+    }
+  ],
+  "Manis javanica": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101596/medium.jpg",
+      "attribute": "(c) Firman, some rights reserved (CC BY), uploaded by Firman",
+      "source": "https://www.inaturalist.org/observations/66841"
+    }
+  ],
+  "Manis pentadactyla": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66000241/medium.jpg",
+      "attribute": "(c) Dash Huang, some rights reserved (CC BY-NC-SA)",
+      "source": "https://www.flickr.com/photos/121917432@N02/46526848751/"
+    }
+  ],
+  "Mauremys mutica": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94280045/medium.jpg",
+      "attribute": "(c) Michael Lynch, some rights reserved (CC BY-NC), uploaded by Michael Lynch",
+      "source": "https://www.inaturalist.org/observations/59025725"
+    }
+  ],
+  "Nyctereutes procyonoides": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2802310/medium.jpg",
+      "attribute": "(c) misooksun, some rights reserved (CC BY-NC), uploaded by misooksun",
+      "source": "https://www.inaturalist.org/observations/2495741"
+    }
+  ],
+  "Nycticebus bengalensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86903726/large.jpeg",
+      "attribute": "(c) Ian Dugdale, some rights reserved (CC BY), uploaded by Ian Dugdale",
+      "source": "https://www.inaturalist.org/observations/54610637"
+    }
+  ],
+  "Ophiophagus hannah": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57743800/medium.jpg",
+      "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough",
+      "source": "https://www.inaturalist.org/observations/36522472"
+    }
+  ],
+  "Otus sunia": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182504854/medium.jpg",
+      "attribute": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly",
+      "source": "https://www.inaturalist.org/observations/108401886"
+    }
+  ],
+  "Paradoxurus hermaphroditus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11172495/medium.jpeg",
+      "attribute": "(c) pfaucher, some rights reserved (CC BY-NC), uploaded by pfaucher",
+      "source": "https://www.inaturalist.org/observations/8397920"
+    }
+  ],
+  "Pardofelis marmorata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512240401/large.jpg",
+      "attribute": "(c) robhutchinson, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/284996694"
+    }
+  ],
+  "Paguma larvata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35548652/medium.png",
+      "attribute": "(c) Carolus Kwok, some rights reserved (CC BY-NC), uploaded by Carolus Kwok",
+      "source": "https://www.inaturalist.org/observations/22932866"
+    }
+  ],
+  "Pelochelys cantorii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222174369/medium.jpeg",
+      "attribute": "(c) User:Shailendra Singh, some rights reserved (CC BY)",
+      "source": "https://commons.wikimedia.org/wiki/File:Dudhwalive_chitra.JPG"
+    }
+  ],
+  "Pernis ptilorhynchus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155638683/medium.jpeg",
+      "attribute": "(c) shivaprakash, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/93870730"
+    }
+  ],
+  "Phodilus badius": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457825594/large.jpeg",
+      "attribute": "(c) Jeremy Loh, some rights reserved (CC BY-NC), uploaded by Jeremy Loh",
+      "source": "https://www.inaturalist.org/observations/255475005"
+    }
+  ],
+  "Pitta sordida": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495167052/large.jpg",
+      "attribute": "(c) yanagi0927, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/275599772"
+    }
+  ],
+  "Polihierax insignis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556357645/large.jpg",
+      "attribute": "(c) falcocherrug, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/308380654"
+    }
+  ],
+  "Polyplectron bicalcaratum": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133940122/medium.jpg",
+      "attribute": "(c) Ingkayut Sa-ar, some rights reserved (CC BY-NC), uploaded by Ingkayut Sa-ar",
+      "source": "https://www.inaturalist.org/observations/81652647"
+    }
+  ],
+  "Psittacula alexandri": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476697924/large.jpeg",
+      "attribute": "(c) Sagnik Dutta Roy, some rights reserved (CC BY), uploaded by Sagnik Dutta Roy",
+      "source": "https://www.inaturalist.org/observations/265399168"
+    }
+  ],
+  "Psittacula finschii": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348273018/large.jpg",
+      "attribute": "(c) Thet Zaw Naing, some rights reserved (CC BY-NC), uploaded by Thet Zaw Naing",
+      "source": "https://www.inaturalist.org/observations/197702168"
+    }
+  ],
+  "Psittacula roseata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115397108/medium.jpg",
+      "attribute": "(c) Md. Zaber Ansary, some rights reserved (CC BY-NC), uploaded by Md. Zaber Ansary",
+      "source": "https://www.inaturalist.org/observations/70928556"
+    }
+  ],
+  "Pteropus lylei": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/126281759/large.jpg",
+      "attribute": "(c) David Bishop, some rights reserved (CC BY-NC), uploaded by David Bishop",
+      "source": "https://www.inaturalist.org/observations/77223945"
+    }
+  ],
+  "Pteropus vampyrus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62664088/medium.jpeg",
+      "attribute": "(c) Pirataber, some rights reserved (CC BY), uploaded by Pirataber",
+      "source": "https://www.inaturalist.org/observations/39492604"
+    }
+  ],
+  "Pterorhinus chinensis": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111261141/medium.jpg",
+      "attribute": "(c) 57Andrew, some rights reserved (CC BY-NC-ND), uploaded by 57Andrew",
+      "source": "https://www.inaturalist.org/observations/68674027"
+    }
+  ],
+  "Pterorhinus sannio": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555208/medium.jpg",
+      "attribute": "(c) Ron Knight, some rights reserved (CC BY)",
+      "source": "https://commons.wikimedia.org/wiki/File:Garrulax_sannio.jpg"
+    }
+  ],
+  "Python brongersmai": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378582336/large.jpeg",
+      "attribute": "(c) Siriwat Dangsri, some rights reserved (CC BY-NC), uploaded by Siriwat Dangsri",
+      "source": "https://www.inaturalist.org/observations/214197203"
+    }
+  ],
+  "Rhinopithecus avunculus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70494550/medium.jpeg",
+      "attribute": "(c) mark_spence, some rights reserved (CC BY-NC), uploaded by mark_spence",
+      "source": "https://www.inaturalist.org/observations/44460832"
+    }
+  ],
+  "Rimator pasquieri": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465032565/medium.jpeg",
+      "attribute": "(c) marcthibault, some rights reserved (CC BY-NC)",
+      "source": "https://www.inaturalist.org/observations/259102914"
+    }
+  ],
+  "Sacalia quadriocellata": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60629281/medium.jpg",
+      "attribute": "(c) François Charles, some rights reserved (CC BY-SA)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sacalia_quadriocellata.jpg"
+    }
+  ],
+  "Sarcogyps calvus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27224130/medium.jpeg",
+      "attribute": "(c) QuestaGame, some rights reserved (CC BY-NC-ND), uploaded by QuestaGame",
+      "source": "https://www.inaturalist.org/observations/17836122"
+    }
+  ],
+  "Shinisaurus crocodilurus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75415029/medium.jpg",
+      "attribute": "(c) Chriest, some rights reserved (CC BY-NC-SA)",
+      "source": "https://www.flickr.com/photos/christophlorse/27210751960/"
+    }
+  ],
+  "Spilornis cheela": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/888118/medium.jpg",
+      "attribute": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)",
+      "source": "https://www.inaturalist.org/observations/706872"
+    }
+  ],
+  "Sterna acuticauda": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252796770/large.jpg",
+      "attribute": "(c) shyamkumar puravankara, some rights reserved (CC BY-NC), uploaded by shyamkumar puravankara",
+      "source": "https://www.inaturalist.org/photos/252796770"
+    }
+  ],
+  "Strix leptogrammica": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57850672/medium.jpg",
+      "attribute": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough",
+      "source": "https://www.inaturalist.org/observations/36585365"
+    }
+  ],
+  "Strix nivicola": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262036068/medium.jpg",
+      "attribute": "(c) Sourav Halder, some rights reserved (CC BY-NC), uploaded by Sourav Halder",
+      "source": "https://www.inaturalist.org/observations/151832026"
+    }
+  ],
+  "Trachypithecus delacouri": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345368411/large.jpg",
+      "attribute": "(c) Royle Safaris, some rights reserved (CC BY-NC), uploaded by Royle Safaris",
+      "source": "https://www.inaturalist.org/observations/196204076"
+    }
+  ],
+  "Tragulus kanchil": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3350022/medium.jpg",
+      "attribute": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
+      "source": "https://www.inaturalist.org/observations/2924982"
+    }
+  ],
+  "Trochalopteron squamatus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108809804/large.jpg",
+      "attribute": "(c) Kelvin Joshua Che, some rights reserved (CC BY-NC), uploaded by Kelvin Joshua Che",
+      "source": "https://www.inaturalist.org/observations/67358099"
+    }
+  ],
+  "Trochalopteron subunicolor": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8889377/medium.jpeg",
+      "attribute": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",
+      "source": "https://www.inaturalist.org/observations/6952805"
+    }
+  ],
+  "Tyto longimembris": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236742106/medium.jpg",
+      "attribute": "(c) Kelvin Joshua Che, some rights reserved (CC BY-NC), uploaded by Kelvin Joshua Che",
+      "source": "https://www.inaturalist.org/observations/138500857"
+    }
+  ],
+  "Varanus nebulosus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9405059/medium.jpg",
+      "attribute": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak",
+      "source": "https://www.inaturalist.org/observations/7274504"
+    }
+  ],
+  "Varanus salvator": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522041853/large.jpg",
+      "attribute": "(c) Anton Dangl, some rights reserved (CC BY-NC), uploaded by Anton Dangl",
+      "source": "https://www.inaturalist.org/observations/290215328"
+    }
+  ],
+  "Vulpes vulpes": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6568074/medium.jpg",
+      "attribute": "(c) Joanne Muis, some rights reserved (CC BY-NC), uploaded by Joanne Muis",
+      "source": "https://www.inaturalist.org/observations/5305215"
+    }
+  ],
+  "Xanthonycticebus pygmaeus": [
+    {
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146091/medium.jpg",
+      "attribute": "(c) Josh More, some rights reserved (CC BY-NC-ND)",
+      "source": "https://www.flickr.com/photos/41837219@N00/3142516969"
+    }
+  ]
 }

@@ -6,10 +6,13 @@ import { Badge } from "@/components/ui/badge";
 import { ChevronLeft, ChevronRight, X, ImageIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
+import Link from "next/link";
+import { DialogTitle } from "@radix-ui/react-dialog";
 
 interface ImageData {
   image_url: string;
   attribute: string;
+  source: string;
 }
 
 interface SpeciesImageThumbnailProps {
@@ -78,6 +81,7 @@ export function SpeciesImageThumbnail({
       </DialogTrigger>
 
       <DialogContent className="max-w-4xl w-full p-0 bg-black">
+        <DialogTitle className="sr-only"></DialogTitle>
         <div className="relative">
           <Button
             variant="ghost"
@@ -126,9 +130,22 @@ export function SpeciesImageThumbnail({
           </div>
 
           <div className="rounded-lg absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6">
-            <h3 className="text-white font-semibold text-lg italic mb-2">
-              {speciesName}
-            </h3>
+            {currentImage.source && currentImage.source.trim() !== "" ? (
+              <Link
+                href={currentImage.source}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <h3 className="text-white font-semibold text-lg italic mb-2 hover:underline">
+                  {speciesName}
+                </h3>
+              </Link>
+            ) : (
+              <h3 className="text-white font-semibold text-lg italic mb-2">
+                {speciesName}
+              </h3>
+            )}
+
             {currentImage.attribute && (
               <p className="text-gray-300 text-sm">{currentImage.attribute}</p>
             )}
