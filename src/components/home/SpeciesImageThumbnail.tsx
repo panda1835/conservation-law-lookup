@@ -12,7 +12,7 @@ import { DialogTitle } from "@radix-ui/react-dialog";
 interface ImageData {
   image_url: string;
   attribute: string;
-  source: string;
+  source?: string;
 }
 
 interface SpeciesImageThumbnailProps {

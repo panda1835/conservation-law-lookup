@@ -5,7 +5,7 @@ export const getSpeciesImages = (scientificName: string) => {
   const normalizedName = normalizeScientificName(scientificName);
   const images = imagesData as Record<
     string,
-    Array<{ image_url: string; attribute: string }>
+    Array<{ image_url: string; attribute: string; source?: string }>
   >;
   return images[normalizedName] || [];
 };
