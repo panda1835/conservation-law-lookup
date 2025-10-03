@@ -68,7 +68,8 @@
     "noRegulation": "Không có quy định trong văn bản này"
   },
   "empty": {
-    "selectDocument": "Vui lòng chọn ít nhất một văn bản pháp luật để xem dữ liệu loài."
+    "selectDocument": "Vui lòng chọn ít nhất một văn bản pháp luật để xem dữ liệu loài.",
+    "noResults": "Không tìm thấy loài nào phù hợp với tiêu chí tìm kiếm của bạn."
   },
   "legalDocuments": {
     "title": "Các Văn bản Pháp luật Tham khảo",

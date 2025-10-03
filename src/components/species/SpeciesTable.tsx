@@ -1,13 +1,16 @@
 "use client";
 
+import { useMemo, useState } from "react";
 import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@/components/ui/table";
+  useReactTable,
+  getCoreRowModel,
+  getSortedRowModel,
+  getFilteredRowModel,
+  type SortingState,
+  type ColumnFiltersState,
+  type ColumnResizeMode,
+} from "@tanstack/react-table";
+import { Table, TableHeader } from "@/components/ui/table";
 import {
   Card,
   CardContent,
@@ -15,17 +18,26 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-import { Download } from "lucide-react";
-import { SpeciesImageThumbnail } from "@/components/home/SpeciesImageThumbnail";
-import { LEGAL_DOCUMENTS } from "@/data/legalDocuments";
-import { getSpeciesImages } from "@/utils/species";
 import type {
   ExtendedSpecies,
   TaxonomicDetails,
   TranslationFunction,
 } from "@/types/species";
+
+// Import column factories
+import {
+  createImageColumn,
+  createScientificNameColumn,
+  createCommonNameColumn,
+} from "./columns/basic-columns";
+import { createTaxonomicColumns } from "./columns/taxonomic-columns";
+import { createLegalDocumentColumns } from "./columns/legal-document-columns";
+
+// Import table part components
+import { GroupedHeaderRow } from "./table-parts/GroupedHeaderRow";
+import { ColumnHeaderRow } from "./table-parts/ColumnHeaderRow";
+import { FilterRow } from "./table-parts/FilterRow";
+import { SpeciesTableBody } from "./table-parts/SpeciesTableBody";
 
 interface SpeciesTableProps {
   filteredData: ExtendedSpecies[];
@@ -46,8 +58,62 @@ export const SpeciesTable = ({
   searchTerm,
   locale,
   t,
+  // onExportCSV is kept for future use with export button
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   onExportCSV,
 }: SpeciesTableProps) => {
+  const [sorting, setSorting] = useState<SortingState>([]);
+  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
+  const [columnResizeMode] = useState<ColumnResizeMode>("onChange");
+
+  // Define columns dynamically based on selected documents and taxonomic details
+  const columns = useMemo(() => {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const cols: any[] = [];
+
+    // Basic columns
+    cols.push(createImageColumn(t));
+    cols.push(createScientificNameColumn(t));
+    cols.push(createCommonNameColumn(t));
+
+    // Taxonomic columns
+    cols.push(...createTaxonomicColumns(showTaxonomicDetails, t));
+
+    // Legal document columns
+    cols.push(
+      ...createLegalDocumentColumns(
+        selectedDocuments,
+        documentLawCategories,
+        locale,
+        t
+      )
+    );
+
+    return cols;
+  }, [
+    selectedDocuments,
+    showTaxonomicDetails,
+    documentLawCategories,
+    locale,
+    t,
+  ]);
+
+  const table = useReactTable({
+    data: filteredData,
+    columns,
+    state: {
+      sorting,
+      columnFilters,
+    },
+    onSortingChange: setSorting,
+    onColumnFiltersChange: setColumnFilters,
+    getCoreRowModel: getCoreRowModel(),
+    getSortedRowModel: getSortedRowModel(),
+    getFilteredRowModel: getFilteredRowModel(),
+    columnResizeMode,
+    enableColumnResizing: true,
+  });
+
   if (selectedDocuments.length === 0) {
     return (
       <Card>
@@ -69,7 +135,9 @@ export const SpeciesTable = ({
             <CardDescription className="mt-2">
               <p className="text">
                 {t("results.showing")}{" "}
-                <span className="font-bold">{filteredData.length}</span>{" "}
+                <span className="font-bold">
+                  {table.getRowModel().rows.length}
+                </span>{" "}
                 {t("results.species")}
                 {searchTerm && (
                   <span>
@@ -97,519 +165,17 @@ export const SpeciesTable = ({
       <CardContent>
         <div className="w-full overflow-x-auto overflow-y-auto max-h-[600px] border rounded-md">
           <div style={{ minWidth: "1200px" }}>
-            <Table>
-              <TableHeader className="sticky top-0 z-30">
-                <TableRow>
-                  {/* Image column - frozen */}
-                  <TableHead
-                    rowSpan={2}
-                    className="w-32 sticky left-0 bg-background z-40 border-r shadow-md"
-                  >
-                    <div className="flex justify-center w-full">
-                      {t("table.image")}
-                    </div>
-                  </TableHead>
-
-                  {/* Scientific name column - frozen */}
-                  <TableHead
-                    rowSpan={2}
-                    className="w-48 sticky left-32 bg-background z-40 border-r shadow-md"
-                  >
-                    {t("table.scientificName")}
-                  </TableHead>
-
-                  {/* Common name column - NOT frozen */}
-                  <TableHead
-                    rowSpan={2}
-                    className="w-56 bg-background border-r shadow-md"
-                  >
-                    {t("table.commonName")}
-                  </TableHead>
-
-                  {/* Taxonomic columns */}
-                  {showTaxonomicDetails.kingdom && (
-                    <>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.kingdomLatin")}
-                      </TableHead>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.kingdomVietnamese")}
-                      </TableHead>
-                    </>
-                  )}
-                  {showTaxonomicDetails.phylum && (
-                    <>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.phylumLatin")}
-                      </TableHead>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.phylumVietnamese")}
-                      </TableHead>
-                    </>
-                  )}
-                  {showTaxonomicDetails.class && (
-                    <>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.classLatin")}
-                      </TableHead>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.classVietnamese")}
-                      </TableHead>
-                    </>
-                  )}
-                  {showTaxonomicDetails.order && (
-                    <>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.orderLatin")}
-                      </TableHead>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.orderVietnamese")}
-                      </TableHead>
-                    </>
-                  )}
-                  {showTaxonomicDetails.family && (
-                    <>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.familyLatin")}
-                      </TableHead>
-                      <TableHead
-                        rowSpan={2}
-                        className="max-w-[80px] truncate text-xs text-center"
-                      >
-                        {t("table.familyVietnamese")}
-                      </TableHead>
-                    </>
-                  )}
-
-                  {/* Legal document columns */}
-                  {selectedDocuments.map((docId) => {
-                    const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
-                    if (!doc) return null;
-                    const categories = documentLawCategories[docId] || [];
-                    const colSpan = Math.max(1, categories.length);
-
-                    return (
-                      <TableHead
-                        key={docId}
-                        colSpan={colSpan}
-                        className="text-center border-l w-auto"
-                      >
-                        <a
-                          href={doc.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="hover:underline text-blue-600 dark:text-blue-400 font-medium text-sm truncate block"
-                        >
-                          {doc.shortName[locale as "vi" | "en"]}
-                        </a>
-                      </TableHead>
-                    );
-                  })}
-                </TableRow>
-
-                {/* Second header row for legal subcategories */}
-                <TableRow className="sticky top-[40px] z-30 bg-background">
-                  {selectedDocuments.map((docId) => {
-                    const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
-                    if (!doc) return null;
-                    const categories = documentLawCategories[docId] || [];
-
-                    if (categories.length === 0) {
-                      return (
-                        <TableHead
-                          key={`${docId}-sub`}
-                          className="text-xs border-l max-w-[80px] text-center p-2 truncate"
-                        >
-                          {t("table.status")}
-                        </TableHead>
-                      );
-                    }
-
-                    return categories.map((category, idx) => (
-                      <TableHead
-                        key={`${docId}-${category}-${idx}`}
-                        className="text-xs border-l max-w-[80px] text-center p-2 "
-                      >
-                        <div className="text-wrap">{category}</div>
-                      </TableHead>
-                    ));
-                  })}
-                </TableRow>
+            <Table style={{ tableLayout: "fixed" }}>
+              <TableHeader>
+                <GroupedHeaderRow table={table} />
+                <ColumnHeaderRow table={table} />
+                <FilterRow table={table} locale={locale} />
               </TableHeader>
-
-              <TableBody>
-                {filteredData.map((species, index) => (
-                  <TableRow
-                    key={`${species.scientific_name}-${
-                      species.isSharedSpecies ? "merged" : species.documentId
-                    }-${index}`}
-                  >
-                    {/* Image - frozen */}
-                    <TableCell className="sticky left-0 bg-background z-20 border-r p-2 ">
-                      <div className="flex justify-center w-full">
-                        <SpeciesImageThumbnail
-                          images={getSpeciesImages(
-                            species.scientific_name.value
-                          )}
-                          speciesName={species.scientific_name.value}
-                        />
-                      </div>
-                    </TableCell>
-
-                    {/* Scientific name - frozen */}
-                    <TableCell className="font-medium italic sticky left-32 bg-background z-20 border-r p-2">
-                      <div className="w-60">
-                        <div
-                          className="truncate"
-                          title={species.scientific_name.value}
-                        >
-                          <div className=" text-wrap">
-                            {species.scientific_name.value}
-                          </div>
-                          {species.scientific_name.note && (
-                            <div className="text-blue-400 text-xs mt-1 text-wrap">
-                              {species.scientific_name.note}
-                            </div>
-                          )}
-                          {species.note && (
-                            <div className="text-blue-400 text-xs mt-1 text-wrap">
-                              {species.note}
-                            </div>
-                          )}
-                        </div>
-                      </div>
-                    </TableCell>
-                    <TableCell className="left-84 bg-background z-20 border-r p-2">
-                      <div
-                        className="w-72 text-sm"
-                        title={species.common_name.value}
-                      >
-                        <div className="text-wrap">
-                          {species.common_name.value}
-                        </div>
-                        {species.common_name.note && (
-                          <div className="text-blue-400 text-xs text-wrap mt-1">
-                            {species.common_name.note}
-                          </div>
-                        )}
-                      </div>
-                    </TableCell>
-
-                    {/* Taxonomic data */}
-                    {showTaxonomicDetails.kingdom && (
-                      <>
-                        <TableCell
-                          className="text-xs italic p-2 truncate max-w-[80px]"
-                          title={species.kingdom_latin || ""}
-                        >
-                          {species.kingdom_latin || ""}
-                        </TableCell>
-                        <TableCell
-                          className="text-xs p-2 truncate max-w-[80px]"
-                          title={species.kingdom_vi || ""}
-                        >
-                          {species.kingdom_vi || ""}
-                        </TableCell>
-                      </>
-                    )}
-                    {showTaxonomicDetails.phylum && (
-                      <>
-                        <TableCell
-                          className="text-xs italic p-2 truncate max-w-[80px]"
-                          title={species.phylum_latin || ""}
-                        >
-                          {species.phylum_latin || ""}
-                        </TableCell>
-                        <TableCell
-                          className="text-xs p-2 truncate max-w-[80px]"
-                          title={species.phylum_vi || ""}
-                        >
-                          {species.phylum_vi || ""}
-                        </TableCell>
-                      </>
-                    )}
-                    {showTaxonomicDetails.class && (
-                      <>
-                        <TableCell
-                          className="text-xs italic p-2 truncate max-w-[80px]"
-                          title={species.class_latin}
-                        >
-                          {species.class_latin}
-                        </TableCell>
-                        <TableCell
-                          className="text-xs p-2 truncate max-w-[80px]"
-                          title={species.class_vi}
-                        >
-                          {species.class_vi}
-                        </TableCell>
-                      </>
-                    )}
-                    {showTaxonomicDetails.order && (
-                      <>
-                        <TableCell
-                          className="text-xs italic p-2 truncate max-w-[80px]"
-                          title={species.order_latin}
-                        >
-                          {species.order_latin}
-                        </TableCell>
-                        <TableCell
-                          className="text-xs p-2 truncate max-w-[80px]"
-                          title={species.order_vi}
-                        >
-                          {species.order_vi}
-                        </TableCell>
-                      </>
-                    )}
-                    {showTaxonomicDetails.family && (
-                      <>
-                        <TableCell
-                          className="text-xs italic p-2 truncate max-w-[80px]"
-                          title={species.family_latin}
-                        >
-                          {species.family_latin}
-                        </TableCell>
-                        <TableCell
-                          className="text-xs p-2 truncate max-w-[80px]"
-                          title={species.family_vi}
-                        >
-                          {species.family_vi}
-                        </TableCell>
-                      </>
-                    )}
-
-                    {/* Legal status columns */}
-                    {selectedDocuments.map((docId) => {
-                      const doc = LEGAL_DOCUMENTS.find((d) => d.id === docId);
-                      if (!doc) return null;
-                      const categories = documentLawCategories[docId] || [];
-
-                      // Fix Issue 2: Only show data if the species actually exists in this document
-                      // For shared species, check if this specific document contains the species
-                      const shouldShowData = species.isSharedSpecies
-                        ? species.documentIds?.has(docId) ?? false
-                        : species.documentId === docId;
-
-                      if (categories.length === 0) {
-                        let status = "";
-                        let note = "";
-                        if (shouldShowData && species.laws.length > 0) {
-                          status = species.laws[0]?.value || "";
-                          note = species.laws[0]?.note || "";
-                        }
-
-                        // Check if this is an IUCN or Vietnam Red List document
-                        const isIUCN = docId === "iucn";
-                        const isVNRedList = docId === "vnredlist";
-                        const isRedList = isIUCN || isVNRedList;
-
-                        // Get IUCN/Red List badge color based on category
-                        const getIUCNBadgeColor = (category: string) => {
-                          switch (category) {
-                            case "EX": // Extinct
-                            case "EW": // Extinct in the Wild
-                              return "bg-black text-white";
-                            case "CR": // Critically Endangered
-                              return "bg-red-700 text-white";
-                            case "EN": // Endangered
-                              return "bg-orange-600 text-white";
-                            case "VU": // Vulnerable
-                              return "bg-yellow-600 text-white";
-                            case "NT": // Near Threatened
-                              return "bg-yellow-400 text-black";
-                            case "LC": // Least Concern
-                              return "bg-green-600 text-white";
-                            case "DD": // Data Deficient
-                              return "bg-gray-500 text-white";
-                            case "NE": // Not Evaluated
-                              return "bg-gray-300 text-black";
-                            case "NA": // Not Applicable
-                              return "bg-gray-300 text-black";
-                            default:
-                              return "bg-gray-400 text-white";
-                          }
-                        };
-
-                        return (
-                          <TableCell
-                            key={`${docId}`}
-                            className="border-l text-center p-2 max-w-[80px] truncate"
-                          >
-                            {status && (
-                              <div>
-                                {isRedList && note ? (
-                                  <a
-                                    href={note}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    title={t(`iucnCategories.${status}`)}
-                                  >
-                                    <Badge
-                                      className={`text-xs px-2 py-1 cursor-pointer hover:opacity-80 transition-opacity ${getIUCNBadgeColor(
-                                        status
-                                      )}`}
-                                    >
-                                      {status}
-                                    </Badge>
-                                  </a>
-                                ) : (
-                                  <Badge
-                                    className={`text-xs px-2 py-1 ${
-                                      isRedList
-                                        ? getIUCNBadgeColor(status)
-                                        : status === "IB" || status === "IA"
-                                        ? "bg-red-600"
-                                        : status === "IIA" || status === "IIB"
-                                        ? "bg-yellow-600"
-                                        : "bg-transparent text-black"
-                                    }`}
-                                    title={
-                                      isRedList && t(`iucnCategories.${status}`)
-                                        ? t(`iucnCategories.${status}`)
-                                        : status
-                                    }
-                                  >
-                                    {status}
-                                  </Badge>
-                                )}
-                                {!isRedList && note && (
-                                  <div className="text-blue-400 text-xs mt-1">
-                                    {note}
-                                  </div>
-                                )}
-                              </div>
-                            )}
-                          </TableCell>
-                        );
-                      }
-
-                      const isIUCN = docId === "iucn";
-                      const isVNRedList = docId === "vnredlist";
-                      const isRedList = isIUCN || isVNRedList;
-
-                      // Get IUCN/Red List badge color based on category
-                      const getIUCNBadgeColor = (category: string) => {
-                        switch (category) {
-                          case "EX": // Extinct
-                          case "EW": // Extinct in the Wild
-                            return "bg-black text-white";
-                          case "CR": // Critically Endangered
-                            return "bg-red-700 text-white";
-                          case "EN": // Endangered
-                            return "bg-orange-600 text-white";
-                          case "VU": // Vulnerable
-                            return "bg-yellow-600 text-white";
-                          case "NT": // Near Threatened
-                          case "LR/nt": // Lower Risk/near threatened (old IUCN category)
-                            return "bg-yellow-400 text-black";
-                          case "LC": // Least Concern
-                            return "bg-green-600 text-white";
-                          case "DD": // Data Deficient
-                            return "bg-gray-500 text-white";
-                          case "NE": // Not Evaluated
-                          case "NA": // Not Applicable
-                            return "bg-gray-300 text-black";
-                          default:
-                            return "bg-gray-400 text-white";
-                        }
-                      };
-
-                      return categories.map((category, idx) => {
-                        let status = "";
-                        let note = "";
-                        if (shouldShowData) {
-                          const relevantLaw = species.laws.find((law) => {
-                            const lawName =
-                              typeof law.name === "string"
-                                ? law.name
-                                : law.name[locale as "vi" | "en"];
-                            return lawName === category;
-                          });
-                          status = relevantLaw?.value || "";
-                          note = relevantLaw?.note || "";
-                        }
-                        return (
-                          <TableCell
-                            key={`${docId}-${category}-${idx}`}
-                            className="border-l text-center p-2 max-w-[80px] truncate "
-                          >
-                            {status && (
-                              <div>
-                                {isRedList && note ? (
-                                  <a
-                                    href={note}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    title={t(`iucnCategories.${status}`)}
-                                  >
-                                    <Badge
-                                      className={`text-xs px-2 py-1 cursor-pointer hover:opacity-80 transition-opacity ${getIUCNBadgeColor(
-                                        status
-                                      )}`}
-                                    >
-                                      {status}
-                                    </Badge>
-                                  </a>
-                                ) : (
-                                  <Badge
-                                    className={`text-xs px-2 py-1 ${
-                                      isRedList
-                                        ? getIUCNBadgeColor(status)
-                                        : status === "IB" || status === "IA"
-                                        ? "bg-red-600"
-                                        : status === "IIA" || status === "IIB"
-                                        ? "bg-yellow-600"
-                                        : "bg-transparent text-black"
-                                    }`}
-                                    title={
-                                      isRedList && t(`iucnCategories.${status}`)
-                                        ? t(`iucnCategories.${status}`)
-                                        : status
-                                    }
-                                  >
-                                    {status}
-                                  </Badge>
-                                )}
-                                {!isRedList && note && (
-                                  <div className="text-blue-400 mt-2 text-xs text-wrap">
-                                    {note}
-                                  </div>
-                                )}
-                              </div>
-                            )}
-                          </TableCell>
-                        );
-                      });
-                    })}
-                  </TableRow>
-                ))}
-              </TableBody>
+              <SpeciesTableBody
+                table={table}
+                columnsLength={columns.length}
+                t={t}
+              />
             </Table>
           </div>
         </div>
