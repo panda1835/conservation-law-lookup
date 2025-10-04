@@ -4,13 +4,6 @@ import { CompactSortableHeader } from "../headers/SortableHeader";
 
 const columnHelper = createColumnHelper<ExtendedSpecies>();
 
-type TaxonomicField = {
-  latinAccessor: keyof ExtendedSpecies;
-  viAccessor: keyof ExtendedSpecies;
-  latinLabel: string;
-  viLabel: string;
-};
-
 function createTaxonomicColumnPair(
   latinAccessor: keyof ExtendedSpecies,
   viAccessor: keyof ExtendedSpecies,
@@ -18,9 +11,11 @@ function createTaxonomicColumnPair(
   viLabel: string
 ) {
   return [
-    columnHelper.accessor(latinAccessor as any, {
+    columnHelper.accessor(latinAccessor, {
       header: ({ column }) => (
-        <CompactSortableHeader column={column}>{latinLabel}</CompactSortableHeader>
+        <CompactSortableHeader column={column}>
+          {latinLabel}
+        </CompactSortableHeader>
       ),
       cell: (info) => (
         <div
@@ -34,7 +29,7 @@ function createTaxonomicColumnPair(
       minSize: 60,
       maxSize: 150,
     }),
-    columnHelper.accessor(viAccessor as any, {
+    columnHelper.accessor(viAccessor, {
       header: ({ column }) => (
         <CompactSortableHeader column={column}>{viLabel}</CompactSortableHeader>
       ),
@@ -63,6 +58,7 @@ export function createTaxonomicColumns(
   },
   t: TranslationFunction
 ) {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const columns: any[] = [];
 
   const taxonomicFields: Array<{

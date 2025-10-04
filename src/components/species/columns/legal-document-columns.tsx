@@ -30,7 +30,7 @@ function getStatusAndNote(
   locale?: string
 ): { status: string; note: string } {
   const shouldShow = shouldShowSpeciesData(species, docId);
-  
+
   if (!shouldShow) {
     return { status: "", note: "" };
   }
@@ -47,9 +47,7 @@ function getStatusAndNote(
   // Multi-category document
   const relevantLaw = species.laws.find((law) => {
     const lawName =
-      typeof law.name === "string"
-        ? law.name
-        : law.name[locale as "vi" | "en"];
+      typeof law.name === "string" ? law.name : law.name[locale as "vi" | "en"];
     return lawName === category;
   });
 
@@ -69,56 +67,58 @@ function createSingleCategoryColumn(
 
   const isRedList = docId === "iucn" || docId === "vnredlist";
 
-  return columnHelper.accessor(
-    (row) => getStatusAndNote(row, docId).status,
-    {
-      id: `${docId}-status`,
-      header: ({ column }) => (
-        <div className="flex items-center justify-center gap-1">
-          <a
-            href={doc.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:underline text-blue-600 dark:text-blue-400 font-medium text-sm truncate block"
-            onClick={(e) => e.stopPropagation()}
-          >
-            {doc.shortName[locale as "vi" | "en"]}
-          </a>
-          <button
-            onClick={() =>
-              column.toggleSorting(column.getIsSorted() === "asc")
-            }
-            className="hover:text-primary"
-          >
-            {column.getIsSorted() ? (
-              column.getIsSorted() === "asc" ? (
-                <ArrowUp className="h-3 w-3" />
-              ) : (
-                <ArrowDown className="h-3 w-3" />
-              )
+  return columnHelper.accessor((row) => getStatusAndNote(row, docId).status, {
+    id: `${docId}-status`,
+    header: ({ column }) => (
+      <div className="flex items-center justify-center gap-1">
+        <a
+          href={doc.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:underline text-blue-600 dark:text-blue-400 font-medium text-sm truncate block"
+          onClick={(e) => e.stopPropagation()}
+        >
+          {doc.shortName[locale as "vi" | "en"]}
+        </a>
+        <button
+          onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}
+          className="hover:text-primary"
+        >
+          {column.getIsSorted() ? (
+            column.getIsSorted() === "asc" ? (
+              <ArrowUp className="h-3 w-3" />
             ) : (
-              <ArrowUpDown className="h-3 w-3 opacity-50" />
-            )}
-          </button>
-        </div>
-      ),
-      meta: {
-        docId,
-        isGroupHeader: false,
-        docUrl: doc.url,
-        docShortName: doc.shortName[locale as "vi" | "en"],
-      } as ColumnMeta,
-      cell: (info) => {
-        const { status, note } = getStatusAndNote(info.row.original, docId);
-        return <StatusBadgeCell status={status} note={note} isRedList={isRedList} t={t} />;
-      },
-      enableSorting: true,
-      enableColumnFilter: true,
-      size: 120,
-      minSize: 80,
-      maxSize: 200,
-    }
-  );
+              <ArrowDown className="h-3 w-3" />
+            )
+          ) : (
+            <ArrowUpDown className="h-3 w-3 opacity-50" />
+          )}
+        </button>
+      </div>
+    ),
+    meta: {
+      docId,
+      isGroupHeader: false,
+      docUrl: doc.url,
+      docShortName: doc.shortName[locale as "vi" | "en"],
+    } as ColumnMeta,
+    cell: (info) => {
+      const { status, note } = getStatusAndNote(info.row.original, docId);
+      return (
+        <StatusBadgeCell
+          status={status}
+          note={note}
+          isRedList={isRedList}
+          t={t}
+        />
+      );
+    },
+    enableSorting: true,
+    enableColumnFilter: true,
+    size: 120,
+    minSize: 80,
+    maxSize: 200,
+  });
 }
 
 function createMultiCategoryColumns(
@@ -174,7 +174,14 @@ function createMultiCategoryColumns(
             category,
             locale
           );
-          return <StatusBadgeCell status={status} note={note} isRedList={isRedList} t={t} />;
+          return (
+            <StatusBadgeCell
+              status={status}
+              note={note}
+              isRedList={isRedList}
+              t={t}
+            />
+          );
         },
         enableSorting: true,
         enableColumnFilter: true,
@@ -192,6 +199,7 @@ export function createLegalDocumentColumns(
   locale: string,
   t: TranslationFunction
 ) {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const columns: any[] = [];
 
   selectedDocuments.forEach((docId) => {
