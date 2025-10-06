@@ -68,7 +68,8 @@
     "noRegulation": "No regulation in this document"
   },
   "empty": {
-    "selectDocument": "Please select at least one legal document to view species data."
+    "selectDocument": "Please select at least one legal document to view species data.",
+    "noResults": "No species found matching your search criteria."
   },
   "legalDocuments": {
     "title": "Reference Legal Documents",

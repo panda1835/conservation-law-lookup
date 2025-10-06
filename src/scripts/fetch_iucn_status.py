@@ -193,7 +193,8 @@ def main():
         "nd160_2013.json",
         "nd64_2019.json",
         "nd84_2021.json",
-        "tt27_2025.json"
+        "tt27_2025.json",
+        "vnredlist_status.json"
     ]
     
     # Collect all unique scientific names
@@ -276,6 +277,12 @@ def main():
             }
             formatted_data.append(formatted_entry)
             
+            # Save the formatted results to a JSON file
+            output_file = lib_dir / "iucn_status_new.json"
+            
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(formatted_data, f, indent=4, ensure_ascii=False)
+                
         elif status_data['status'] == 'not_found':
             print(f"  ⚠ Not found in IUCN database")
         else:
@@ -285,11 +292,7 @@ def main():
         # Add a small delay to be respectful
         time.sleep(0.5)
     
-    # Save the formatted results to a JSON file
-    output_file = lib_dir / "iucn_status.json"
     
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(formatted_data, f, indent=4, ensure_ascii=False)
     
     print(f"\n✓ IUCN status data saved to: {output_file}")
     print(f"  Format: Structured JSON matching existing data format")

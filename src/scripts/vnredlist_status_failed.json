@@ -1,0 +1,64 @@
+[
+  {
+    "scientific_name": {
+      "value": "Heliotropium arboreum",
+      "note": ""
+    },
+    "common_name": {
+      "value": "Phong ba",
+      "note": ""
+    },
+    "kingdom_latin": "PLANTAE",
+    "kingdom_vi": "",
+    "phylum_latin": "MAGNOLIOPHYTA",
+    "phylum_vi": "",
+    "class_latin": "MAGNOLIOPSIDA",
+    "class_vi": "",
+    "order_latin": "BORAGINALES",
+    "order_vi": "",
+    "family_latin": "BORAGINACEAE",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "Danh lục Đỏ Việt Nam",
+          "en": "Vietnam Red List"
+        },
+        "value": "VU",
+        "note": "http://vnredlist.vast.vn/heliotropium-arboreum-blanco-mabb-2017/"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Dioscorea membranacea",
+      "note": ""
+    },
+    "common_name": {
+      "value": "Từ mỏng",
+      "note": ""
+    },
+    "kingdom_latin": "PLANTAE",
+    "kingdom_vi": "",
+    "phylum_latin": "MAGNOLIOPHYTA",
+    "phylum_vi": "",
+    "class_latin": "LILIOPSIDA",
+    "class_vi": "",
+    "order_latin": "DIOSCOREALES",
+    "order_vi": "",
+    "family_latin": "DIOSCOREACEAE",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "Danh lục Đỏ Việt Nam",
+          "en": "Vietnam Red List"
+        },
+        "value": "EN",
+        "note": "http://vnredlist.vast.vn/dioscorea-membranacea-craib-1914/"
+      }
+    ]
+  }
+]
