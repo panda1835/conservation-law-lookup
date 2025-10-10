@@ -68,14 +68,14 @@ export function SpeciesImageThumbnail({
               target.src = "/placeholder-wildlife.svg";
             }}
           />
-          {validImages.length > 1 && (
+          {/* {validImages.length > 1 && (
             <Badge
               variant="secondary"
               className="absolute -top-1 -right-1 text-xs px-1 py-0 min-w-0 h-4 bg-blue-600 text-white"
             >
               {validImages.length}
             </Badge>
-          )}
+          )} */}
           <div className="absolute inset-0  bg-opacity-0 group-hover:bg-opacity-10 transition-opacity rounded" />
         </div>
       </DialogTrigger>
@@ -86,7 +86,7 @@ export function SpeciesImageThumbnail({
           <Button
             variant="ghost"
             size="icon"
-            className="absolute top-4 right-4 z-10 text-white hover:bg-white/20"
+            className="absolute top-4 right-4 z-10 text-white bg-black"
             onClick={() => setIsOpen(false)}
           >
             <X className="w-6 h-6" />
@@ -111,7 +111,7 @@ export function SpeciesImageThumbnail({
                 <Button
                   variant="ghost"
                   size="icon"
-                  className="absolute left-4 text-white hover:bg-white/20"
+                  className="absolute left-4 text-white bg-black"
                   onClick={prevImage}
                 >
                   <ChevronLeft className="w-8 h-8" />
@@ -120,7 +120,7 @@ export function SpeciesImageThumbnail({
                 <Button
                   variant="ghost"
                   size="icon"
-                  className="absolute right-4 text-white hover:bg-white/20"
+                  className="absolute right-4 text-white bg-black"
                   onClick={nextImage}
                 >
                   <ChevronRight className="w-8 h-8" />
