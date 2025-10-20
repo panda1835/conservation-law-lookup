@@ -1,5 +1,9 @@
+"use client";
+
 import { useTranslations, useLocale } from "next-intl";
 import LanguageSwitcher from "./LanguageSwitcher";
+import { Button } from "../ui/button";
+
 export const Header = () => {
   const t = useTranslations();
   const locale = useLocale();
@@ -8,14 +12,19 @@ export const Header = () => {
     <div className="">
       <div className="ml-4 flex justify-end mb-4">
         <div className="flex items-center gap-4 text-sm ">
-          <a
-            href={`https://forms.gle/cUMpRzggPJvDqoSi9`}
+          <Button
+            onClick={() =>
+              window.open(
+                "https://forms.gle/cUMpRzggPJvDqoSi9",
+                "_blank",
+                "noopener,noreferrer"
+              )
+            }
+            size="sm"
             className="hover:underline"
-            target="_blank"
-            rel="noopener noreferrer"
           >
             {t("header.contributeImages")}
-          </a>
+          </Button>
           <LanguageSwitcher currentLocale={locale} />
         </div>
       </div>

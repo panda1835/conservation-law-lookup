@@ -5,6 +5,7 @@ import { routing } from "@/i18n/routing";
 import { Metadata } from "next";
 import "../globals.css";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Header } from "@/components/home/Header";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -40,7 +41,16 @@ export default async function LocaleLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        <NextIntlClientProvider>
+          <div className="min-h-screen flex flex-col">
+            <main className="flex-1">
+              <div className="container mx-auto p-6 space-y-6">
+                <Header />
+                {children}
+              </div>
+            </main>
+          </div>
+        </NextIntlClientProvider>
       </body>
       <GoogleAnalytics gaId={process.env.GA_ID!} />
     </html>

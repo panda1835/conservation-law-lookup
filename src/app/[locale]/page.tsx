@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { useTranslations, useLocale } from "next-intl";
-import { Header } from "@/components/home/Header";
 import { Footer } from "@/components/home/Footer";
 import { SpeciesControls } from "@/components/species/SpeciesControls";
 import { SpeciesTable } from "@/components/species/SpeciesTable";
@@ -54,43 +53,36 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <main className="flex-1">
-        <div className="container mx-auto p-6 space-y-6">
-          {/* Header with Language Switcher */}
-          <Header />
+    <>
+      {/* Controls */}
+      <SpeciesControls
+        selectedDocuments={selectedDocuments}
+        handleDocumentChange={handleDocumentChange}
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+        showTaxonomicDetails={showTaxonomicDetails}
+        setShowTaxonomicDetails={setShowTaxonomicDetails}
+        locale={locale}
+        t={t}
+      />
 
-          {/* Controls */}
-          <SpeciesControls
-            selectedDocuments={selectedDocuments}
-            handleDocumentChange={handleDocumentChange}
-            searchTerm={searchTerm}
-            setSearchTerm={setSearchTerm}
-            showTaxonomicDetails={showTaxonomicDetails}
-            setShowTaxonomicDetails={setShowTaxonomicDetails}
-            locale={locale}
-            t={t}
-          />
+      {/* Data Table */}
+      <SpeciesTable
+        filteredData={filteredData}
+        selectedDocuments={selectedDocuments}
+        documentLawCategories={documentLawCategories}
+        showTaxonomicDetails={showTaxonomicDetails}
+        searchTerm={searchTerm}
+        locale={locale}
+        t={t}
+        onExportCSV={exportToCSV}
+      />
 
-          {/* Data Table */}
-          <SpeciesTable
-            filteredData={filteredData}
-            selectedDocuments={selectedDocuments}
-            documentLawCategories={documentLawCategories}
-            showTaxonomicDetails={showTaxonomicDetails}
-            searchTerm={searchTerm}
-            locale={locale}
-            t={t}
-            onExportCSV={exportToCSV}
-          />
-
-          {/* Legal Documents Reference */}
-          <ChuThich selectedDocuments={selectedDocuments} />
-        </div>
-      </main>
+      {/* Legal Documents Reference */}
+      <ChuThich selectedDocuments={selectedDocuments} />
 
       {/* Footer */}
       <Footer />
-    </div>
+    </>
   );
 }
