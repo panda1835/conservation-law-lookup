@@ -4,6 +4,9 @@
     "subtitle": "Compare the protection levels of species across various legal documents in Vietnam",
     "contributeImages": "Contribute Images"
   },
+  "footer": {
+    "privacyPolicy": "Privacy Policy"
+  },
   "controls": {
     "searchAndFilter": "Search & Filter",
     "searchDescription": "Select legal documents to compare and search for specific species",
@@ -84,6 +87,11 @@
     "Danh mục II": "Category II",
     "Phụ lục I": "Appendix I",
     "Phụ lục II": "Appendix II"
+  },
+  "citesCategories": {
+    "I": "Appendix I",
+    "II": "Appendix II",
+    "III": "Appendix III"
   },
   "iucnCategories": {
     "EX": "Extinct",

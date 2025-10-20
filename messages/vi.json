@@ -4,6 +4,9 @@
     "subtitle": "So sánh mức độ bảo vệ của các loài qua nhiều văn bản pháp luật của Việt Nam",
     "contributeImages": "Đóng góp ảnh"
   },
+  "footer": {
+    "privacyPolicy": "Chính sách Bảo mật"
+  },
   "controls": {
     "searchAndFilter": "Tìm kiếm & Bộ lọc",
     "searchDescription": "Chọn văn bản pháp luật để so sánh và tìm kiếm loài cụ thể",
@@ -84,6 +87,11 @@
     "Danh mục II": "Danh mục II",
     "Phụ lục I": "Phụ lục I",
     "Phụ lục II": "Phụ lục II"
+  },
+  "citesCategories": {
+    "I": "Phụ lục I",
+    "II": "Phụ lục II",
+    "III": "Phụ lục III"
   },
   "iucnCategories": {
     "EX": "Tuyệt chủng",

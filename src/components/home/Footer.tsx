@@ -11,10 +11,10 @@ export function Footer() {
         <p className="mb-2">© {new Date().getFullYear()} All rights reserved</p>
         <div className="flex justify-center gap-4 text-xs">
           <a
-            href="mailto:info@borua.dev"
+            href="mailto:lehoangphuc1820@gmail.com"
             className="hover:text-foreground transition-colors"
           >
-            info@borua.dev
+            lehoangphuc1820@gmail.com
           </a>
           <span>•</span>
           <a
@@ -33,6 +33,16 @@ export function Footer() {
             Website
           </a>
         </div>
+        <p className="mt-2">
+          <a
+            href={`/${locale}/privacy-policy`}
+            className="hover:text-foreground transition-colors text-xs"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {locale === "vi" ? "Chính sách Bảo mật" : "Privacy Policy"}
+          </a>
+        </p>
       </div>
     </footer>
   );
