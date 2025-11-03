@@ -4,6 +4,7 @@ import nd64Data from "@/lib/nd64_2019.json";
 import nd84Data from "@/lib/nd84_2021.json";
 import nd160Data from "@/lib/nd160_2013.json";
 import tt27Data from "@/lib/tt27_2025.json";
+// import citesData from "@/lib/cites.json";
 import iucnData from "@/lib/iucn_status.json";
 import vnredlistData from "@/lib/vnredlist_status.json";
 
@@ -145,6 +146,23 @@ export const LEGAL_DOCUMENTS: LegalDocument[] = [
       en: "",
     },
   },
+  // {
+  //   id: "cites",
+  //   name: {
+  //     vi: "Công ước về Buôn bán Quốc tế các loài Động vật, Thực vật Hoang dã nguy cấp (CITES): là một hiệp định quốc tế nhằm đảm bảo rằng việc buôn bán quốc tế các mẫu vật động vật và thực vật hoang dã không đe dọa sự tồn tại của chúng.",
+  //     en: "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES): is an international agreement between governments to ensure that international trade in specimens of wild animals and plants does not threaten their survival.",
+  //   },
+  //   shortName: {
+  //     vi: "CITES",
+  //     en: "CITES",
+  //   },
+  //   data: citesData as Species[],
+  //   url: "https://cites.org/eng/app/appendices.php",
+  //   description: {
+  //     vi: "",
+  //     en: "",
+  //   },
+  // },
   {
     id: "iucn",
     name: {

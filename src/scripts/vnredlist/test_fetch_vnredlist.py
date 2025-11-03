@@ -9,7 +9,7 @@ import os
 # Add the scripts directory to the path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from fetch_vnredlist_status import fetch_conservation_status, scientific_name_to_url_slug, BASE_URL
+from scripts.vnredlist.fetch_vnredlist_status import fetch_conservation_status, scientific_name_to_url_slug, BASE_URL
 
 def test_elephas_maximus():
     """Test with the example species: Elephas maximus"""

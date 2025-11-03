@@ -1,0 +1,4001 @@
+[
+  {
+    "scientific_name": {
+      "value": "Bos sauveli",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Capricornis milneedwardsii",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pseudoryx nghetinhensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Axis porcinus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "Except the subspecies included in Appendix I) (Pakistan"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Axis porcinus annamiticus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Muntiacus vuquangensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Rucervus eldii",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Moschus berezovskii",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": "Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I."
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Canis aureus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "India"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cuon alpinus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Catopuma temminckii",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Neofelis nebulosa",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Panthera pardus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Panthera tigris",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pardofelis marmorata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Aonyx cinereus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Lutra lutra",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Lutrogale perspicillata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Helarctos malayanus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Ursus thibetanus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Arctictis binturong",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "India"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Paguma larvata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "India"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Paradoxurus hermaphroditus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "India"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Prionodon pardicolor",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Viverra zibetha",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "India"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Viverricula indica",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "India"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Sousa chinensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Manis javanica",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Manis pentadactyla",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pygathrix nigripes",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pygathrix nemaeus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pygathrix cinerea",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Rhinopithecus avunculus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Nycticebus pygmaeus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Nycticebus bengalensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Elephas maximus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Ratufa bicolor",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Dugong dugon",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Asarcornis scutulata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Sarkidiornis melanotos",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Tringa guttifer",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Ciconia nigra",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mycteria cinerea",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Caloenas nicobarica",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Aceros nipalensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Anorrhinus tickelli",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Anorrhinus austeni",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Anthracoceros albirostris",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Buceros bicornis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Aquila heliaca",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Haliaeetus albicilla",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Falco jugger",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Falco peregrinus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Lophura edwardsi",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pavo muticus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Polyplectron bicalcaratum",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Polyplectron germaini",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Rheinardia ocellata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Houbaropsis bengalensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Copsychus malabaricus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Garrulax canorus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Leiothrix argentauris",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Leiothrix lutea",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pitta nympha",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Gracula religiosa",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Crocodylus siamensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Physignathus cocincinus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Goniurosaurus spp.",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": "Except the species native to Japan"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cnemaspis psychedelica",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Gekko gecko",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Varanus nebulosus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Shinisaurus crocodilurus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Naja atra",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Naja kaouthia",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Naja siamensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Ophiophagus hannah",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Dermochelys coriacea",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Batagur affinis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cuora bourreti",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cuora galbinifrons",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cuora picturata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cyclemys oldhamii",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cyclemys oldhami",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cyclemys pulchristriata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cyclemys atripons",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Cyclemys dentata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Geoemyda spengleri",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Heosemys grandis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Malayemys subtrijuga",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mauremys annamensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mauremys mutica",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mauremys nigricans",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mauremys sinensis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "III",
+        "note": "China"
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Sacalia quadriocellata",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Siebenrockiella crassicollis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Palea steindachneri",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pelochelys cantorii",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Rafetus swinhoei",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Paramesotriton spp.",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Tylototriton spp.",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Alopias superciliosus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Alopias pelagicus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Isurus oxyrinchus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mobula birostris",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Mobula eregoodoo",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Rhincodon typus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Glaucostegus thouin",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Glaucostegus typus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Probarbus jullieni",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Scleropages formosus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Pangasianodon gigas",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "I",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus trimaculatus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus histrix",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus kuda",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus mohnikei",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus spinosissimus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus kelloggi",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Hippocampus comes",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Thelenota ananas",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Holothuria fuscogilva",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Holothuria nobilis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Teinopalpus aureus aureus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Teinopalpus imperialis imperialis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Teinopalpus aureus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Teinopalpus imperialis",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Troides aeacus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Troides helena cerberus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Troides helena",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "scientific_name": {
+      "value": "Troides aeacus aeacus",
+      "note": ""
+    },
+    "common_name": {
+      "value": "",
+      "note": ""
+    },
+    "kingdom_latin": "",
+    "kingdom_vi": "",
+    "phylum_latin": "",
+    "phylum_vi": "",
+    "class_latin": "",
+    "class_vi": "",
+    "order_latin": "",
+    "order_vi": "",
+    "family_latin": "",
+    "family_vi": "",
+    "note": "",
+    "laws": [
+      {
+        "name": {
+          "vi": "CITES",
+          "en": "CITES"
+        },
+        "value": "II",
+        "note": ""
+      }
+    ]
+  }
+]
