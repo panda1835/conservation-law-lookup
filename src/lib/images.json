@@ -313,6 +313,10 @@
   ],
   "Manouria impressa": [
     {
+      "image_url": "/contributed/Manouria-impressa/1.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
       "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207900849/medium.jpg",
       "attribute": "(c) ayuwat, some rights reserved (CC BY-NC)"
     }
@@ -474,6 +478,10 @@
     }
   ],
   "Chrotogale owstoni": [
+    {
+      "image_url": "/contributed/Chrotogale-owstoni/1.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
     {
       "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215678231/medium.jpeg",
       "attribute": "(c) 刘光裕 Liu Guangyu，保留部分权利（CC BY-NC）, 由 刘光裕 Liu Guangyu 上传"
@@ -900,6 +908,10 @@
     }
   ],
   "Arctictis binturong": [
+    {
+      "image_url": "/contributed/Arctictis-binturong/1.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
     {
       "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145153388/medium.jpg",
       "attribute": "(c) Joachim S. Müller, some rights reserved (CC BY-NC-SA)"
@@ -1976,6 +1988,22 @@
   ],
   "Manis javanica": [
     {
+      "image_url": "/contributed/Manis-javanica/1.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
+      "image_url": "/contributed/Manis-javanica/2.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
+      "image_url": "/contributed/Manis-javanica/3.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
+      "image_url": "/contributed/Manis-javanica/4.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
       "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101596/medium.jpg",
       "attribute": "(c) Firman, some rights reserved (CC BY), uploaded by Firman",
       "source": "https://www.inaturalist.org/observations/66841"
@@ -2249,6 +2277,10 @@
   ],
   "Varanus salvator": [
     {
+      "image_url": "/contributed/Varanus-salvator/1.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
       "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522041853/large.jpg",
       "attribute": "(c) Anton Dangl, some rights reserved (CC BY-NC), uploaded by Anton Dangl",
       "source": "https://www.inaturalist.org/observations/290215328"
@@ -2276,6 +2308,17 @@
     },
     {
       "image_url": "/contributed/Taxus-wallichiana/2.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    }
+  ],
+
+  "Cephalotaxus mannii": [
+    {
+      "image_url": "/contributed/Cephalotaxus-mannii/1.jpg",
+      "attribute": "(c) XoanKLLĐ"
+    },
+    {
+      "image_url": "/contributed/Cephalotaxus-mannii/2.jpg",
       "attribute": "(c) XoanKLLĐ"
     }
   ]
