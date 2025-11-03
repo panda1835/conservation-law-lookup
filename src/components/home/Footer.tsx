@@ -2,7 +2,7 @@ import { useLocale } from "next-intl";
 export function Footer() {
   const locale = useLocale();
   return (
-    <footer className="mt-12 py-8 border-t bg-muted/50">
+    <footer className="mt-12 py-8 border-t ">
       <div className="max-w-6xl mx-auto px-4 text-center text-sm text-muted-foreground">
         <p className="mb-2">
           Built by <span className="font-medium text-foreground">Phuc</span>{" "}
@@ -11,10 +11,10 @@ export function Footer() {
         <p className="mb-2">© {new Date().getFullYear()} All rights reserved</p>
         <div className="flex justify-center gap-4 text-xs">
           <a
-            href="mailto:info@borua.dev"
+            href="mailto:lehoangphuc1820@gmail.com"
             className="hover:text-foreground transition-colors"
           >
-            info@borua.dev
+            lehoangphuc1820@gmail.com
           </a>
           <span>•</span>
           <a
@@ -33,6 +33,16 @@ export function Footer() {
             Website
           </a>
         </div>
+        <p className="mt-2">
+          <a
+            href={`/${locale}/privacy-policy`}
+            className="hover:text-foreground transition-colors text-xs"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {locale === "vi" ? "Chính sách Bảo mật" : "Privacy Policy"}
+          </a>
+        </p>
       </div>
     </footer>
   );
